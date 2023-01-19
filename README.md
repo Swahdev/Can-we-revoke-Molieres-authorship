@@ -2,5 +2,3 @@
 Can we revoke Molière’s authorship ?
 
 
-
-je peux commit je suis colaborator 
