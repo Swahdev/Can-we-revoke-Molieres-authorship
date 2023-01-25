@@ -9,11 +9,11 @@
 
 -> Des études auraient prouvées l'hypothèse Cornelliène dans les années 2000
 
-# Problèmatique
+## Problèmatique
 
 Comment vérifier que Molière est le véritable auteur de ses pièces ?
 
-# Expérience
+### Expérience
 
 L'étude "Why Molière most likely did write his plays" de Florian Cafiero,
 Jean-Baptiste Camps. 
@@ -37,7 +37,7 @@ Jean-Baptiste Camps.
 - Il a fallu faire attention aux reprises et aux inspirations entre les
 différentes époques/auteurs.
 
-# Résultat
+#### Résultat
 
 Comme il est dit en conclusion de l'interview, ce type d'étude, purement 
 statistique a permis de donner des arguments aux chercheurs en littérature 
