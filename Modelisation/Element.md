@@ -97,3 +97,30 @@ grande influence ou de leur position stratégique.
 étaient limitées aux textes de Molière et de quelques autres auteurs de la même
 époque.  En utilisant des corpus de textes plus vastes et plus variés, il est
 possible d'obtenir des résultats plus précis et plus généralisables.
+
+## Etapes
+
+1. Prétraitement du texte: Avant d'appliquer des techniques d'analyse, il est
+important de nettoyer et de normaliser les données de texte. Cela peut inclure
+la suppression de la ponctuation, des chiffres, des stopwords, la mise en
+minuscule, etc.
+    > Outils : NLTK, spaCy, Gensim, TextBlob, etc.
+
+2. Extraction de caractéristiques : Une fois que vous avez prétraité le texte, vous
+pouvez extraire des caractéristiques qui aideront à identifier les similarités
+et les différences entre les textes. Les n-grammes sont une méthode courante
+d'extraction de caractéristiques qui peuvent être utilisées pour représenter les
+textes en termes de séquences de mots. Vous pouvez également utiliser des
+techniques de vectorisation telles que TF-IDF pour représenter les textes en
+tant que vecteurs.
+
+3. Analyse de sentiment : L'analyse de sentiment peut être réalisée en utilisant
+des techniques telles que la classification de texte, qui consiste à entraîner
+un modèle pour prédire le sentiment d'un texte donné (positif, négatif ou
+neutre). Vous pouvez entraîner votre propre modèle en utilisant un ensemble de
+données annotées en sentiment ou utiliser un modèle pré-entraîné.
+
+4. Analyse de thème : L'analyse de thème peut être réalisée en utilisant des
+techniques de modélisation de sujets telles que LDA (Latent Dirichlet
+Allocation). Cette technique peut être utilisée pour identifier les thèmes
+dominants dans un ensemble de documents.
