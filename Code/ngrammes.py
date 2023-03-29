@@ -28,7 +28,7 @@ def construction_graphes(fichier_entre, n):
     # Création du graphe
     G = nx.Graph()
     for ngramme, poids in compteur.items():
-        G.add_node(ngramme, poids=poids)
+        G.add_node(ngramme, weight=poids)  # Modification de poids en weight
     # Calcul des poids des arêtes
     for u, v in nx.non_edges(G):
         poids_u = G.nodes[u]['weight']
@@ -42,7 +42,7 @@ def construction_graphes(fichier_entre, n):
 
 
 if __name__ == '__main__':
-    dossier = 'Code/Fichiers_Pretraitement'
+    dossier = 'Fichiers_Pretraitement'
     fichier_entre = glob.glob(os.path.join(dossier, '*.txt'))
 
     # Construction du graphe 4-grammes
@@ -55,4 +55,3 @@ if __name__ == '__main__':
     nx.draw(G, pos, node_color='#A0CBE2', width=weights,
             edge_color=weights, edge_cmap=plt.cm.Blues, with_labels=True)
     plt.show()
-
