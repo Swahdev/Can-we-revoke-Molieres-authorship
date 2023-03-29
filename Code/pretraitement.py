@@ -1,38 +1,48 @@
-from nltk.tokenize import word_tokenize
-from nltk.stem.porter import FrenchStemmer
-from nltk.corpus import stopwords
 import nltk
 import os
 import glob
+import re
+from nltk.tokenize import TweetTokenizer, word_tokenize
+from nltk.stem import SnowballStemmer
+from nltk.corpus import stopwords
 
 nltk.download('stopwords')
+nltk.download('punkt')
+stopwords_fr = set(stopwords.words('french'))
+
+tokenizer = TweetTokenizer(
+    preserve_case=False, reduce_len=True, strip_handles=True)
+stemmer = SnowballStemmer('french')
+
+mots_a_supprimer = ['html', 'http', 'xml', 'fr',
+                    'teihead', 'filedesc', 'titlestmt', 'titl']
 
 
 def pretraitement(texte):
-    # Tokenisation des mots et suppression de la ponctuation
-    tokens = word_tokenize(texte, language='french')
-    mots = [token.lower() for token in tokens if token.isalpha()]
-
-    # Suppression des stopwords
-    stop_words = set(stopwords.words('french'))
-    mots_sans_stopwords = [mot for mot in mots if mot not in stop_words]
-
-    # Stemming des mots
-    stemmer = FrenchStemmer()
-    mots_stem = [stemmer.stem(mot) for mot in mots_sans_stopwords]
-
-    return mots_stem
+    # Suppression des balises XML
+    texte = re.sub('<[^<]+>', '', texte)
+    # Tokenisation des phrases
+    phrases = nltk.sent_tokenize(texte, language='french')
+    # Tokenisation des mots et suppression des mots non français, les stopwords et les mots à supprimer
+    mots = []
+    for phrase in phrases:
+        tokens = tokenizer.tokenize(phrase)
+        for token in tokens:
+            if token.isalpha() and token.lower() not in stopwords_fr and token.lower() not in mots_a_supprimer:
+                mots.append(stemmer.stem(token.lower()))
+    return mots
 
 
 if __name__ == '__main__':
     # Récupération des fichiers à prétraiter
-    dossier_xml = 'Code/Fichier_XML'
-    dossier_sortie = 'Code/Fichiers_Pretraitement'
+    dossier_xml = 'Fichier_XML'
+    dossier_sortie = 'Fichiers_Pretraitement'
     # Recherche de tous les fichiers XML dans le dossier d'entrée
     fichiers_entree = glob.glob(os.path.join(dossier_xml, '*.xml'))
     # Boucle sur tous les fichiers XML trouvés
     for fichier_entree in fichiers_entree:
-        # Construire le nom de fichier de sortie en remplaçant l'extension ".xml" par ".txt"
+        # Construire le nom de fichier de sortie en remplaçant l'extension
+        # ".xml" par ".txt"
         nom_fichier_sortie = os.path.splitext(
             os.path.basename(fichier_entree))[0] + '.txt'
         chemin_fichier_sortie = os.path.join(

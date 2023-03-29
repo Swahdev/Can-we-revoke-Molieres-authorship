@@ -55,3 +55,4 @@ if __name__ == '__main__':
     nx.draw(G, pos, node_color='#A0CBE2', width=weights,
             edge_color=weights, edge_cmap=plt.cm.Blues, with_labels=True)
     plt.show()
+
