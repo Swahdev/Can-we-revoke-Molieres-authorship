@@ -2,6 +2,7 @@ import nltk
 import os
 import glob
 import re
+import langdetect
 from nltk.tokenize import TweetTokenizer, word_tokenize
 from nltk.stem import SnowballStemmer
 from nltk.corpus import stopwords
@@ -21,22 +22,26 @@ mots_a_supprimer = ['html', 'http', 'xml', 'fr',
 def pretraitement(texte):
     # Suppression des balises XML
     texte = re.sub('<[^<]+>', '', texte)
-    # Tokenisation des phrases
-    phrases = nltk.sent_tokenize(texte, language='french')
-    # Tokenisation des mots et suppression des mots non français, les stopwords et les mots à supprimer
-    mots = []
-    for phrase in phrases:
-        tokens = tokenizer.tokenize(phrase)
-        for token in tokens:
-            if token.isalpha() and token.lower() not in stopwords_fr and token.lower() not in mots_a_supprimer:
-                mots.append(stemmer.stem(token.lower()))
-    return mots
+    # Extraction de tous les mots en minuscules
+    mots = re.findall(r'\b\w+\b', texte.lower(), flags=re.UNICODE)
+    # Suppression des mots non français, des stopwords et des mots à supprimer
+    mots_filtres = []
+    for mot in mots:
+        # Conserver les mots contenant des tirets ou des apostrophes
+        if mot not in stopwords_fr and mot not in mots_a_supprimer:
+            try:
+                # Vérification que le mot est en français
+                if langdetect.detect(mot) == 'fr':
+                    mots_filtres.append(mot)
+            except:
+                pass
+    return mots_filtres
 
 
 if __name__ == '__main__':
     # Récupération des fichiers à prétraiter
-    dossier_xml = 'Fichier_XML'
-    dossier_sortie = 'Fichiers_Pretraitement'
+    dossier_xml = 'Code/Fichier_XML'
+    dossier_sortie = 'Code/Fichiers_Pretraitement'
     # Recherche de tous les fichiers XML dans le dossier d'entrée
     fichiers_entree = glob.glob(os.path.join(dossier_xml, '*.xml'))
     # Boucle sur tous les fichiers XML trouvés
