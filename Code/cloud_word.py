@@ -1,6 +1,6 @@
 import os
 from os import path
-from wordcloud import WordCloud
+from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 
 
@@ -21,7 +21,9 @@ def main():
         "height": 1000,
         "max_words": 2000,
         "max_font_size": 150,
-        "prefer_horizontal": 1.0
+        "prefer_horizontal": 1.0,
+        # liste de stopwords à supprimer
+        "stopwords": ["pourceaugnac", "jourdain"]
     }
 
     # Generate a word cloud image
