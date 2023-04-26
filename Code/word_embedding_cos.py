@@ -7,7 +7,8 @@ from os import path
 
 def main():
     # Charger le modèle FastText French
-    ft = fasttext.load_model("cc.fr.300.bin")
+    ft = fasttext.load_model(
+        "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/cc.fr.300.bin")
 
     # Chargement des textes de Corneille prétraités
     corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Corneille-pre-traitement"
