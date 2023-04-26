@@ -7,8 +7,7 @@ from os import path
 
 def main():
     # Charger le modèle FastText French
-    ft = fasttext.load_model(
-        "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/cc.fr.300.bin")
+    ft = fasttext.load_model("/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/cc.fr.300.bin")
 
     # Chargement des textes de Corneille prétraités
     corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Corneille-pre-traitement"
@@ -44,10 +43,8 @@ def main():
             if vectors:
                 text_vector = np.mean(vectors, axis=0)
                 for corneille_file, corneille_vector in corpus_vectors.items():
-                    similarity = np.dot(text_vector, corneille_vector) / (
-                        np.linalg.norm(text_vector) *
-                        np.linalg.norm(corneille_vector))
-                    print(f"{file_name} {corneille_file} {similarity}")
+                    distance = np.sum(np.abs(text_vector - corneille_vector))
+                    print(f"{file_name} {corneille_file} {distance}")
 
 
 if __name__ == '__main__':
