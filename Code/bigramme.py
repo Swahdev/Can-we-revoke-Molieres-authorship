@@ -7,7 +7,7 @@ from nltk.corpus import stopwords
 def main():
 
     # Path to corpus directory
-    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Fichiers_Pretraitement"
+    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Corneille-pre-traitement"
 
     # Get list of all corpus files
     corpus_files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt")]

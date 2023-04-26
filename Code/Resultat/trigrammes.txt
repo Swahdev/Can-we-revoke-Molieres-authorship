@@ -1,3 +1,4 @@
+Corpus Molière :
 ('monsieur', 'oui', 'monsieur') 16
 ('où', 'peut', 'être') 10
 ('puis', 'après', 'louison') 8
@@ -23,3 +24,31 @@
 ('tour', 'plus', 'quoi') 6
 ('plus', 'quoi', 'plus') 6
 ('quoi', 'plus', 'amour') 6
+
+Corpus Corneille :
+
+('plus', 'puis', 'faire') 6
+('plus', 'amour', 'plus') 6
+('amour', 'plus', 'plus') 6
+('faisons', 'deux', 'écrit') 6
+('lettre', 'supposée', 'mélite') 6
+('plus', 'quoi', 'seigneur') 5
+('oui', 'seigneur', 'cœur') 5
+('édition', 'donne', 'seule') 5
+('appâts', 'faisons', 'deux') 5
+('trouver', 'plus', 'doux') 5
+('autre', 'peu', 'moins') 5
+('après', 'avoir', 'deux') 5
+('cœur', 'plus', 'plus') 5
+('plus', 'jeune', 'plus') 5
+('jeune', 'plus', 'rois') 5
+('illustre', 'époux', 'seul') 5
+('arsinoé', 'cléone', 'arsinoé') 5
+('état', 'où', 'réduit') 4
+('plus', 'plus', 'amour') 4
+('autre', 'plus', 'plus') 4
+('peut', 'plus', 'soutenir') 4
+('plus', 'peu', 'moins') 4
+('plus', 'plus', 'doux') 4
+('plus', 'beaux', 'feux') 4
+('état', 'où', 'deux') 4

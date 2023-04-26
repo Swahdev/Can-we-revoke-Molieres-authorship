@@ -5,7 +5,7 @@ from nltk.corpus import stopwords
 
 
 def main():
-    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Fichiers_Pretraitement"
+    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Corneille-pre-traitement"
 
     corpus_files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt")]
 
@@ -25,7 +25,7 @@ def main():
     # Generate trigrams
     trigrams = nltk.trigrams(tokens)
     filtered_trigrams = [trigram for trigram in trigrams if "jourdain" not in trigram and "sotenville" not in trigram and "pourceaugnac" not in trigram and "croisy" not in trigram and trigram != (
-        "monsieur", "monsieur", "monsieur") and trigram != ("jourdain", "monsieur", "jourdain") and trigram != ("monsieur", "jourdain", "monsieur") and trigram != ("monsieur", "monsieur", "jourdain") and trigram != ("amour", "amour", "amour") and trigram != ("monsieur", "monsieur", "oui") and trigram != ("plus", "plus", "plus")]
+        "monsieur", "monsieur", "monsieur") and trigram != ("jourdain", "monsieur", "jourdain") and trigram != ("monsieur", "jourdain", "monsieur") and trigram != ("monsieur", "monsieur", "jourdain") and trigram != ("amour", "amour", "amour") and trigram != ("monsieur", "monsieur", "oui") and trigram != ("plus", "plus", "plus") and trigram != ('discours', 'trois', 'unités') and trigram != ('toutes', 'éditions', 'publiées') and trigram != ('histoires', 'livre', 'chapitre') and trigram != ('œuvres', 'complètes', 'œuvres') and trigram != ('complètes', 'œuvres', 'complètes') and trigram != ('éditions', 'collationnées', 'personnages') and trigram != ('éditions', 'collationnées', 'éditions') and trigram != ('collationnées', 'éditions', 'séparées') and trigram != ('éditions', 'séparées', 'acteurs') and trigram != ('extrait', 'éditions', 'collationnées')]
 
     # count frequency of trigrams
     freq_dist = nltk.FreqDist(filtered_trigrams)

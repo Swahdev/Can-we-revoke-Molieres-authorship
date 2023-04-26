@@ -1,3 +1,4 @@
+Corpus Molière :
 ('peut', 'être') 235
 ('oui', 'monsieur') 114
 ('comme', 'faut') 108
@@ -23,3 +24,31 @@
 ('monsieur', 'oui') 33
 ('puis', 'plus') 33
 ('autre', 'monsieur') 32
+
+Corpus Corneille :
+
+('après', 'avoir') 117
+('peu', 'plus') 97
+('plus', 'doux') 76
+('plus', 'amour') 72
+('peut', 'être') 67
+('peu', 'moins') 63
+('plus', 'moins') 61
+('entre', 'deux') 61
+('amour', 'plus') 61
+('état', 'où') 59
+('peut', 'plus') 59
+('cœur', 'plus') 58
+('livre', 'chapitre') 56
+('plus', 'cœur') 53
+('peut', 'faire') 53
+('comme', 'faut') 51
+('faut', 'plus') 49
+('être', 'plus') 49
+('autre', 'plus') 48
+('plus', 'heureux') 48
+('veux', 'plus') 45
+('puis', 'plus') 44
+('seigneur', 'plus') 44
+('plus', 'faire') 44
+('plus', 'seigneur') 44
