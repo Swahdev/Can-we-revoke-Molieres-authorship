@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 def main():
-    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Fichiers_Pretraitement"
+    corpus_dir = "Code/Fichiers_Pretraitement"
     corpus_files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt")]
 
     corpus_text = ""

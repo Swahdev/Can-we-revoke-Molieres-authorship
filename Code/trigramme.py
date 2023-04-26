@@ -5,7 +5,7 @@ from nltk.corpus import stopwords
 
 
 def main():
-    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Corneille-pre-traitement"
+    corpus_dir = "Code/Corneille-pre-traitement"
 
     corpus_files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt")]
 

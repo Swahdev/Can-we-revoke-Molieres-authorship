@@ -41,8 +41,8 @@ def pretraitement(texte):
 
 if __name__ == '__main__':
     # Récupération des fichiers à prétraiter
-    dossier_pdf = '/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Corneille'
-    dossier_sortie = '/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Corneille-pre-traitement'
+    dossier_pdf = 'Code/Corneille'
+    dossier_sortie = 'Code/Corneille-pre-traitement'
     # Recherche de tous les fichiers PDF dans le dossier d'entrée
     fichiers_entree = glob.glob(os.path.join(dossier_pdf, '*.pdf'))
     # Boucle sur tous les fichiers PDF trouvés

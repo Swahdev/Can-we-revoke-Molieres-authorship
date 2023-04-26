@@ -40,8 +40,8 @@ def pretraitement(texte):
 
 if __name__ == '__main__':
     # Récupération des fichiers à prétraiter
-    dossier_xml = '/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Fichier_XML'
-    dossier_sortie = '/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Fichiers_Pretraitement'
+    dossier_xml = 'Code/Fichier_XML'
+    dossier_sortie = 'Code/Fichiers_Pretraitement'
     # Recherche de tous les fichiers XML dans le dossier d'entrée
     fichiers_entree = glob.glob(os.path.join(dossier_xml, '*.xml'))
     # Boucle sur tous les fichiers XML trouvés

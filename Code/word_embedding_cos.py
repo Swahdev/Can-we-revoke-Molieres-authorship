@@ -8,10 +8,10 @@ from os import path
 def main():
     # Charger le modèle FastText French
     ft = fasttext.load_model(
-        "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/cc.fr.300.bin")
+        "Code/cc.fr.300.bin")
 
     # Chargement des textes de Corneille prétraités
-    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Corneille-pre-traitement"
+    corpus_dir = "Code/Corneille-pre-traitement"
     corpus_files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt")]
 
     # Calcul des vecteurs de chaque texte de Corneille
@@ -28,7 +28,7 @@ def main():
                 corpus_vectors[file_name] = np.mean(vectors, axis=0)
 
     # Chargement des textes de Molière prétraités
-    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Fichiers_Pretraitement"
+    corpus_dir = "Code/Fichiers_Pretraitement"
     corpus_files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt")]
 
     # Calcul des vecteurs de chaque texte de Molière et comparaison avec les

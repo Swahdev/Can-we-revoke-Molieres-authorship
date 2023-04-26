@@ -4,7 +4,7 @@ import numpy as np
 
 def main():
     # Chargement des textes de Corneille prétraités
-    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Corneille-pre-traitement"
+    corpus_dir = "Code/Corneille-pre-traitement"
     corpus_files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt")]
 
     # Calcul des ensembles de tokens de chaque texte de Corneille
@@ -18,7 +18,7 @@ def main():
                 corpus_token_sets[file_name] = tokens
 
     # Chargement des textes de Molière prétraités
-    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Fichiers_Pretraitement"
+    corpus_dir = "Code/Fichiers_Pretraitement"
     corpus_files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt")]
 
     # Calcul des ensembles de tokens de chaque texte de Molière et comparaison
