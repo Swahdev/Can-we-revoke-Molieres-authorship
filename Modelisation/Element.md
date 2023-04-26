@@ -30,3 +30,21 @@ pouvez comparer le corpus de Molière à d'autres corpus d'auteurs de la même
 époque et identifier les caractéristiques stylistiques distinctes de l'auteur.
 Vous pouvez utiliser des graphiques pour représenter la similarité entre les
 différents corpus.
+
+**L'analyse de similarité :**
+
+L'analyse de similaritéconsiste à mesurer la similarité entre des textes, des phrases ou des mots. Elle permet de déterminer à quel point deux éléments sont similaires ou différents en se basant sur des critères tels que la sémantique, la syntaxe ou le contexte. En d'autres termes, elle permet de comparer la proximité sémantique entre différents éléments du corpus.
+
+Pour effectuer une analyse de similarité, il existe plusieurs approches, telles que l'utilisation de modèles de plongement de mots (word embedding), de méthodes basées sur les co-occurrences de mots, ou encore d'algorithmes de clustering. Ces approches peuvent être utilisées pour des tâches telles que la classification automatique de textes, la suggestion de termes similaires ou encore l'analyse de sentiment.
+
+**Résultats :**
+
+Les résultats de la visualisation de la fréquence des mots, le nuage de mots, l'analyse des bigrammes et des trigrammes peuvent être utilisés de plusieurs manières pour étudier le corpus de Molière.
+
+Tout d'abord, la visualisation de la fréquence des mots peut donner une idée générale des termes les plus fréquemment utilisés dans le corpus de Molière, et ainsi permettre de déterminer les thèmes ou sujets les plus présents dans ses œuvres. Elle peut également aider à identifier les mots clés qui pourraient être utilisés pour effectuer des recherches plus ciblées sur des aspects spécifiques du corpus.
+
+Ensuite, le nuage de mots peut également fournir des informations sur les termes les plus utilisés dans le corpus, mais il est plus visuel et peut aider à donner une représentation graphique plus claire de la fréquence des termes. Il peut également être utilisé pour détecter des mots qui sont fréquemment utilisés ensemble dans le corpus, qui pourraient être liés à des thèmes ou des sujets spécifiques.
+
+L'analyse des bigrammes et des trigrammes peut aider à identifier des combinaisons de mots qui sont souvent utilisées ensemble, ce qui peut donner des informations sur la façon dont les termes sont utilisés dans le contexte du corpus. Cela peut être utile pour identifier les tournures de phrase les plus courantes dans le corpus, ou pour détecter des motifs dans l'utilisation de certains termes.
+
+En fin de compte, ces résultats peuvent être utilisés pour effectuer des analyses plus approfondies du corpus de Molière, notamment pour examiner les thèmes et les motifs récurrents dans ses œuvres, ou pour comparer son style et son utilisation de la langue à d'autres auteurs ou à d'autres périodes historiques.
