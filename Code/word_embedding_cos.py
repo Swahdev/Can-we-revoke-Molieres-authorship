@@ -31,7 +31,8 @@ def main():
     corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Fichiers_Pretraitement"
     corpus_files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt")]
 
-    # Calcul des vecteurs de chaque texte de Molière et comparaison avec les vecteurs de chaque texte de Corneille
+    # Calcul des vecteurs de chaque texte de Molière et comparaison avec les
+    # vecteurs de chaque texte de Corneille
     for file_name in corpus_files:
         with open(path.join(corpus_dir, file_name), "r", encoding="utf-8") as file:
             corpus_text = file.read()
@@ -44,7 +45,8 @@ def main():
                 text_vector = np.mean(vectors, axis=0)
                 for corneille_file, corneille_vector in corpus_vectors.items():
                     similarity = np.dot(text_vector, corneille_vector) / (
-                        np.linalg.norm(text_vector) * np.linalg.norm(corneille_vector))
+                        np.linalg.norm(text_vector) *
+                        np.linalg.norm(corneille_vector))
                     print(f"{file_name} vs {corneille_file}: {similarity}")
 
 

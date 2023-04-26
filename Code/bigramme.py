@@ -28,8 +28,11 @@ def main():
 
     # Generate bigrams and filter out unwanted bigrams
     bigrams = nltk.bigrams(tokens)
-    filtered_bigrams = [bigram for bigram in bigrams if "jourdain" not in bigram and "sotenville" not in bigram and "pourceaugnac" not in bigram and bigram != (
-        "monsieur", "monsieur") and bigram != ("plus", "plus")]
+    filtered_bigrams = [bigram for bigram in bigrams if "jourdain"
+                        not in bigram and "sotenville" not in bigram
+                        and "pourceaugnac" not in bigram and bigram != (
+                            "monsieur", "monsieur")
+                        and bigram != ("plus", "plus")]
 
     # count frequency of bigrams
     freq_dist = nltk.FreqDist(filtered_bigrams)
