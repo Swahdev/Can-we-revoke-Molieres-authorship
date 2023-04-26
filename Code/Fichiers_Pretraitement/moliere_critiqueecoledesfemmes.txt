@@ -1,27 +1,3 @@
-critique
-école
-comédie
-molière
-fièvre
-édition
-amélie
-édition
-édition
-frédéric
-glorieux
-informatique
-conversions
-moliere_critiqueecoledesfemmes
-moliere_critiqueecoledesfemmes
-molière
-critique
-école
-comédie
-comédie
-critique
-école
-comédie
-molière
 charles
 sixième
 montée
@@ -35,7 +11,6 @@ prétendus
 devoirs
 élégamment
 acquitte
-hommages
 avoir
 dédier
 critique
@@ -72,7 +47,6 @@ plus
 puisse
 obéissant
 serviteur
-molière
 personnages
 élise
 laquais
@@ -126,6 +100,7 @@ complaisance
 générale
 souffrir
 indifféremment
+sortes
 personnes
 goûte
 ceux
@@ -210,6 +185,7 @@ peu
 toujours
 furieuse
 déplaise
+qualité
 plus
 mêlée
 raisonner
@@ -237,7 +213,6 @@ semble
 démonté
 mouvements
 épaules
-aillent
 ressorts
 toujours
 moue
@@ -285,7 +260,6 @@ chambre
 mariée
 marquis
 parlé
-assemblage
 précieuse
 veux
 taire
@@ -316,6 +290,7 @@ défaillance
 cœur
 donné
 plus
+quinze
 jours
 élise
 peu
@@ -325,7 +300,6 @@ cousine
 pièce
 toutes
 deux
-gaillardes
 quoi
 oui
 écoutée
@@ -381,7 +355,6 @@ produites
 faites
 pitié
 souffrir
-obscurité
 peut
 trouver
 agrément
@@ -393,7 +366,7 @@ joueuse
 critique
 plains
 pauvre
-molière
+avoir
 ennemie
 chère
 honneur
@@ -410,13 +383,13 @@ lumières
 autres
 avoir
 assurément
-toutes
 ordures
 découvert
 moindre
 enveloppe
 couvre
 plus
+effrayés
 nudité
 élise
 plaît
@@ -449,6 +422,7 @@ part
 donne
 plus
 paroles
+celles
 font
 estimées
 plus
@@ -535,7 +509,6 @@ arrête
 paroles
 crois
 plus
-sincère
 élise
 raison
 trouve
@@ -549,6 +522,7 @@ parle
 élise
 paroles
 qualité
+enchante
 étudie
 oreilles
 remplie
@@ -567,9 +541,7 @@ moitié
 brisons
 épouvantable
 deux
-opiniâtreté
 personnes
-spirituelles
 marquis
 élise
 plaît
@@ -589,6 +561,7 @@ laquais
 laisser
 pourquoi
 monsieur
+grondâtes
 autre
 avoir
 monsieur
@@ -630,8 +603,8 @@ sortir
 monsieur
 comment
 trouvez
+plaît
 marquis
-fait
 marquis
 plus
 méchante
@@ -655,6 +628,7 @@ depuis
 jours
 presque
 entretien
+toutes
 maisons
 plaisant
 diversité
@@ -674,7 +648,6 @@ détestable
 morbleu
 détestable
 détestable
-appelle
 détestable
 marquis
 trouve
@@ -723,7 +696,6 @@ autre
 témoigner
 marquis
 messieurs
-veulent
 parterre
 commun
 fâchés
@@ -734,7 +706,6 @@ autre
 pièce
 sérieux
 plus
-égayait
 autres
 éclats
 risée
@@ -750,9 +721,9 @@ assemblée
 demeura
 pouvait
 mieux
+jouer
 marquis
 autres
-point
 déterminée
 comédie
 différence
@@ -782,7 +753,6 @@ défenseur
 parterre
 parbleu
 réjouis
-manquerai
 souffrir
 ébullitions
 marquis
@@ -791,13 +761,13 @@ qualité
 décident
 toujours
 parlent
-toutes
 connaître
 comédie
 récrieront
 méchants
 endroits
 ceux
+voyant
 écoutant
 musique
 louent
@@ -845,6 +815,7 @@ lumière
 fâchés
 être
 autres
+avoir
 gloire
 décider
 être
@@ -929,11 +900,11 @@ lire
 pièce
 marquise
 parlé
+louanges
 données
 plus
 croyais
 élise
-louanges
 arrêter
 auteur
 monsieur
@@ -1045,6 +1016,7 @@ marquis
 parbleu
 autres
 comédiens
+maux
 plus
 raison
 marquis
@@ -1177,7 +1149,6 @@ monsieur
 donner
 quelques
 coups
-coutume
 ouvrages
 autres
 choquer
@@ -1190,11 +1161,11 @@ sortes
 comédies
 comédies
 différence
-toutes
 beauté
 pièces
 sérieuses
 donne
+aujourd
 court
 plus
 ouvrages
@@ -1205,7 +1176,6 @@ saigne
 quelquefois
 honteux
 france
-goût
 étrangement
 gâté
 dessus
@@ -1240,6 +1210,7 @@ trouve
 plus
 aisé
 destins
+dieux
 comme
 faut
 agréablement
@@ -1286,7 +1257,6 @@ trouvé
 monsieur
 guère
 mieux
-toutes
 plaisanteries
 froides
 cour
@@ -1310,6 +1280,7 @@ courtisans
 autres
 peut
 être
+point
 plumes
 courte
 épreuve
@@ -1334,6 +1305,7 @@ peu
 demeure
 passe
 jours
+yeux
 acquérir
 quelque
 connaître
@@ -1344,21 +1316,21 @@ quelques
 demeure
 comme
 beaux
-joue
 quelques
 marquis
 trouve
 plus
 quoi
+jouer
 auteurs
 plaisante
+théâtre
 leurs
 leurs
 raffinements
 vicieuse
 leurs
 ouvrages
-louanges
 leurs
 ménagements
 pensées
@@ -1368,10 +1340,8 @@ ligues
 défensives
 leurs
 leurs
-molière
 heureux
 monsieur
-avoir
 protecteur
 question
 pièce
@@ -1387,6 +1357,7 @@ toujours
 pièces
 où
 court
+celles
 où
 personne
 unes
@@ -1398,7 +1369,6 @@ défauts
 ceux
 comédie
 pèche
-toutes
 règles
 avoue
 messieurs
@@ -1412,6 +1382,7 @@ ouïr
 règles
 plus
 mystères
+quelques
 aisées
 faites
 peut
@@ -1423,9 +1394,11 @@ aisément
 jours
 secours
 règle
+toutes
 règles
 plaire
 pièce
+attrapé
 suivi
 remarqué
 messieurs
@@ -1447,6 +1420,7 @@ embarrassées
 pièces
 règles
 plaisent
+celles
 plaisent
 règles
 nécessité
@@ -1454,6 +1428,7 @@ règles
 faites
 moquons
 où
+veulent
 comédie
 laissons
 entrailles
@@ -1466,7 +1441,7 @@ règles
 défendaient
 comme
 trouvé
-voudrait
+bonne
 préceptes
 français
 raffinements
@@ -1506,12 +1481,12 @@ soutiens
 pèche
 règles
 lues
+autant
 autre
 aisément
 peut
 être
 pièce
-théâtre
 plus
 régulière
 élise
@@ -1519,7 +1494,6 @@ courage
 monsieur
 quoi
 monsieur
-épitase
 péripétie
 monsieur
 paraissez
@@ -1531,6 +1505,7 @@ raisons
 trouveriez
 exposition
 nœud
+épitase
 dénouement
 péripétie
 puisque
@@ -1599,9 +1574,9 @@ explique
 violence
 amour
 roulements
+yeux
 soupirs
 font
-monde
 marquis
 morbleu
 élise
@@ -1649,7 +1624,6 @@ intéressée
 entre
 coups
 réjouir
-spectateurs
 chaque
 nouvelle
 toutes
@@ -1676,6 +1650,7 @@ auteur
 être
 seulement
 caractérise
+autant
 mieux
 puisqu
 comme
@@ -1700,13 +1675,12 @@ trouvée
 certain
 raison
 trouve
+attrapé
 maîtresse
 demeure
 retour
-longtemps
 partout
 faire
-sûreté
 précautions
 marquis
 raisons
@@ -1714,6 +1688,7 @@ raisons
 pitié
 discours
 certain
+vrais
 dévots
 ouï
 trouvé
@@ -1765,7 +1740,6 @@ queue
 raison
 marquis
 parbleu
-jouerais
 avantageux
 marquis
 pourvu
@@ -1780,7 +1754,6 @@ puisque
 faites
 mémoire
 donnez
-molière
 connaissez
 comédie
 connais

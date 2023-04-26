@@ -1,21 +1,3 @@
-comédie
-molière
-fièvre
-édition
-amélie
-révision
-révision
-frédéric
-glorieux
-informatique
-éditoriale
-comédie
-comédie
-molière
-église
-chapelle
-louis
-privilège
 libraireau
 lecteur
 première
@@ -66,7 +48,6 @@ satisfait
 dernière
 comédie
 monsieur
-molière
 écrire
 puis
 faire
@@ -82,7 +63,6 @@ comédie
 auteur
 crois
 mérite
-louanges
 première
 faut
 pourrais
@@ -140,10 +120,8 @@ comme
 opposée
 peut
 seulement
-jour
 humeur
 connaître
-molière
 ceux
 font
 également
@@ -152,6 +130,7 @@ heureux
 autres
 puisque
 maîtresse
+jeune
 veuve
 coquette
 médisante
@@ -161,7 +140,6 @@ auteur
 plusieurs
 pièce
 où
-molière
 mœurs
 siècle
 épargner
@@ -183,6 +161,7 @@ seul
 trouvant
 faire
 médisante
+avoir
 trouvé
 seule
 pièce
@@ -216,6 +195,7 @@ précieuses
 mêmes
 souvent
 estimées
+elles
 prêté
 quelques
 traits
@@ -228,7 +208,6 @@ beaucoup
 plus
 éclat
 plus
-toutes
 être
 représente
 paraissent
@@ -249,6 +228,7 @@ lorsqu
 exposées
 productions
 surtout
+celles
 faut
 donner
 certains
@@ -261,7 +241,6 @@ quelquefois
 pensées
 peu
 œuvre
-molière
 pouvez
 pièce
 ingénieuse
@@ -313,6 +292,7 @@ patience
 comme
 presque
 contraire
+humeur
 personnage
 manqué
 faire
@@ -379,10 +359,10 @@ crois
 puisse
 plus
 agréable
+sonnet
 méchant
 manière
 écrire
-aujourd
 ceux
 pointes
 plutôt
@@ -393,11 +373,11 @@ pièce
 jouer
 représentait
 crièrent
-sonnet
 critique
 demeurèrent
 faire
 auteur
+temps
 où
 courtisans
 font
@@ -465,7 +445,6 @@ amour
 souvent
 être
 attribuées
-humeur
 amoureux
 être
 satisfait
@@ -473,12 +452,12 @@ puisqu
 maîtresse
 hauteur
 ceux
-point
 découvre
 librement
 défauts
 univers
 douceurs
+voudrait
 péchés
 discours
 paraisse
@@ -489,7 +468,6 @@ suite
 entretien
 quelques
 maîtresse
-voudrait
 comme
 répond
 devrait
@@ -501,7 +479,6 @@ peut
 puisse
 dépit
 où
-molière
 puisque
 deux
 dépit
@@ -512,7 +489,6 @@ faire
 sortir
 maîtresse
 deux
-demeurer
 témoigne
 faire
 sitôt
@@ -527,6 +503,7 @@ deux
 trois
 aussitôt
 amour
+temps
 demeure
 vainqueur
 auteur
@@ -559,9 +536,11 @@ deux
 marquis
 cousine
 maîtresse
+jeune
 veuve
 trouvent
 fâchée
+avoir
 cour
 comme
 avoir
@@ -588,7 +567,6 @@ dépeints
 peu
 peut
 comédies
-molière
 donne
 libéralement
 ceux
@@ -656,13 +634,13 @@ agréable
 parlé
 première
 autre
-monnaie
 peut
 assurer
 peut
 toutes
 puisqu
 autre
+quelque
 plus
 moins
 toujours
@@ -692,6 +670,7 @@ passent
 quatrième
 commence
 récit
+sonnet
 entretient
 cousine
 coquette
@@ -704,6 +683,7 @@ pièce
 deux
 personnes
 parlent
+quelque
 leurs
 cœurs
 furieux
@@ -715,6 +695,8 @@ inspiré
 dépit
 faire
 feraient
+quelque
+humeur
 cœur
 maîtresse
 dépit
@@ -746,6 +728,7 @@ parle
 désir
 faire
 maîtresse
+toutes
 justifiée
 lorsqu
 raison
@@ -756,7 +739,6 @@ amour
 cœur
 faire
 connaître
-temps
 peut
 peuvent
 leurs
@@ -798,6 +780,7 @@ remarqué
 personnes
 connaître
 finesses
+reste
 comme
 beaucoup
 puisque
@@ -835,10 +818,12 @@ coquette
 toujours
 adroite
 procédé
+paraît
 honnête
 faire
 déclarer
 présence
+choisir
 marquis
 lettre
 écrite
@@ -889,9 +874,11 @@ comme
 médisance
 nécessaire
 comédie
+quelque
 auteur
 trouvé
 faire
+temps
 soutenir
 faut
 autre
@@ -903,7 +890,6 @@ désert
 faire
 leurs
 humeurs
-incompatibles
 coquette
 peut
 demeurant
@@ -921,7 +907,6 @@ cours
 comédie
 comme
 connaître
-parler
 monsieur
 comédie
 amoureux
@@ -929,12 +914,15 @@ trouve
 plus
 plaisant
 être
+fait
 honnêtes
 plaisanteries
+basses
 comme
 accoutumé
 pièces
 comiques
+celles
 semblent
 plus
 moins
@@ -948,7 +936,7 @@ beaucoup
 comme
 peut
 connaître
-sonnet
+hommes
 pièces
 héroïques
 moins
@@ -973,8 +961,8 @@ leurs
 défauts
 nécessaire
 faire
-molière
 particulière
+laisse
 partout
 plus
 ceux
@@ -1013,9 +1001,7 @@ désir
 coquettes
 médisantes
 célimène
-voyant
 peuvent
-affaires
 mépriser
 déchirer
 sous
@@ -1032,12 +1018,13 @@ crois
 plus
 avoue
 peut
+jouer
+longtemps
 demeurent
 trouverez
 lettre
 arrêter
 trouvé
-parler
 peu
 discours
 devrait
@@ -1070,6 +1057,7 @@ basque
 célimène
 maréchaussée
 france
+bois
 comédie
 première
 laissez
@@ -1107,7 +1095,7 @@ séparant
 indifférent
 morbleu
 jusqu
-malheur
+autant
 supplierai
 avoir
 agréable
@@ -1122,6 +1110,7 @@ parte
 cœur
 lorsqu
 faut
+monnaie
 répondre
 comme
 peut
@@ -1153,6 +1142,7 @@ estime
 prostituée
 plus
 glorieuse
+régals
 peu
 mêle
 univers
@@ -1167,6 +1157,7 @@ complaisance
 mérite
 différence
 veux
+fait
 faut
 quelques
 devrait
@@ -1201,7 +1192,6 @@ quoi
 faire
 cour
 lasse
-bravoure
 éclat
 moque
 épargner
@@ -1209,7 +1199,6 @@ personne
 blessés
 cour
 entre
-humeur
 noire
 entre
 comme
@@ -1220,7 +1209,6 @@ intérêt
 puis
 plus
 visière
-philinte
 peu
 noirs
 où
@@ -1235,7 +1223,6 @@ frères
 laissons
 comparaisons
 quittez
-toutes
 puisque
 franchise
 partout
@@ -1253,6 +1240,7 @@ fâché
 être
 leurs
 oui
+tous
 pauvres
 exception
 enveloppés
@@ -1261,7 +1249,6 @@ où
 générale
 parce
 méchants
-malfaisants
 autres
 être
 méchants
@@ -1277,6 +1264,7 @@ connu
 peut
 être
 roulements
+yeux
 emplois
 poussé
 mérite
@@ -1291,6 +1279,7 @@ personne
 nommez
 scélérat
 convient
+bienvenue
 accueille
 partout
 plus
@@ -1310,6 +1299,7 @@ peu
 examinons
 rigueur
 défauts
+quelque
 douceur
 faut
 traitable
@@ -1348,7 +1338,6 @@ cour
 monsieur
 raisonne
 pourra
-échauffer
 faut
 avoir
 dresse
@@ -1362,11 +1351,12 @@ plus
 intéressé
 vautours
 affamés
+malfaisants
+loups
 pièces
 morbleu
 veux
 raisonnement
-philinte
 silence
 partie
 éclatez
@@ -1388,14 +1378,11 @@ raison
 partie
 peut
 veux
-verrai
 méchants
 scélérats
 faire
 univers
-coûtât
 beauté
-avoir
 entendait
 droiture
 où
@@ -1405,7 +1392,6 @@ comme
 semble
 brouillés
 peut
-odieux
 surprend
 étrange
 où
@@ -1413,7 +1399,6 @@ coeur
 éliante
 penchant
 arsinoé
-doux
 leurs
 liens
 célimène
@@ -1431,10 +1416,10 @@ plus
 défauts
 doux
 amour
+jeune
 veuve
 défauts
 treuve
-quelque
 ardeur
 donner
 comme
@@ -1446,7 +1431,6 @@ défauts
 dépit
 plus
 pourra
-philinte
 faites
 peu
 être
@@ -1471,7 +1455,6 @@ plus
 mieux
 raison
 chaque
-jour
 raison
 règle
 amour
@@ -1480,7 +1463,6 @@ feux
 espoir
 où
 pourrait
-philinte
 quelques
 emplettes
 éliante
@@ -1539,7 +1521,6 @@ coeur
 ouvert
 monsieur
 amitié
-plaît
 amitié
 monsieur
 quoi
@@ -1553,10 +1534,12 @@ plus
 mystère
 assurément
 lumière
+lier
 faut
 mieux
 connaître
 pourrions
+avoir
 complexions
 deux
 marché
@@ -1564,12 +1547,10 @@ repentirions
 parbleu
 dessus
 estime
-doux
 entièrement
 faut
 faire
 cour
-quelque
 ouverture
 auprès
 fais
@@ -1604,12 +1585,12 @@ puisqu
 plaît
 monsieur
 veux
-sonnet
-sonnet
 espoir
+quelque
 espérance
 espoir
 pompeux
+doux
 langoureux
 toutes
 espoir
@@ -1670,10 +1651,10 @@ démangeaisons
 empressements
 faire
 éclat
+amusements
 chaleur
 montrer
 ouvrages
-jouer
 personnages
 déclarer
 écrit
@@ -1685,7 +1666,6 @@ qualités
 leurs
 méchants
 côtés
-sonnet
 trouvez
 écrire
 yeux
@@ -1719,13 +1699,11 @@ franchement
 réglé
 méchants
 expressions
-naturelles
 ennui
 après
 dépense
 donner
 espoir
-philis
 désespère
 espère
 toujours
@@ -1733,7 +1711,6 @@ figuré
 vérité
 parle
 méchant
-goût
 siècle
 peur
 pères
@@ -1776,7 +1753,6 @@ trouver
 raisons
 trouverez
 puisse
-avoir
 autres
 soumettre
 vôtres
@@ -1794,7 +1770,6 @@ pourrais
 faire
 méchants
 montrer
-suffisance
 autre
 part
 encense
@@ -1833,7 +1808,6 @@ oui
 autrement
 romprons
 indubitablement
-promettrais
 contraire
 pouvoir
 faire
@@ -1919,7 +1893,6 @@ peut
 être
 autres
 célimène
-fleurette
 personne
 ôter
 souci
@@ -1973,6 +1946,7 @@ quoi
 peut
 toujours
 prête
+pouvez
 seul
 résoudre
 souffrir
@@ -1984,14 +1958,12 @@ pardonner
 célimène
 bienveillance
 comment
-gagné
 cour
 hautement
 entretiens
 peuvent
 appui
 puisse
-avoir
 ailleurs
 brouiller
 brailleurs
@@ -2009,10 +1981,10 @@ célimène
 où
 courez
 célimène
+demeurez
 quoi
 faire
 célimène
-demeurez
 puis
 célimène
 veux
@@ -2038,6 +2010,7 @@ veux
 faire
 expliquer
 célimène
+aujourd
 expliquerez
 célimène
 déclarerez
@@ -2050,7 +2023,6 @@ parbleu
 louvre
 où
 cléonte
-quelque
 pût
 manières
 prêter
@@ -2081,17 +2053,16 @@ goutte
 éliante
 début
 prochain
-train
 célimène
 mystère
 coup
 égaré
 toujours
-affairé
 débite
 cesse
 entretien
 moindre
+vétille
 jusques
 géralde
 célimène
@@ -2112,11 +2083,11 @@ ceux
 plus
 étage
 monsieur
+bélise
 célimène
 pauvre
 entretien
 lorsqu
-souffre
 faut
 cesse
 stérilité
@@ -2135,12 +2106,14 @@ pièce
 bois
 semble
 célimène
+orgueil
 extrême
 amour
 mérite
 cour
 métier
 chaque
+jour
 donne
 emploi
 bénéfice
@@ -2237,6 +2210,7 @@ aussitôt
 rieurs
 pouvez
 pousser
+satire
 véritable
 toujours
 avoue
@@ -2245,6 +2219,7 @@ loue
 morbleu
 raison
 toujours
+affaires
 loueurs
 censeurs
 téméraires
@@ -2300,7 +2275,6 @@ sous
 beauté
 négligée
 géante
-paraît
 déesse
 abrégé
 cieux
@@ -2342,7 +2316,6 @@ puisse
 couché
 autre
 où
-attaché
 célimène
 crois
 basque
@@ -2427,14 +2400,12 @@ satisfaite
 inquiète
 crois
 éblouir
-avoir
+joyeux
 parbleu
 lorsque
 où
-avoir
 jeune
 peut
-quelque
 raison
 crois
 donne
@@ -2446,6 +2417,7 @@ faire
 pousser
 vigoureuse
 manière
+goût
 étude
 raisonner
 faire
@@ -2491,6 +2463,7 @@ rigueurs
 secours
 soupirs
 pleurs
+suite
 peu
 mérite
 marquis
@@ -2514,6 +2487,7 @@ avances
 penses
 marquis
 être
+quelque
 lieu
 marquis
 crois
@@ -2584,7 +2558,6 @@ envie
 déclarés
 autre
 mérite
-abandonné
 siècle
 toujours
 courroux
@@ -2626,6 +2599,7 @@ plus
 peuvent
 comme
 plus
+celles
 honneur
 bienséance
 honneur
@@ -2635,7 +2609,6 @@ cœur
 singulière
 où
 discours
-tourna
 matière
 conduite
 éclats
@@ -2692,6 +2665,7 @@ tour
 doux
 lieu
 autre
+jour
 où
 faisais
 trouvai
@@ -2712,6 +2686,7 @@ avoir
 hauteur
 estime
 où
+yeux
 pitié
 fréquentes
 leçons
@@ -2746,7 +2721,6 @@ faire
 mieux
 remettre
 ceux
-commis
 crois
 raisonnable
 mouvements
@@ -2761,6 +2735,7 @@ célimène
 contraire
 détruirait
 traitant
+bonne
 aveuglement
 où
 entre
@@ -2779,8 +2754,8 @@ parti
 jeunes
 éclat
 couvrir
-jour
 suive
+temps
 comme
 être
 arsinoé
@@ -2803,17 +2778,14 @@ puis
 personne
 amour
 chaque
-jour
 vœux
 cœur
 peut
-souhaiter
 faire
 faute
 arsinoé
 faites
 aisé
-aujourd
 peut
 faire
 croire
@@ -2825,7 +2797,6 @@ honnête
 amour
 font
 cour
-point
 défaites
 dupe
 faites
@@ -2840,10 +2811,12 @@ avances
 beaux
 soupirant
 faut
+point
 gloire
 victoire
 peu
 traiter
+yeux
 enviaient
 conquêtes
 vôtres
@@ -2863,6 +2836,7 @@ déjà
 congé
 faut
 célimène
+pouvez
 arrêter
 dessus
 cérémonie
@@ -2874,7 +2848,6 @@ faut
 écrire
 lettre
 faire
-remettre
 bonté
 aisément
 incivilité
@@ -2889,6 +2862,7 @@ mérite
 entraînent
 amour
 estime
+charmes
 font
 coeur
 intérêts
@@ -2927,6 +2901,7 @@ arsinoé
 mérite
 éclatant
 déterre
+vôtre
 lieux
 extrême
 deux
@@ -2954,6 +2929,7 @@ emploierai
 doux
 humeur
 donnant
+jour
 compatible
 cour
 trouve
@@ -2996,6 +2972,7 @@ pensées
 ardeurs
 mieux
 placées
+méritez
 beaucoup
 plus
 doux
@@ -3055,7 +3032,6 @@ dure
 plus
 pénible
 côtés
-tourner
 différend
 messieurs
 occupé
@@ -3070,7 +3046,6 @@ honnête
 faire
 honneur
 matières
-toutes
 manières
 qualité
 mérite
@@ -3095,7 +3070,6 @@ fâché
 être
 amour
 coeur
-avoir
 trouvé
 sonnet
 meilleur
@@ -3105,6 +3079,7 @@ fais
 avoue
 sincérité
 pique
+quelque
 héroïque
 siècle
 aujourd
@@ -3116,6 +3091,7 @@ surtout
 étonne
 où
 coeur
+humeur
 comment
 moins
 comment
@@ -3132,7 +3108,6 @@ toujours
 produit
 humeurs
 raisons
-douces
 trouvent
 démenties
 peut
@@ -3172,6 +3147,7 @@ peut
 faire
 amour
 éprouvait
+quelque
 destin
 contraire
 autre
@@ -3211,12 +3187,14 @@ puis
 concevoir
 déchaînement
 comme
+aventure
 amour
 éliante
 peu
 faut
 odieux
 plus
+basses
 éliante
 peut
 ruiné
@@ -3226,7 +3204,6 @@ nouvelle
 célimène
 éliante
 croire
-fondement
 peut
 être
 soupçon
@@ -3234,6 +3211,7 @@ légèrement
 parfois
 chimères
 morbleu
+mêlez
 monsieur
 être
 certain
@@ -3242,7 +3220,6 @@ avoir
 oui
 lettre
 écrite
-produit
 rivaux
 moins
 lettre
@@ -3253,7 +3230,6 @@ coupable
 monsieur
 coup
 laissez
-plaît
 souci
 intérêt
 éliante
@@ -3301,8 +3277,8 @@ aimée
 aisément
 courroux
 retour
-romps
 fais
+estimer
 courroux
 noirceur
 faire
@@ -3318,8 +3294,10 @@ puis
 célimène
 trouble
 où
+veulent
 soupirs
 poussés
+toutes
 horreurs
 déloyautés
 démons
@@ -3330,7 +3308,6 @@ célimène
 certainement
 douceurs
 plaisantez
-rougissez
 plutôt
 raison
 sûrs
@@ -3340,11 +3317,12 @@ troubles
 fréquents
 soupçons
 trouvait
+odieux
 rencontré
+yeux
 craindre
 présumez
 être
-souffre
 dépit
 outragé
 vœux
@@ -3359,7 +3337,6 @@ plainte
 parlé
 coeur
 droit
-aveu
 trompeur
 trouver
 châtiments
@@ -3398,11 +3375,11 @@ prêts
 connaissez
 traits
 découvert
+confondre
 témoin
 répondre
 célimène
 trouble
-rougissez
 voyant
 écrit
 célimène
@@ -3418,6 +3395,7 @@ pourquoi
 désavouer
 pouvez
 demeurer
+confuse
 célimène
 quoi
 témoin
@@ -3437,6 +3415,7 @@ célimène
 quoi
 coupable
 détour
+attendais
 avoue
 trait
 convaincu
@@ -3449,17 +3428,16 @@ soutenir
 clair
 comment
 pourrez
-tourner
 montre
 couvrir
 manquement
 lire
 célimène
+plaît
 trouve
 plaisant
 peu
 souci
-justifier
 célimène
 veux
 faire
@@ -3509,6 +3487,7 @@ prêter
 consent
 croire
 célimène
+méritez
 amour
 pourrait
 contraindre
@@ -3522,7 +3501,6 @@ quoi
 soupçons
 défense
 auprès
-quelque
 outrager
 écouter
 puisque
@@ -3544,8 +3522,6 @@ méritent
 colère
 considère
 veux
-simplicité
-quelque
 bonté
 devrais
 autre
@@ -3556,6 +3532,7 @@ plainte
 légitime
 traîtresse
 étrange
+doux
 faut
 suivre
 destinée
@@ -3573,6 +3550,7 @@ ardeur
 montrer
 jusqu
 oui
+trouvât
 réduite
 misérable
 donné
@@ -3589,10 +3567,8 @@ manière
 préserve
 matière
 monsieur
-bois
 plaisamment
 figuré
-bois
 célimène
 équipage
 bois
@@ -3606,6 +3582,7 @@ bois
 oui
 parle
 promptement
+bois
 amusement
 veux
 bois
@@ -3648,7 +3625,6 @@ démon
 fais
 crois
 verrait
-goutte
 quoi
 démêler
 départ
@@ -3659,10 +3635,8 @@ empressement
 trouvant
 chargé
 doucement
-sachant
 beaucoup
 comme
-bois
 péril
 être
 arrêté
@@ -3679,9 +3653,9 @@ donne
 célimène
 peut
 éclairci
-bois
 après
-avoir
+longtemps
+cherché
 monsieur
 laissé
 célimène
@@ -3716,6 +3690,7 @@ lieux
 équité
 droit
 trompé
+scandaleuse
 fausseté
 noire
 trouve
@@ -3750,7 +3725,6 @@ honnêteté
 veux
 vérité
 plus
-adversaire
 cœur
 avoir
 trouvé
@@ -3763,11 +3737,9 @@ honneur
 trouve
 souffrir
 tirons
-bois
 coupe
 puisque
 entre
-traîtres
 trouve
 peu
 où
@@ -3796,6 +3768,7 @@ plaindre
 aisé
 arrêt
 veux
+quelque
 arrêt
 droit
 maltraité
@@ -3819,6 +3792,7 @@ passe
 plaît
 intérêt
 plus
+aujourd
 devraient
 être
 faits
@@ -3829,9 +3803,9 @@ peu
 société
 défauts
 donnent
-philosophie
 plus
 trouve
+revêtu
 coeurs
 plupart
 puisqu
@@ -3848,7 +3822,6 @@ beaux
 discours
 raison
 retire
-point
 répondrais
 laissez
 célimène
@@ -3865,7 +3838,6 @@ noir
 étrange
 célimène
 oui
-doux
 faut
 dessus
 ardeur
@@ -3919,8 +3891,6 @@ penchant
 prétendre
 désormais
 hautement
-contrainte
-pouvez
 expliquer
 crainte
 où
@@ -3939,6 +3909,8 @@ préférence
 cœur
 entre
 deux
+souffre
+aveu
 trouve
 désobligeants
 présence
@@ -3949,9 +3921,7 @@ lumière
 jusqu
 visière
 plus
-doux
 témoins
-malheur
 aveu
 appréhende
 part
@@ -3982,6 +3952,7 @@ cousine
 persécutée
 humeur
 concertée
+veulent
 autre
 chaleur
 entre
@@ -4031,7 +4002,6 @@ coeur
 prêter
 estime
 croire
-yeux
 démenti
 leurs
 témoins
@@ -4046,6 +4016,7 @@ lettre
 écrit
 messieurs
 traits
+obscurité
 civilité
 connaître
 lire
@@ -4088,7 +4059,6 @@ autant
 toujours
 trouve
 plus
-toutes
 parties
 où
 merveilleux
@@ -4138,6 +4108,7 @@ trouve
 monsieur
 fais
 plus
+pouvez
 arsinoé
 trait
 plus
@@ -4158,6 +4129,7 @@ devait
 laissez
 intérêts
 dessus
+point
 coeur
 état
 pourrai
@@ -4257,8 +4229,10 @@ présent
 déteste
 seul
 plus
+reste
 puisque
 liens
+doux
 trouver
 comme
 outrage
@@ -4270,6 +4244,7 @@ parle
 beauté
 sincérité
 depuis
+longtemps
 fais
 extrême
 laissez
@@ -4288,11 +4263,11 @@ pouvez
 suivre
 pensée
 donner
+embarrassée
 inquiéter
 pourrait
 honneur
 envie
-sacrifierais
 puissiez
 goûter
 contentements

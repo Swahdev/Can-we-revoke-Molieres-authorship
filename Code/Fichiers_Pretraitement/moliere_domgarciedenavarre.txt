@@ -1,48 +1,3 @@
-comédie
-molière
-fièvre
-édition
-amélie
-édition
-édition
-frédéric
-glorieux
-informatique
-éditoriale
-conversions
-molière
-comédie
-comédie
-héroïque
-oule
-comédie
-molière
-représentée
-première
-quatrième
-février
-troupe
-monsieur
-frère
-unique
-acteurs
-léon
-élise
-léon
-sous
-comtesse
-aimée
-usurpateur
-état
-léon
-élise
-autre
-rebuté
-élise
-écuyer
-espagne
-royaume
-léon
 première
 élise
 deux
@@ -53,7 +8,6 @@ peut
 préférer
 amour
 comme
-toutes
 qualités
 glorieux
 éclat
@@ -67,6 +21,7 @@ seul
 prenait
 droit
 cœur
+chaînes
 décidèrent
 destin
 leurs
@@ -79,7 +34,7 @@ vœux
 amour
 peu
 puisque
-longtemps
+yeux
 deux
 mieux
 traiter
@@ -95,6 +50,7 @@ où
 penchait
 beaucoup
 autre
+yeux
 après
 amoureux
 semblait
@@ -178,7 +134,6 @@ vœux
 peut
 étrange
 frénésie
-informé
 peut
 être
 aimé
@@ -211,6 +166,7 @@ vœux
 différence
 connue
 aisément
+toutes
 faveurs
 étude
 celles
@@ -227,7 +183,6 @@ sources
 naturelles
 pitié
 émouvoir
-apercevoir
 disaient
 toujours
 plus
@@ -235,6 +190,7 @@ plus
 soupçons
 illustre
 puisque
+fondement
 moins
 font
 autres
@@ -258,7 +214,6 @@ puisqu
 étrange
 partout
 monstre
-odieux
 peut
 traits
 injurieux
@@ -283,7 +238,7 @@ pensée
 désirs
 peut
 cœur
-échauffer
+illustre
 soupirs
 milieu
 léon
@@ -318,7 +273,6 @@ donner
 droit
 conquête
 péril
-jetée
 communs
 bonté
 frère
@@ -353,11 +307,13 @@ veux
 élise
 lettre
 mieux
+commettre
 faveur
 écrit
 témoins
 livre
 élise
+toutes
 suivre
 diversité
 comme
@@ -385,13 +341,13 @@ arrivé
 jusqu
 louis
 mourant
-caché
 destins
 état
 ôter
 fureurs
 depuis
 souvent
+demandé
 sûreté
 dangereux
 fausse
@@ -456,14 +412,12 @@ doux
 espoir
 frère
 amour
-transports
 légitimes
 périls
 glorieux
 puis
 faire
 éclat
-yeux
 acquérir
 gloire
 faire
@@ -543,6 +497,7 @@ faut
 désirez
 pourrez
 plaire
+quelque
 espoir
 faveur
 extrême
@@ -569,7 +524,6 @@ vœux
 coups
 mouvements
 courroux
-quelque
 peu
 cœur
 trouve
@@ -600,6 +554,7 @@ glorieux
 espoir
 horreurs
 monstre
+daignez
 étouffer
 faites
 aveu
@@ -632,8 +587,10 @@ contraindre
 être
 autre
 croyais
+doux
 avoir
 amour
+aveu
 plus
 éclatant
 ôter
@@ -649,7 +606,6 @@ satisfaire
 plus
 clarté
 crois
-quelque
 bonté
 peu
 pitié
@@ -691,7 +647,6 @@ prodigieux
 tempérament
 arrête
 milieu
-quelque
 semble
 répondez
 coup
@@ -703,6 +658,7 @@ où
 peut
 pourrait
 coup
+attaquer
 cœur
 souvent
 plus
@@ -725,17 +681,16 @@ cœur
 écrit
 donné
 pouvoir
-justifier
 veux
 résistance
 faire
 violence
+avoir
 pressé
 quelle
 tracé
 toujours
 être
-consens
 oui
 oui
 moins
@@ -767,7 +722,6 @@ plutôt
 puissiez
 destin
 plus
-doux
 faire
 réponse
 illustre
@@ -777,6 +731,7 @@ trouble
 lumière
 passé
 manière
+point
 où
 pourrais
 autres
@@ -791,6 +746,7 @@ cœur
 preuves
 prétend
 désormais
+toute
 envie
 veux
 première
@@ -904,6 +860,7 @@ procédé
 faut
 peut
 craindre
+quelque
 raison
 partout
 approuvés
@@ -925,7 +882,6 @@ puis
 enflé
 nouvelle
 donner
-lors
 plus
 raison
 audience
@@ -935,7 +891,6 @@ victoire
 comblerait
 jours
 gloire
-laisse
 deux
 espoir
 vœux
@@ -979,7 +934,6 @@ moins
 conduise
 précipice
 désordres
-puissants
 donnent
 peu
 raison
@@ -988,11 +942,13 @@ soupçons
 apparence
 démens
 croire
+premiers
 posément
 moitié
 lettre
 cœur
 pitié
+voudrait
 donner
 autre
 moitié
@@ -1015,11 +971,13 @@ imparfaits
 écrit
 funeste
 expliquer
+toutefois
 agissons
 doucement
 couvrons
 donnant
 raison
+transports
 maîtresse
 père
 approuve
@@ -1045,7 +1003,6 @@ pourra
 quelques
 jours
 passons
-quelque
 autre
 discours
 puis
@@ -1057,6 +1014,7 @@ pourquoi
 où
 souci
 désir
+curieux
 fantaisie
 curiosité
 défendent
@@ -1081,6 +1039,7 @@ mémoire
 peut
 peut
 être
+toutefois
 mouvement
 oui
 oui
@@ -1088,9 +1047,9 @@ lorsque
 poison
 trouver
 sincérité
+traîtres
 enchanté
 quelle
-pouvez
 plaindre
 cœur
 double
@@ -1191,6 +1150,7 @@ hautement
 veux
 lire
 quoique
+toutefois
 craindre
 plus
 détruire
@@ -1231,7 +1191,6 @@ peut
 être
 espoir
 plus
-doux
 mêlé
 crainte
 pourriez
@@ -1311,6 +1270,7 @@ courroux
 peut
 être
 apaisé
+excusé
 amour
 cœur
 faut
@@ -1340,6 +1300,7 @@ espérer
 épée
 aussitôt
 coup
+yeux
 cœur
 misérable
 cœur
@@ -1399,6 +1360,7 @@ faiblesse
 seigneur
 feux
 droit
+doux
 mouvements
 transport
 après
@@ -1437,7 +1399,6 @@ troupes
 peuvent
 être
 état
-quelque
 crainte
 cœur
 peu
@@ -1502,7 +1463,6 @@ apaisé
 pouvoir
 donnera
 toujours
-quelque
 ardeur
 dernière
 désormais
@@ -1522,8 +1482,10 @@ souvent
 dépens
 pénible
 vœux
+illustre
 honneur
 fierté
+parole
 clartés
 régler
 quoi
@@ -1554,7 +1516,6 @@ peut
 résoudre
 puisque
 honneur
-temps
 rigoureux
 aveux
 impunément
@@ -1565,7 +1526,6 @@ après
 toujours
 peu
 défiance
-dangereux
 cœur
 charmé
 être
@@ -1603,7 +1563,9 @@ tourment
 quelques
 chère
 cieux
+odieux
 douceurs
+aventure
 éternelle
 rigueurs
 envié
@@ -1614,7 +1576,6 @@ fameux
 oui
 liens
 beaux
-pouvais
 victoire
 dérober
 gloire
@@ -1642,7 +1603,6 @@ donne
 frère
 lustres
 fureurs
-quelque
 éclat
 couronne
 ravisseurs
@@ -1654,11 +1614,12 @@ obstinée
 destinée
 faut
 seul
+bienfait
 souffrez
+maux
 où
 destin
 autre
-quelque
 plaignez
 autre
 acquérir
@@ -1711,6 +1672,7 @@ avoir
 mérité
 froideur
 semble
+confondre
 répondez
 seigneur
 puis
@@ -1727,6 +1689,7 @@ autres
 plaindre
 raison
 lorsqu
+veulent
 oui
 seigneur
 premières
@@ -1734,7 +1697,6 @@ droits
 sacrés
 illustres
 faut
-jour
 plutôt
 amour
 ardeur
@@ -1776,6 +1738,7 @@ soupirs
 douceurs
 tristes
 première
+attraits
 mêler
 plus
 plus
@@ -1807,12 +1770,12 @@ après
 cœur
 coupable
 beauté
+laisse
 plus
 plaindre
 cœur
 déplaisir
 peut
-malheur
 peut
 égaler
 quitter
@@ -1820,7 +1783,6 @@ personne
 maux
 amour
 donne
-maux
 avoir
 toujours
 cœur
@@ -1828,6 +1790,7 @@ pouvoir
 peut
 quelquefois
 montrer
+quelque
 faiblesse
 raison
 maîtresse
@@ -1852,6 +1815,7 @@ donner
 état
 surprendre
 lieux
+voudrait
 héroïques
 seigneur
 conquérants
@@ -1871,11 +1835,11 @@ sourdes
 pratiques
 craignez
 puisse
+yeux
 trouver
 conduite
 clarté
 cherché
-obscurité
 faire
 entreprise
 surprise
@@ -1884,6 +1848,7 @@ ordinaires
 débats
 après
 autres
+affaires
 peu
 réprimant
 bouillons
@@ -1894,7 +1859,6 @@ devrait
 peu
 mieux
 lorsqu
-venue
 lieux
 chaleur
 défendre
@@ -1920,7 +1884,6 @@ feux
 présence
 veux
 cœur
-quelque
 prétendre
 régler
 vœux
@@ -1949,7 +1912,6 @@ parole
 cœur
 ouvert
 puisque
-vrais
 satisfait
 attaquée
 expliquée
@@ -1961,21 +1923,16 @@ donner
 plaire
 nécessaire
 capricieux
-doux
-aveu
 gloire
 feux
 victoire
-avoir
 témoins
-yeux
 prétentions
 hautement
 étouffées
 vœux
 illustres
 trophées
-transports
 éclatant
 où
 prétend
@@ -2047,6 +2004,7 @@ plus
 douleur
 considériez
 suivre
+premiers
 mouvements
 où
 livre
@@ -2067,7 +2025,6 @@ présence
 amour
 séduit
 fausse
-erreur
 être
 connue
 éclat
@@ -2080,7 +2037,6 @@ plus
 discours
 lasse
 réveille
-troubler
 cœur
 autres
 plus
@@ -2099,6 +2055,8 @@ peut
 fausse
 nouvelle
 retour
+cruelle
+quelque
 ennui
 puisse
 être
@@ -2108,6 +2066,7 @@ moins
 mérité
 élise
 élise
+attendais
 sortît
 puisque
 peut
@@ -2133,7 +2092,6 @@ lieu
 élise
 assuré
 impatience
-yeux
 éclairé
 être
 auguré
@@ -2142,7 +2100,6 @@ déjà
 élise
 élise
 seigneur
-yeux
 découvrez
 élise
 lieux
@@ -2234,8 +2191,8 @@ comme
 ardeur
 séduit
 lieux
+cuisant
 ennui
-sentirais
 laisser
 plainte
 oui
@@ -2261,6 +2218,7 @@ dédain
 différez
 élise
 faut
+parole
 trouve
 faire
 seigneur
@@ -2269,7 +2227,6 @@ causé
 cieux
 faut
 assure
-yeux
 témoins
 mortelles
 coup
@@ -2301,7 +2258,6 @@ vertueuse
 soutenir
 gloire
 lorsque
-yeux
 font
 noire
 seigneur
@@ -2326,10 +2282,8 @@ espoir
 après
 procédés
 peut
-yeux
 présenter
 écouter
-toutes
 horreurs
 déloyautés
 démons
@@ -2354,7 +2308,6 @@ suffisantes
 pouvoir
 douleurs
 cuisantes
-rougissez
 raison
 marquaient
 troubles
@@ -2366,7 +2319,6 @@ rencontré
 craindre
 présumez
 être
-souffre
 dépit
 outragé
 vœux
@@ -2492,6 +2444,7 @@ fureur
 aujourd
 veux
 devrait
+odieux
 donner
 bonté
 nouvelle
@@ -2551,8 +2504,8 @@ peuvent
 donner
 cœur
 naissance
-convaincre
-yeux
+ombrages
+puissants
 éclatant
 témoignage
 outrage
@@ -2602,6 +2555,7 @@ soustraire
 coup
 oui
 dextérités
+veulent
 détourner
 éclaircissement
 entière
@@ -2636,7 +2590,6 @@ faites
 discours
 défaites
 plutôt
-quelque
 autre
 peu
 pourra
@@ -2652,7 +2605,6 @@ consentons
 périsse
 élise
 éclat
-apprendrai
 élise
 entre
 faites
@@ -2683,7 +2635,6 @@ fureur
 trouble
 jusque
 autres
-yeux
 pouvoir
 laisseront
 lieu
@@ -2698,12 +2649,14 @@ pardonnez
 faut
 exposée
 témérité
+toutes
 plus
 honneur
 soupçons
 peut
 réduit
 défendre
+doux
 embrassements
 indignités
 souffrir
@@ -2717,12 +2670,12 @@ produit
 cesse
 mémoire
 outrage
-fait
 gloire
 puis
 oublier
 plus
 châtiments
+tonnerre
 éclatant
 poudre
 lorsqu
@@ -2763,8 +2716,10 @@ ennemi
 plus
 amour
 consumée
+jour
 mouvements
 font
+toute
 amour
 coups
 faut
@@ -2801,6 +2756,7 @@ voyant
 amour
 outragée
 faut
+illustre
 mort
 due
 prévenir
@@ -2857,7 +2813,6 @@ louis
 trouve
 confirmées
 léon
-jour
 heureux
 retour
 prospère
@@ -2980,12 +2935,12 @@ donne
 transport
 maux
 lorsque
+soumission
 courage
 résistez
 coups
 éclatants
 ouvrez
-murs
 frère
 laissez
 droits
@@ -3001,6 +2956,7 @@ faire
 bonté
 coup
 prépare
+pouvez
 laisser
 rigoureux
 devoir
@@ -3008,6 +2964,7 @@ devoir
 où
 mérité
 quelques
+maux
 faille
 ôté
 droit
@@ -3017,6 +2974,7 @@ plainte
 autoriser
 amour
 rendu
+odieux
 outrager
 attraits
 glorieux
@@ -3046,6 +3004,7 @@ léon
 murs
 semble
 avoir
+immolé
 craignez
 résistance
 puissance
@@ -3116,7 +3075,6 @@ caché
 plus
 peut
 être
-toutes
 deux
 épargné
 troubles
@@ -3181,8 +3139,8 @@ peut
 satisfait
 lorsque
 contrainte
+obtient
 généreux
-conditions
 être
 heureux
 devoir
@@ -3192,7 +3150,6 @@ droits
 naissance
 toujours
 souffrir
-immolé
 cœur
 mérite
 autre
@@ -3211,7 +3168,6 @@ deux
 épargné
 fausse
 moins
-gagné
 commun
 partout
 croire
@@ -3229,6 +3185,7 @@ héroïque
 chargé
 rumeur
 publique
+illustre
 louis
 utile
 secondé
@@ -3248,7 +3205,6 @@ amitié
 entre
 père
 louis
-toutes
 clartés
 prouver
 autres
@@ -3314,6 +3270,7 @@ ardeur
 causé
 mérite
 coupable
+orgueil
 présumeriez
 fléchir
 dédain
@@ -3384,7 +3341,6 @@ crois
 prétendre
 lorsque
 peut
-longtemps
 départ
 vœux
 contents
@@ -3445,6 +3401,7 @@ heureuse
 oui
 raison
 trouve
+quelque
 heureux
 présente
 mort
@@ -3464,6 +3421,7 @@ défauts
 où
 peut
 donner
+aveu
 cœur
 veux
 après
@@ -3471,7 +3429,6 @@ débats
 seigneur
 cœurs
 états
-temps
 presse
 léon
 satisfaire

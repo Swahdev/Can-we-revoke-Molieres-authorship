@@ -1,20 +1,3 @@
-médecin
-molière
-fièvre
-édition
-frédéric
-glorieux
-informatique
-éditoriale
-comédie
-médecin
-comédie
-molière
-représentée
-première
-acteurs
-cousine
-père
 conseil
 donneras
 vraiment
@@ -30,6 +13,7 @@ aujourd
 aimé
 comme
 cousine
+confié
 amour
 extrémité
 avisées
@@ -48,7 +32,6 @@ pourriez
 épouser
 laisser
 soûl
-villebrequin
 trouver
 sitôt
 médecin
@@ -72,6 +55,7 @@ faire
 faire
 monsieur
 seulement
+affaires
 conséquence
 quelle
 marché
@@ -139,6 +123,8 @@ dépêchez
 pourquoi
 donner
 désir
+avoir
+jeune
 travaille
 connexité
 etc
@@ -174,6 +160,7 @@ plus
 plus
 plus
 médecin
+faculté
 minérale
 médecin
 médecin
@@ -211,7 +198,6 @@ médecins
 médecin
 commun
 parce
-goût
 mieux
 suites
 vérité
@@ -232,6 +218,7 @@ monsieur
 gouttes
 pauvre
 ordonne
+levée
 oui
 monsieur
 douleurs
@@ -280,6 +267,7 @@ faire
 dépend
 plus
 monsieur
+souhaiterait
 monsieur
 faut
 prendrai
@@ -297,11 +285,12 @@ trouverez
 faut
 avouer
 ceux
-quelque
+science
 particulièrement
 ceux
 font
 médecine
+cause
 utilité
 parce
 plusieurs
@@ -321,7 +310,6 @@ beaucoup
 premiers
 médecine
 estimés
-avoir
 science
 dieux
 faisaient
@@ -329,7 +317,6 @@ jours
 mépriser
 médecin
 rendu
-santé
 parce
 dépend
 remèdes
@@ -371,7 +358,6 @@ appartement
 pouvez
 commodément
 donnes
-temps
 trouver
 faut
 avouer
@@ -504,22 +490,22 @@ réponds
 plus
 fâché
 fenêtre
+attrapé
 coup
 plus
 échapper
 épais
 peur
 coups
-quelque
 ordonnance
 plus
+toutes
 celles
 médecins
 applique
 moins
 cautère
 épaules
-affaires
 pourquoi
 désespérer
 puisque
@@ -570,6 +556,7 @@ oui
 monsieur
 honteux
 pouvez
+supplie
 donner
 satisfaction
 quelle
@@ -583,6 +570,7 @@ faute
 faute
 débauche
 coquin
+avoir
 monsieur
 frère
 désoblig
@@ -594,7 +582,6 @@ quelque
 différend
 font
 fenêtre
-apprendrai
 comme
 baisse
 comme
@@ -616,7 +603,6 @@ souffrir
 auprès
 monsieur
 après
-toutes
 celles
 faites
 fenêtre
@@ -649,7 +635,6 @@ amour
 résous
 quoique
 veux
-toutes
 données
 oui
 monsieur
@@ -709,11 +694,9 @@ naissance
 faites
 tournerait
 coquin
-villebrequin
 dernière
 pardonne
 heureusement
 trompé
 faire
 boire
-santé

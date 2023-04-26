@@ -1,39 +1,3 @@
-molière
-fièvre
-édition
-amélie
-édition
-édition
-frédéric
-glorieux
-informatique
-éditoriale
-molière
-comédie
-comédie
-comédie
-auteur
-monnier
-église
-chapelle
-louis
-privilège
-acteurs
-père
-géronte
-père
-léandre
-léandre
-géronte
-égyptienne
-reconnue
-léandre
-géronte
-léandre
-nérine
-nourrice
-deux
-porteurs
 première
 nouvelles
 cœur
@@ -57,6 +21,8 @@ père
 mandées
 lettre
 lettre
+toutes
+affaires
 affaires
 parle
 veux
@@ -67,7 +33,9 @@ conseille
 moins
 faire
 cruelles
+conjonctures
 trouve
+autant
 conseillât
 retour
 moins
@@ -100,6 +68,7 @@ résolution
 recourir
 seigneur
 désordre
+troublé
 pauvre
 désespéré
 plus
@@ -108,9 +77,11 @@ comment
 père
 seigneur
 géronte
+veulent
 funeste
 inquiétude
 intéresser
+affaires
 jeunes
 pouvais
 trouver
@@ -125,7 +96,6 @@ peu
 veux
 mêler
 génie
-toutes
 fabriques
 gentillesses
 ingénieuses
@@ -159,6 +129,7 @@ résolus
 plus
 faire
 laissez
+aventure
 deux
 mois
 seigneur
@@ -169,7 +140,6 @@ commerce
 où
 leurs
 intérêts
-mêlés
 léandre
 laissés
 pères
@@ -180,6 +150,8 @@ sous
 direction
 oui
 acquitté
+quelque
+temps
 après
 léandre
 jeune
@@ -193,9 +165,9 @@ vérité
 trouvasse
 entretenait
 chaque
+jour
 exagérait
 beauté
-louait
 parlait
 transport
 entretien
@@ -218,6 +190,7 @@ où
 feux
 amour
 où
+accompagnais
 vœux
 rue
 écartée
@@ -233,7 +206,6 @@ moins
 être
 touchés
 où
-curiosité
 presser
 léandre
 entrons
@@ -314,6 +286,7 @@ trépas
 mère
 désespoir
 presse
+supplie
 quoique
 appui
 famille
@@ -363,6 +336,7 @@ père
 mère
 trouver
 quelque
+quelque
 honnête
 donné
 autrefois
@@ -371,7 +345,6 @@ joués
 deux
 dessous
 plus
-signalais
 déjà
 tours
 avoue
@@ -387,7 +360,6 @@ donné
 pleurez
 pourquoi
 soupçonnez
-quelque
 infidélité
 assurée
 amour
@@ -402,7 +374,6 @@ ardeurs
 font
 feux
 éteignent
-facilement
 chère
 cœur
 comme
@@ -411,24 +382,22 @@ jusqu
 veux
 croire
 paroles
-sincères
 crains
 pouvoir
 cœur
 pouvez
-avoir
 dépendez
 père
 autre
 personne
 sûre
 mourrai
-malheur
 père
 puisse
 contraindre
 résoudrai
 quitter
+jour
 plutôt
 quitter
 déjà
@@ -474,6 +443,7 @@ préparez
 soutenir
 père
 avoue
+avance
 timidité
 faut
 pourtant
@@ -507,6 +477,7 @@ tour
 joué
 dû
 conserves
+insolence
 consentement
 père
 clandestin
@@ -528,7 +499,6 @@ répondrai
 assurément
 assurément
 père
-demeurez
 quelle
 pauvre
 espèce
@@ -556,6 +526,7 @@ leurs
 discours
 donneront
 lieu
+sûreté
 pourvoirons
 coquin
 rouerai
@@ -580,14 +551,15 @@ pourquoi
 ouï
 passé
 ouï
-quelque
 comment
+quelque
 quelque
 raison
 pareille
 consentement
 père
 oui
+quelque
 veux
 faire
 soûl
@@ -635,22 +607,25 @@ témoin
 léandre
 toutes
 leçons
+toutes
 faire
+temps
 comme
 autres
 ouï
 autrefois
 faisiez
 plus
+temps
 poussassiez
 demeure
 toujours
 jusqu
 faire
+jeune
 personne
 être
 aimé
-toutes
 trouve
 douceurs
 soupire
@@ -687,8 +662,6 @@ père
 raison
 violence
 faite
-demeurera
-demeurera
 crainte
 faire
 avouer
@@ -737,6 +710,7 @@ unique
 faire
 héritière
 avoue
+train
 autre
 part
 presse
@@ -746,6 +720,8 @@ après
 faire
 trouvée
 seulement
+affidé
+jouer
 personnage
 peu
 enfonce
@@ -768,6 +744,8 @@ première
 géronte
 géronte
 oui
+temps
+aujourd
 assuré
 près
 arrivée
@@ -799,6 +777,7 @@ oui
 géronte
 père
 morigéné
+joué
 tour
 mieux
 moriginé
@@ -821,7 +800,6 @@ géronte
 expliquera
 géronte
 ouï
-quelque
 peut
 faire
 géronte
@@ -864,9 +842,7 @@ transport
 embrassements
 géronte
 oui
-quelque
 démêler
-ensemble
 léandre
 quoi
 géronte
@@ -901,6 +877,7 @@ nouvelles
 léandre
 géronte
 léandre
+quelque
 géronte
 lieu
 ailleurs
@@ -917,6 +894,7 @@ raisons
 être
 découvrir
 père
+demeurera
 secours
 léandre
 trouver
@@ -951,6 +929,7 @@ faite
 oui
 coquin
 trait
+joué
 croyais
 peut
 être
@@ -977,6 +956,7 @@ puisque
 espagne
 présent
 quelques
+jours
 répandis
 eau
 autour
@@ -1003,7 +983,6 @@ avoir
 autre
 léandre
 veux
-doux
 oui
 monsieur
 trois
@@ -1015,7 +994,6 @@ jeune
 couverts
 boue
 trouvé
-voleurs
 dérobé
 montre
 monsieur
@@ -1063,7 +1041,6 @@ faire
 courir
 toutes
 comme
-coutume
 léandre
 souvenir
 lieu
@@ -1093,7 +1070,6 @@ amour
 léandre
 comment
 égyptiens
-point
 chargé
 promptement
 deux
@@ -1155,7 +1131,6 @@ autre
 léandre
 travailler
 léandre
-temps
 presse
 faut
 léandre
@@ -1183,7 +1158,6 @@ puisqu
 présente
 deux
 jouer
-avoir
 peu
 conduite
 considération
@@ -1199,8 +1173,9 @@ mêlée
 cesse
 préparé
 ouï
+longtemps
+parole
 toujours
-retenue
 quoi
 peu
 père
@@ -1247,6 +1222,7 @@ pères
 chagrinés
 leurs
 émeuve
+temps
 personne
 particulière
 trouver
@@ -1276,7 +1252,6 @@ prêté
 faites
 consentement
 pourvu
-demandé
 dessus
 maisons
 quoi
@@ -1308,12 +1283,10 @@ peu
 raisonnable
 moins
 soixante
-soixante
 donne
 soixante
 beaucoup
 faut
-coûtera
 comment
 monsieur
 comme
@@ -1322,6 +1295,7 @@ peu
 donnez
 résous
 donner
+trente
 faut
 monsieur
 monsieur
@@ -1337,7 +1311,6 @@ jurisdiction
 procédures
 animaux
 passer
-procureurs
 rapporteurs
 leurs
 moindre
@@ -1366,13 +1339,11 @@ sollicités
 dévots
 monsieur
 être
-avoir
 seule
 pensée
 faire
 jusqu
 monsieur
-quelque
 hôtesse
 deux
 cents
@@ -1389,7 +1360,6 @@ présentation
 conseils
 productions
 journées
-plaidoiries
 droit
 écritures
 épices
@@ -1472,7 +1442,6 @@ parole
 honneur
 épée
 faire
-jour
 déferai
 fieffé
 faquin
@@ -1551,6 +1520,7 @@ veux
 fais
 laissez
 faire
+manquerai
 autre
 semble
 après
@@ -1577,6 +1547,8 @@ pouvoir
 trouver
 géronte
 faut
+caché
+quelque
 endroit
 puisse
 géronte
@@ -1669,7 +1641,6 @@ géronte
 faire
 galère
 devinait
-malheur
 monsieur
 donné
 deux
@@ -1711,11 +1682,11 @@ géronte
 trouveras
 oui
 géronte
-toutes
 rendant
 monsieur
 plus
 peu
+temps
 donné
 géronte
 faire
@@ -1755,6 +1726,7 @@ cents
 oui
 géronte
 faire
+galère
 raison
 géronte
 autre
@@ -1772,7 +1744,6 @@ dût
 présente
 bourse
 pourtant
-transports
 autre
 avoir
 bourse
@@ -1822,12 +1793,14 @@ cents
 quitte
 veux
 autre
+monnaie
 faite
 auprès
 léandre
 réussi
 entreprise
 léandre
+quelque
 amour
 où
 deux
@@ -1850,6 +1823,7 @@ devienne
 léandre
 redonnes
 père
+tour
 léandre
 témoin
 léandre
@@ -1872,7 +1846,6 @@ entre
 deux
 personne
 lorsqu
-attaque
 amitié
 lorsque
 amour
@@ -1931,6 +1904,7 @@ ressemblance
 destins
 faire
 amitié
+toutes
 deux
 mêmes
 deux
@@ -1939,6 +1913,7 @@ moins
 née
 appui
 parents
+pouvez
 faire
 connaître
 peut
@@ -1964,7 +1939,6 @@ croire
 mérite
 conquête
 plus
-sortes
 puissance
 auprès
 mérite
@@ -1973,6 +1947,7 @@ faut
 trouvent
 traversées
 lorsque
+aimables
 chaînes
 deux
 cœurs
@@ -1993,8 +1968,8 @@ plaisant
 avisé
 lorsqu
 certaine
+goûter
 pourquoi
-gaieté
 cœur
 veux
 méchantes
@@ -2062,7 +2037,6 @@ côtés
 nouvelles
 ceux
 trouvent
-toutes
 avenues
 faire
 droit
@@ -2079,6 +2053,7 @@ personne
 géronte
 géronte
 trouver
+quelque
 courrais
 risque
 faire
@@ -2102,6 +2077,7 @@ faut
 remuer
 comme
 paquet
+quelque
 ennemis
 jusque
 où
@@ -2115,9 +2091,7 @@ ennemis
 attrapés
 jusqu
 surtout
-point
 montrer
-quelque
 puisse
 géronte
 faire
@@ -2129,8 +2103,8 @@ charité
 né
 où
 géronte
-reprenant
 contrefait
+cadédis
 sé
 dé
 géronte
@@ -2148,6 +2122,7 @@ monsieur
 quelle
 oui
 beux
+cadédis
 faire
 mourir
 sous
@@ -2165,7 +2140,6 @@ cé
 seigneur
 géronte
 monsieur
-plaît
 autre
 comment
 traites
@@ -2176,7 +2150,6 @@ dé
 cé
 oui
 monsieur
-cadédis
 donne
 plusieurs
 coups
@@ -2211,15 +2184,18 @@ devais
 peu
 plus
 épargner
+remet
 autre
 étranger
 endroit
+théâtre
 parti
 courir
 comme
 basque
 pouvre
 troufair
+jour
 peu
 monsir
 plaist
@@ -2240,9 +2216,12 @@ assure
 monsieur
 où
 semble
+remuair
 pardonnez
 monsieur
 assurémente
+quelque
+point
 monsieur
 avoir
 coup
@@ -2293,7 +2272,6 @@ tournons
 droit
 coquin
 faut
-enseignes
 où
 messieurs
 où
@@ -2320,6 +2298,7 @@ veux
 comme
 prêt
 géronte
+enfuit
 géronte
 scélérat
 géronte
@@ -2366,7 +2345,6 @@ veux
 risquerai
 aventure
 être
-longtemps
 secrète
 destinée
 trouvasse
@@ -2377,7 +2355,6 @@ mêlent
 quelquefois
 beaucoup
 autres
-jeune
 amour
 comme
 jeunes
@@ -2411,7 +2388,6 @@ fieffé
 plus
 souvenir
 peu
-pouvez
 connu
 être
 géronte
@@ -2429,8 +2405,6 @@ secours
 serviteur
 serviteur
 mérite
-toutes
-louanges
 peut
 donner
 géronte
@@ -2442,7 +2416,6 @@ trouver
 galère
 où
 invités
-jeune
 donné
 galère
 renvoyé
@@ -2464,6 +2437,7 @@ donne
 peut
 résoudre
 entrailles
+souffre
 trouver
 après
 galère
@@ -2488,12 +2462,10 @@ plusieurs
 détours
 après
 avoir
-longtemps
 gémi
 soupiré
 semble
 géronte
-jeune
 père
 tour
 égyptienne
@@ -2519,7 +2491,7 @@ envie
 avoir
 pouvoir
 taire
-affaires
+quelque
 autre
 accordés
 coquin
@@ -2535,7 +2507,6 @@ seigneur
 géronte
 cents
 écus
-attrapé
 deux
 cents
 géronte
@@ -2566,6 +2537,7 @@ espérance
 avoir
 faisais
 partie
+longtemps
 croit
 péri
 où
@@ -2647,9 +2619,9 @@ seigneur
 géronte
 nuées
 passent
-têtes
 pourraient
 pères
+demeurer
 faire
 trouverai
 courroux
@@ -2663,8 +2635,8 @@ géronte
 nérine
 réjouir
 heureuse
+aventure
 père
-toutes
 serviront
 oui
 faut
@@ -2698,11 +2670,9 @@ trouvé
 géronte
 mieux
 père
-point
 séparée
 personne
 mérite
-concevoir
 estime
 connu
 géronte
@@ -2721,7 +2691,6 @@ père
 frère
 réponds
 géronte
-voudrait
 inconnue
 métier
 coureuse
@@ -2784,7 +2753,6 @@ messieurs
 étrange
 état
 mourir
-toutes
 personnes
 puis
 avoir
@@ -2833,7 +2801,6 @@ pardonne
 monsieur
 soulagé
 depuis
-parole
 géronte
 oui
 pardonne
@@ -2842,6 +2809,7 @@ comment
 monsieur
 géronte
 dédis
+parole
 réchappes
 faiblesses
 seigneur

@@ -1,46 +1,3 @@
-comédie
-molière
-fièvre
-édition
-amélie
-édition
-édition
-frédéric
-glorieux
-informatique
-éditoriale
-molière
-comédie
-comédie
-comédie
-molière
-église
-louis
-privilège
-acteurs
-père
-cléante
-élise
-amoureux
-cléante
-élise
-élise
-cléante
-aimée
-père
-maitre
-courtier
-maitre
-jacques
-flèche
-cléante
-brindavoine
-laquais
-laquais
-commissaire
-comédie
-première
-élise
 quoi
 élise
 mélancolique
@@ -152,7 +109,6 @@ après
 avoir
 tirée
 eau
-hommages
 amour
 difficultés
 rebuté
@@ -179,7 +135,6 @@ amour
 prétends
 auprès
 mériter
-quelque
 père
 justifier
 manière
@@ -231,12 +186,12 @@ peur
 complaisance
 manière
 être
+visible
 plus
 toujours
 dupes
 lorsqu
 sincérité
-souffre
 peu
 métier
 fais
@@ -312,7 +267,6 @@ sœur
 amour
 écouter
 faire
-remontrances
 élise
 frère
 cléante
@@ -344,7 +298,6 @@ comme
 élise
 finissons
 cléante
-jeune
 personne
 depuis
 peu
@@ -371,6 +324,7 @@ attraits
 bonté
 honnêteté
 sœur
+voudrais
 élise
 beaucoup
 frère
@@ -420,7 +374,7 @@ rigoureuse
 sécheresse
 étrange
 où
-temps
+avoir
 plus
 faut
 côtés
@@ -439,6 +393,7 @@ lieux
 personne
 fais
 partout
+affaires
 sœur
 miennes
 faille
@@ -474,7 +429,6 @@ pourquoi
 raisons
 flèche
 veux
-sortes
 flèche
 donné
 rue
@@ -487,6 +441,7 @@ faire
 veux
 avoir
 cesse
+yeux
 assiègent
 toutes
 dévorent
@@ -502,10 +457,8 @@ comme
 plaît
 tremble
 soupçonné
-quelque
 faire
 courir
-caché
 flèche
 caché
 coquin
@@ -530,6 +483,7 @@ autres
 oui
 flèche
 flèche
+chausses
 chausses
 recéleurs
 dérobe
@@ -595,7 +549,6 @@ flèche
 assurément
 flèche
 congédié
-conscience
 moins
 boiteux
 élise
@@ -607,6 +560,7 @@ faut
 dépense
 peu
 veux
+voleurs
 toujours
 première
 avoir
@@ -622,6 +576,7 @@ parlé
 seul
 cléante
 père
+longtemps
 élise
 cléante
 quoi
@@ -634,9 +589,10 @@ pardonnez
 ouï
 quelques
 entretenais
+aujourd
 trouver
+bienheureux
 peut
-avoir
 écus
 cléante
 feignions
@@ -644,18 +600,15 @@ peur
 écus
 cléante
 entrons
-affaires
 plût
 écus
 cléante
 crois
 élise
 cléante
-accommoderait
 élise
 comme
 fais
-temps
 misérable
 cléante
 père
@@ -699,6 +652,7 @@ jusqu
 quoi
 faire
 constitution
+toutes
 manières
 déplaisent
 donnez
@@ -726,6 +680,7 @@ lardé
 depuis
 jusqu
 aiguillettes
+chausses
 nécessaire
 lorsque
 peut
@@ -739,16 +694,13 @@ raison
 laissons
 parlons
 autre
-euh
 crois
 font
 autre
-bourse
+veulent
 élise
 frère
 deux
-quelque
-quelque
 deux
 cléante
 père
@@ -775,7 +727,6 @@ plaindre
 prétends
 faire
 commencer
-jeune
 personne
 appelée
 cléante
@@ -830,6 +781,7 @@ résolu
 épouser
 pourvu
 trouve
+quelque
 cléante
 comment
 cléante
@@ -845,7 +797,6 @@ boire
 eau
 claire
 damoiseaux
-flouets
 plus
 vigueur
 poules
@@ -944,6 +895,7 @@ pourrait
 peu
 précipiter
 moins
+quelque
 temps
 pourra
 faut
@@ -978,13 +930,13 @@ où
 avoir
 égard
 inégalité
+humeur
 fâcheux
 réplique
 peut
 quantité
 pères
 mieux
-satisfaction
 leurs
 filles
 pourraient
@@ -1026,6 +978,7 @@ trouver
 soir
 faut
 délai
+quelque
 élise
 découvrira
 médecins
@@ -1066,7 +1019,6 @@ donne
 fasses
 après
 résistez
-remontrances
 monsieur
 suivre
 leçons
@@ -1082,6 +1034,7 @@ tour
 oui
 plus
 précieux
+toutes
 honnête
 père
 donné
@@ -1096,7 +1049,6 @@ parlé
 comme
 heureux
 peut
-avoir
 domestique
 première
 cléante
@@ -1177,19 +1129,20 @@ donné
 assure
 seule
 physionomie
-gagné
 cœur
 cléante
+quinze
 flèche
 oui
 quelques
-conditions
 cléante
 prêter
 flèche
+vraiment
 plus
 mystères
 plus
+aujourd
 empruntée
 être
 famille
@@ -1209,6 +1162,7 @@ montrés
 faire
 supposé
 prêteur
+toutes
 emprunteur
 famille
 où
@@ -1227,7 +1181,6 @@ dressé
 cléante
 flèche
 prêteur
-conscience
 prétend
 donner
 cléante
@@ -1245,6 +1198,7 @@ contraint
 autre
 emprunteur
 intérêt
+préjudice
 prêteur
 cléante
 comment
@@ -1258,9 +1212,9 @@ flèche
 réponse
 faite
 cléante
-quelque
 flèche
 plus
+quinze
 prêteur
 pourra
 livres
@@ -1287,9 +1241,7 @@ conditionné
 bleu
 plus
 queue
-bonne
 aumale
-sèche
 soie
 cléante
 flèche
@@ -1312,19 +1264,16 @@ mousquets
 trois
 assortissantes
 plus
-fourneau
 brique
 deux
 trois
 récipients
 utiles
 ceux
-curieux
 cléante
 flèche
 doucement
 plus
-toutes
 peu
 faut
 plus
@@ -1335,6 +1284,7 @@ faire
 plus
 trois
 remplie
+curiosité
 agréable
 chambre
 dessus
@@ -1384,7 +1334,6 @@ faut
 avouer
 plus
 posé
-patibulaires
 confrères
 mêler
 beaucoup
@@ -1422,6 +1371,7 @@ déjà
 père
 mourra
 mois
+quelque
 charité
 faire
 personnes
@@ -1437,12 +1387,11 @@ monsieur
 moins
 découvert
 personnes
-discrètes
-pouvez
 expliquer
 comment
 monsieur
 personne
+quinze
 livres
 parlé
 comment
@@ -1459,7 +1408,6 @@ après
 cléante
 après
 présenter
-point
 débauches
 précipiter
 dépenses
@@ -1468,7 +1416,6 @@ honteuse
 parents
 sueurs
 cléante
-rougissez
 déshonorer
 commerces
 faites
@@ -1485,14 +1432,11 @@ inventées
 plus
 célèbres
 usuriers
-yeux
 coquin
-yeux
 cléante
 plus
 achète
 faire
-retire
 échauffe
 oreilles
 fâché
@@ -1504,7 +1448,6 @@ monsieur
 tour
 flèche
 flèche
-aventure
 faut
 quelque
 part
@@ -1536,7 +1479,6 @@ espère
 récompense
 flèche
 tires
-quelque
 donne
 céans
 certains
@@ -1565,7 +1507,6 @@ bonnes
 donner
 donne
 prête
-jour
 traire
 ouvrir
 chatouiller
@@ -1614,7 +1555,6 @@ assurément
 peu
 entre
 deux
-yeux
 connais
 quelle
 comment
@@ -1632,7 +1572,6 @@ trouve
 peu
 accoupler
 crois
-marierais
 république
 difficultés
 comme
@@ -1665,7 +1604,6 @@ mère
 peut
 donner
 peu
-saignât
 comme
 épouse
 quelque
@@ -1714,7 +1652,6 @@ oui
 compte
 réel
 pardonnez
-quelque
 réel
 sobriété
 héritage
@@ -1726,8 +1663,8 @@ raillerie
 constituer
 dépenses
 donner
-quittance
 faut
+quelque
 parlé
 certain
 où
@@ -1740,6 +1677,7 @@ peur
 produire
 certains
 désordres
+accommoderaient
 connaissez
 particularité
 épouvantable
@@ -1758,7 +1696,6 @@ vieux
 plus
 faire
 plus
-jeune
 moins
 sexagénaire
 mois
@@ -1782,6 +1719,7 @@ vieux
 père
 épaules
 pensé
+humeur
 aimé
 jeunes
 crois
@@ -1800,6 +1738,7 @@ faut
 fieffée
 trouver
 jeunesse
+avoir
 commun
 jeunes
 peut
@@ -1828,6 +1767,7 @@ trouves
 comment
 tournez
 peu
+plaît
 peut
 mieux
 dégagé
@@ -1835,6 +1775,7 @@ comme
 faut
 incommodité
 fluxion
+temps
 fluxion
 tousser
 peu
@@ -1852,14 +1793,15 @@ sévère
 faute
 peu
 pourriez
-quelque
+facilement
 bonté
 croire
+plairez
 fraise
 antique
 surtout
 charmée
-attaché
+chausses
 pourpoint
 aiguillettes
 aiguilletté
@@ -1875,7 +1817,6 @@ rétablirait
 ravissement
 où
 éclatait
-yeux
 récit
 qualités
 impatience
@@ -1905,7 +1846,6 @@ croire
 monsieur
 jusqu
 fièvre
-toutes
 attaques
 faut
 pourtant
@@ -1958,23 +1898,24 @@ siquenilles
 monsieur
 oui
 personnes
+brindavoine
 monsieur
 pourpoint
 couvert
 monsieur
-chausses
 troué
 derrière
 révérence
 adroitement
+muraille
 présentez
 toujours
 pourpoint
 montrer
 comment
 faire
-huile
 toujours
+chapeau
 lorsque
 œil
 desservira
@@ -1995,11 +1936,11 @@ cléante
 père
 quelle
 raison
+train
 pères
 remarient
 œil
 mère
-souhaitez
 souvenir
 dernière
 surtout
@@ -2014,6 +1955,7 @@ puis
 être
 devienne
 mère
+mentirais
 faire
 ponctuellement
 chapitre
@@ -2029,6 +1971,7 @@ jacques
 deux
 jacques
 plaît
+ôte
 quelle
 cérémonie
 jacques
@@ -2054,7 +1997,6 @@ chère
 plus
 aisée
 pauvre
-autant
 faut
 faire
 chère
@@ -2129,7 +2071,6 @@ jacques
 mieux
 moins
 guère
-quelque
 pâté
 jacques
 faut
@@ -2178,9 +2119,9 @@ foire
 jacques
 monsieur
 courage
+conscience
 donner
 coups
-fouet
 état
 où
 comment
@@ -2207,7 +2148,6 @@ souffrir
 flatteurs
 contrôles
 perpétuels
-bois
 faire
 cour
 fâché
@@ -2225,7 +2165,6 @@ monsieur
 assuré
 jacques
 pardonnez
-mettrais
 colère
 contraire
 faire
@@ -2257,6 +2196,7 @@ trouver
 raison
 donner
 avoir
+reste
 mouton
 dérober
 chevaux
@@ -2265,10 +2205,12 @@ coups
 voulûtes
 part
 où
+toutes
 pièces
 risée
 parle
 sous
+mathieu
 coquin
 jacques
 deviné
@@ -2288,6 +2230,7 @@ donnera
 monsieur
 jacques
 jacques
+doux
 veux
 faire
 craindre
@@ -2302,7 +2245,6 @@ doucement
 jacques
 comment
 doucement
-plaît
 jacques
 monsieur
 jacques
@@ -2321,6 +2263,7 @@ connaissez
 jacques
 pardonnez
 jacques
+goût
 raillerie
 donne
 coups
@@ -2353,7 +2296,6 @@ où
 mourir
 agréablement
 connais
-jeune
 parlé
 peu
 oui
@@ -2362,6 +2304,7 @@ défendre
 respectueuses
 rendues
 avoue
+quelque
 faire
 pouvait
 prendrais
@@ -2394,7 +2337,6 @@ mort
 état
 plus
 réparera
-toutes
 étrange
 lorsque
 être
@@ -2405,6 +2347,7 @@ mort
 suit
 faisons
 épousez
+conditions
 laisser
 veuve
 être
@@ -2427,7 +2370,6 @@ toujours
 témoigner
 raison
 élise
-acquitte
 élise
 devais
 faire
@@ -2456,10 +2398,8 @@ cléante
 cléante
 aventure
 où
-attendais
 père
 peu
-surpris
 lorsqu
 puis
 imprévue
@@ -2481,6 +2421,7 @@ pourriez
 mère
 avoue
 plaît
+souhaite
 discours
 quelques
 assuré
@@ -2489,7 +2430,6 @@ comme
 où
 avoir
 répugnance
-sachant
 comme
 choque
 intérêts
@@ -2509,7 +2449,6 @@ déplaisir
 forcée
 puissance
 donne
-parole
 consentirai
 raison
 faut
@@ -2520,7 +2459,6 @@ offensée
 contraire
 expliquer
 véritables
-aveu
 parlé
 autre
 estimerais
@@ -2621,7 +2559,6 @@ part
 cléante
 cléante
 désespère
-bourreau
 cléante
 père
 faute
@@ -2639,7 +2576,6 @@ monsieur
 colère
 prendrai
 autre
-temps
 cléante
 élise
 monsieur
@@ -2768,6 +2704,7 @@ déclarer
 faveur
 veux
 faire
+aveu
 cléante
 pauvre
 faut
@@ -2781,6 +2718,7 @@ ouvre
 lumières
 élise
 trouve
+quelque
 mère
 déraisonnable
 peut
@@ -2808,10 +2746,8 @@ oui
 raison
 pouvoir
 trouver
-quelque
 peu
 contrefaire
-qualité
 train
 marquise
 vicomtesse
@@ -2857,10 +2793,9 @@ amitié
 déployez
 éloquentes
 placés
-oubliez
+plaît
 paroles
 prières
-touchantes
 puis
 oublierai
 cléante
@@ -2870,7 +2805,6 @@ mère
 prétendue
 mère
 défend
-quelque
 mystère
 dessous
 élise
@@ -2882,6 +2816,7 @@ cléante
 puisque
 père
 conduire
+demeurez
 seules
 cléante
 intérêt
@@ -2906,7 +2841,6 @@ père
 dégoûter
 mère
 mère
-autant
 autre
 pourtant
 cléante
@@ -2921,7 +2855,6 @@ réflexion
 songé
 pourra
 trouver
-jeune
 personne
 considération
 faisait
@@ -2933,6 +2866,7 @@ cléante
 cléante
 cléante
 écoutez
+goût
 faire
 père
 résoudrai
@@ -2942,7 +2876,6 @@ raisonnable
 penses
 veux
 cléante
-pardonnez
 amour
 être
 heureux
@@ -2969,7 +2902,6 @@ cœur
 faut
 vérité
 depuis
-jour
 déclaration
 crainte
 déplaire
@@ -2979,7 +2911,6 @@ oui
 père
 beaucoup
 cléante
-temps
 cléante
 surprise
 déclaré
@@ -2998,7 +2929,6 @@ cléante
 croire
 apparences
 père
-quelque
 bonté
 avoir
 faut
@@ -3085,10 +3015,10 @@ père
 jacques
 raison
 laissez
+demeurez
 trouver
 cléante
 autre
-théâtre
 cléante
 oui
 puisqu
@@ -3192,6 +3122,7 @@ cléante
 père
 cléante
 assure
+toutes
 raisonnable
 cléante
 quelle
@@ -3224,7 +3155,6 @@ comment
 cléante
 père
 trouve
-toutes
 bonté
 parle
 cléante
@@ -3270,6 +3200,7 @@ cléante
 quoi
 flèche
 guigné
+jour
 cléante
 flèche
 trésor
@@ -3307,12 +3238,14 @@ mort
 enterré
 personne
 veuille
+rendant
 personne
 faut
 coup
 beaucoup
 épié
 choisi
+temps
 parlais
 sortons
 veux
@@ -3345,10 +3278,8 @@ commissaire
 laissez
 faire
 métier
-aujourd
 mêle
 découvrir
-avoir
 personnes
 intéressés
 retrouver
@@ -3395,6 +3326,7 @@ jacques
 commissaire
 jacques
 retournant
+égorge
 eau
 bouillante
 dérobé
@@ -3495,7 +3427,6 @@ quoi
 jacques
 comment
 faite
-verrai
 jacques
 comment
 faite
@@ -3508,9 +3439,9 @@ commissaire
 dépeignez
 peu
 jacques
-volée
 jacques
 oui
+appelle
 commissaire
 quelle
 couleur
@@ -3545,10 +3476,8 @@ jacques
 plus
 noire
 plus
-commis
 monsieur
 comment
-parler
 veux
 comme
 veux
@@ -3557,6 +3486,7 @@ déguiser
 découverte
 comment
 bonté
+introduire
 exprès
 jouer
 tour
@@ -3567,7 +3497,6 @@ veux
 détours
 jacques
 deviné
-conjonctures
 puisqu
 raisons
 quelles
@@ -3610,8 +3539,8 @@ amour
 amour
 louis
 monsieur
-tenté
 ébloui
+proteste
 prétendre
 pourvu
 laissiez
@@ -3656,6 +3585,7 @@ raison
 comme
 prêt
 souffrir
+toutes
 violences
 croire
 moins
@@ -3669,7 +3599,6 @@ trempé
 veux
 confesses
 endroit
-enlevée
 chère
 sortie
 monsieur
@@ -3683,13 +3612,11 @@ brûlé
 mieux
 mourir
 avoir
-paraître
 pensée
 honnête
 honnête
 désirs
 beaux
-yeux
 inspirée
 beaux
 parle
@@ -3736,7 +3663,6 @@ désespoir
 monsieur
 faites
 dû
-dressez
 comme
 comme
 suborneur
@@ -3750,6 +3676,7 @@ comme
 pratiques
 leçons
 données
+laisses
 amour
 consentement
 trompés
@@ -3788,6 +3715,7 @@ moins
 donnée
 lorsque
 plus
+longtemps
 oui
 père
 péril
@@ -3832,6 +3760,7 @@ autre
 seigneur
 partie
 faire
+toutes
 poursuites
 faire
 épouser
@@ -3859,7 +3788,6 @@ imposteurs
 tirent
 illustre
 cœur
-quelque
 peut
 témoignage
 naissance
@@ -3880,7 +3808,6 @@ laissez
 veux
 donné
 oui
-quelque
 autre
 puisse
 mieux
@@ -3895,7 +3822,7 @@ oui
 prêt
 soutenir
 vérité
-merveilleuse
+confondre
 moins
 périt
 dérober
@@ -3903,7 +3830,6 @@ cruelles
 persécutions
 accompagné
 désordres
-exiler
 plusieurs
 familles
 oui
@@ -3913,11 +3839,9 @@ sauvé
 espagnol
 sauvé
 parle
-capitaine
 touché
 amitié
 comme
-emploi
 trouvai
 depuis
 peu
@@ -3987,7 +3911,6 @@ lieux
 où
 presque
 vécu
-languissante
 traits
 puissance
 fais
@@ -4012,11 +3935,11 @@ personne
 nouvelle
 famille
 peu
+sûreté
 retourner
 toujours
 trouver
 faire
-habitué
 où
 sous
 éloigner
@@ -4025,6 +3948,7 @@ causé
 oui
 partie
 écus
+avoir
 jacques
 jacques
 oui
@@ -4056,7 +3980,6 @@ réponds
 dépend
 quoi
 déterminez
-pouvez
 choisir
 donner
 ôté

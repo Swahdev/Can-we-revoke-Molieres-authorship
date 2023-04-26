@@ -1,23 +1,3 @@
-école
-comédie
-molière
-fièvre
-édition
-amélie
-édition
-édition
-frédéric
-glorieux
-informatique
-éditoriale
-molière
-école
-comédie
-comédie
-école
-comédie
-molière
-représentée
 guillaume
 libraire
 juré
@@ -35,7 +15,6 @@ proportionnées
 livre
 plus
 trouvera
-assemblage
 étrange
 quelques
 pourront
@@ -58,7 +37,6 @@ ouvrage
 présent
 fais
 devoir
-hommages
 monseigneur
 dédier
 parce
@@ -69,6 +47,7 @@ appréhension
 idées
 éclater
 bassesse
+imposé
 silence
 trouver
 endroit
@@ -83,7 +62,6 @@ monseigneur
 possible
 obéissant
 serviteur
-molière
 personnages
 frère
 frère
@@ -98,7 +76,6 @@ notaire
 comédie
 première
 frère
-plaît
 discourons
 comme
 vieux
@@ -141,7 +118,6 @@ pourpoints
 sous
 jusqu
 appelés
-chausses
 souliers
 font
 ressembler
@@ -197,7 +173,6 @@ rechignée
 quoi
 attaché
 démordre
-point
 habillement
 veux
 coiffure
@@ -227,7 +202,6 @@ humeur
 destin
 faisant
 raisonnable
-aujourd
 enfermée
 où
 menée
@@ -266,6 +240,7 @@ moindre
 intérêt
 raisonne
 comme
+plaît
 parents
 père
 conduite
@@ -277,6 +252,7 @@ père
 donner
 puissance
 souci
+gouvernez
 laissez
 gré
 régir
@@ -291,7 +267,6 @@ veux
 laquais
 consens
 coure
-oisiveté
 damoiseaux
 fleurée
 satisfait
@@ -305,10 +280,9 @@ enfermée
 personne
 applique
 recoudre
+heures
 quelque
 discours
-avoir
-faible
 veux
 puis
 comme
@@ -317,6 +291,7 @@ prétends
 pouvoir
 répondre
 crois
+apprendrai
 faut
 sortir
 léonor
@@ -354,7 +329,6 @@ faut
 cesse
 après
 précautions
-quelque
 plus
 plus
 sûr
@@ -375,6 +349,7 @@ souffrez
 frère
 discours
 faire
+quelque
 raison
 peu
 retient
@@ -441,7 +416,6 @@ entre
 inégalité
 peut
 épouser
-choisir
 ailleurs
 destins
 meilleurs
@@ -480,7 +454,6 @@ désirs
 complaisants
 jusqu
 laisser
-mouches
 souffrir
 troublée
 courir
@@ -526,6 +499,7 @@ comme
 plus
 apprises
 frère
+humeur
 parti
 autre
 quelle
@@ -568,7 +542,6 @@ séjour
 peut
 produire
 faut
-introduire
 parlait
 champs
 cieux
@@ -609,13 +582,13 @@ auprès
 lieux
 solitaires
 quoi
-temps
 parfois
 sérieux
 emplois
 faites
 soirs
 retire
+plaît
 peut
 mieux
 réponse
@@ -658,6 +631,7 @@ contrôlent
 conduite
 fièrement
 visière
+yeux
 soupirants
 aigreur
 outrages
@@ -713,7 +687,6 @@ personne
 seulement
 donne
 part
-jour
 amour
 oui
 rentre
@@ -722,6 +695,7 @@ jeune
 étourdi
 fais
 rigueur
+temps
 étonne
 après
 lumière
@@ -761,7 +735,6 @@ contrainte
 incivilité
 égaler
 ouïr
-veulent
 mieux
 faire
 cérémonie
@@ -782,7 +755,6 @@ destinée
 honneur
 feux
 plaît
-laissent
 monsieur
 oui
 peut
@@ -829,11 +801,9 @@ peu
 autres
 jusqu
 faire
-aventure
 part
 déplaisant
 mystère
-caché
 dessous
 personne
 veuille
@@ -886,6 +856,7 @@ donner
 surprenant
 droit
 chambre
+jetée
 lettre
 poulet
 cachetée
@@ -904,7 +875,6 @@ faire
 mieux
 amour
 cœur
-emploi
 plus
 puis
 écrire
@@ -916,6 +886,7 @@ honneur
 toujours
 défendre
 lire
+lors
 éclater
 ouïr
 trouve
@@ -925,6 +896,7 @@ promptement
 reportée
 mieux
 connaisse
+aujourd
 mépris
 éclatant
 cœur
@@ -949,7 +921,6 @@ raisons
 bonnes
 donnes
 deux
-remettre
 ravissement
 cœur
 lorsque
@@ -999,6 +970,7 @@ mesures
 horreur
 menacée
 jours
+toutes
 résolution
 devais
 plutôt
@@ -1022,7 +994,6 @@ faire
 résolution
 prise
 surtout
-temps
 presse
 deux
 cœurs
@@ -1046,6 +1017,7 @@ leurs
 gré
 décris
 mêmes
+coquetterie
 comme
 édit
 expressément
@@ -1058,7 +1030,10 @@ monsieur
 cheveux
 amoureux
 trouver
+quelque
+jeune
 coquette
+fleurette
 poudre
 moineaux
 amour
@@ -1115,7 +1090,6 @@ oui
 dépendant
 destins
 cœur
-opposaient
 ardeur
 quoi
 faut
@@ -1126,7 +1100,6 @@ cieux
 faille
 jusqu
 soupir
-quelque
 étouffe
 poursuites
 mérites
@@ -1172,7 +1145,6 @@ cieux
 faille
 jusqu
 soupir
-quelque
 étouffe
 poursuite
 mérite
@@ -1187,7 +1159,6 @@ dur
 mort
 font
 poursuites
-honnêteté
 amour
 mérite
 avoir
@@ -1215,6 +1186,7 @@ part
 prévenir
 journée
 destinée
+pardonnez
 honnête
 passe
 raillerie
@@ -1257,6 +1229,7 @@ ennui
 souffrir
 trouver
 moins
+nierait
 part
 après
 quoi
@@ -1266,7 +1239,6 @@ pouvoir
 surprendre
 plus
 soupirs
-malheur
 être
 deux
 faut
@@ -1276,6 +1248,7 @@ oublierai
 donne
 retour
 impatience
+plaît
 pouvoir
 pouponne
 cœur
@@ -1337,7 +1310,6 @@ part
 plaintes
 explique
 cœur
-consens
 erreur
 jeune
 cœur
@@ -1359,6 +1331,7 @@ amour
 quoi
 montre
 vœux
+pouvez
 être
 oui
 monsieur
@@ -1388,13 +1361,11 @@ veux
 deux
 différents
 cœur
-agité
 font
 mouvements
 où
 honneur
 intéresse
-toute
 estime
 autre
 colère
@@ -1419,7 +1390,6 @@ tourments
 faut
 espérance
 heureux
-affranchisse
 plus
 mort
 oui
@@ -1473,7 +1443,6 @@ faire
 plus
 souffrir
 horreur
-offensé
 fais
 plains
 état
@@ -1487,6 +1456,7 @@ oui
 trois
 jours
 plus
+odieux
 plains
 cœur
 plainte
@@ -1524,9 +1494,9 @@ contraindre
 fais
 rigueurs
 trouver
+quelque
 auprès
 censeurs
-temps
 presse
 crainte
 part
@@ -1540,6 +1510,7 @@ prié
 retour
 souffrît
 jusques
+jour
 quoi
 confuse
 comment
@@ -1558,6 +1529,7 @@ comment
 croire
 éperdument
 transport
+pouvez
 puissance
 extrême
 puisque
@@ -1592,6 +1564,7 @@ chambre
 répond
 contrefait
 quelques
+doux
 retienne
 adroitement
 trouves
@@ -1602,7 +1575,6 @@ insensée
 rougissez
 avoir
 amour
-sortes
 chaque
 oublier
 espérance
@@ -1682,7 +1654,6 @@ crois
 peur
 où
 pourra
-suivons
 peu
 trouble
 moins
@@ -1691,6 +1662,7 @@ entreprise
 oui
 oui
 veux
+quelque
 faites
 prévient
 chienne
@@ -1761,7 +1733,6 @@ notaire
 monsieur
 notaire
 oui
-notaire
 commissaire
 plus
 honneur
@@ -1787,7 +1758,6 @@ directeur
 suranné
 damoiseau
 faire
-quelque
 comment
 nouvelle
 quoi
@@ -1837,6 +1807,7 @@ raille
 raillerie
 pauvre
 léonor
+mutuelle
 songé
 poursuivre
 discours
@@ -1888,6 +1859,7 @@ commissaire
 faut
 messieurs
 vœux
+transports
 lieu
 peuvent
 deux
@@ -1902,7 +1874,6 @@ désirs
 leurs
 veuillent
 commissaire
-notaire
 fenêtre
 messieurs
 personne
@@ -1921,7 +1892,6 @@ plutôt
 amour
 séparer
 détrompé
-erreur
 léonor
 veux
 quoi
@@ -1937,6 +1907,7 @@ trouvera
 commissaire
 avoir
 après
+consens
 veux
 rirons
 frère
@@ -1971,6 +1942,7 @@ entretien
 bleus
 discours
 croient
+avoir
 meilleur
 lorsqu
 railler
@@ -1990,6 +1962,7 @@ laisser
 vœux
 cœur
 méprisant
+suffrage
 comme
 amour
 doux
@@ -2012,7 +1985,6 @@ satisfaire
 vœux
 deux
 dessus
-fondement
 frère
 quoi
 conté
@@ -2021,6 +1993,7 @@ aujourd
 depuis
 léonor
 commissaire
+notaire
 léonor
 sœur
 généreux
@@ -2055,6 +2028,7 @@ doucement
 faut
 boire
 procédés
+cause
 malheureux
 sachant
 dupé

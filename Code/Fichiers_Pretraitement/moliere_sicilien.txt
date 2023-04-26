@@ -1,37 +1,9 @@
-amour
-molière
-fièvre
-édition
-amélie
-édition
-édition
-frédéric
-glorieux
-informatique
-éditoriale
-comédie
-amour
-comédie
-molière
-louis
-privilège
-acteurs
-français
-grecque
-sœur
-sénateur
-troupe
-troupe
-maures
-deux
-laquais
-amour
-comédie
 demeurez
 endroit
 jusqu
 noir
 comme
+habillé
 soir
 étoile
 montre
@@ -43,7 +15,6 @@ réglé
 humeurs
 réduit
 faire
-tous
 soucis
 peut
 épouser
@@ -78,6 +49,7 @@ pouvoir
 trouver
 pouvoir
 amour
+yeux
 plaire
 déplaire
 plus
@@ -106,7 +78,6 @@ après
 crois
 parfois
 faut
-quelque
 autre
 manière
 oui
@@ -115,6 +86,7 @@ veux
 jusques
 faire
 musique
+quelque
 fenêtre
 meilleur
 faut
@@ -130,8 +102,8 @@ connais
 écoutez
 peu
 veux
-quelque
 passionné
+quelque
 entretienne
 autre
 faut
@@ -175,6 +147,7 @@ touchés
 deuxième
 oiseaux
 réjouis
+jour
 recommencent
 leurs
 chants
@@ -201,6 +174,7 @@ quelle
 erreur
 rigueur
 faveurs
+lier
 cœur
 auprès
 vouer
@@ -219,9 +193,8 @@ flambeaux
 chambre
 épée
 sous
-quelque
+temps
 faut
-obscurité
 découvrir
 quelles
 peuvent
@@ -244,6 +217,9 @@ faire
 faut
 pourtant
 trouver
+quelque
+quelque
+quelque
 avoir
 démenti
 devrais
@@ -296,9 +272,8 @@ facilement
 laissez
 faire
 seulement
-essayerai
-toutes
 manières
+quelque
 pourra
 réussir
 lieu
@@ -324,6 +299,7 @@ peu
 surveillants
 sous
 fenêtres
+vrai
 musique
 faisait
 veux
@@ -353,7 +329,6 @@ applaudisse
 cœur
 conquêtes
 font
-yeux
 aimée
 pourquoi
 plus
@@ -387,7 +362,6 @@ prétend
 avoue
 pouvoir
 étude
-affaires
 guères
 colère
 donne
@@ -414,7 +388,6 @@ laissez
 comme
 part
 amour
-aujourd
 humeur
 désobligeante
 pardonne
@@ -423,6 +396,7 @@ où
 pouvez
 être
 être
+levée
 faisant
 plusieurs
 révérences
@@ -438,6 +412,7 @@ comme
 mêle
 peu
 musique
+danse
 quelques
 trouver
 plût
@@ -448,7 +423,6 @@ plaisent
 faites
 chanson
 nouvelle
-temps
 écoutez
 chante
 dansent
@@ -456,10 +430,11 @@ chante
 cœur
 lieux
 suit
+odieux
 éternelle
 peut
-yeux
 plus
+cruelle
 cœur
 amoureux
 ouch
@@ -468,6 +443,7 @@ sous
 expire
 œil
 peu
+doux
 consent
 attraits
 soupire
@@ -505,7 +481,6 @@ faut
 périsse
 monsieur
 déjà
-quelque
 trouvé
 rencontré
 aujourd
@@ -543,7 +518,7 @@ préparé
 toutes
 préparer
 veux
-point
+temps
 goûte
 seigneur
 plaît
@@ -563,7 +538,6 @@ plus
 agréable
 avoir
 portrait
-achevé
 personne
 surtout
 récompense
@@ -600,6 +574,7 @@ beaucoup
 gloire
 ouvrage
 faire
+quelque
 comme
 peu
 couvrir
@@ -650,7 +625,6 @@ faisant
 tourner
 peu
 comme
-plaît
 dépend
 donne
 personnes
@@ -660,6 +634,7 @@ toujours
 tournés
 attachés
 comme
+veulent
 faisant
 portraits
 elles
@@ -668,6 +643,7 @@ toujours
 plus
 faire
 portrait
+toutes
 mêmes
 surtout
 plus
@@ -702,6 +678,8 @@ messieurs
 français
 répand
 partout
+guère
+sortes
 éclairé
 quelle
 source
@@ -716,6 +694,7 @@ ouvrage
 toujours
 peu
 réveiller
+gaieté
 nécessaire
 personnes
 espagnol
@@ -725,6 +704,7 @@ entre
 seigneur
 connu
 seigneur
+gilles
 espagne
 mérite
 oui
@@ -748,6 +728,7 @@ plus
 court
 ennemi
 parlons
+plaît
 parle
 oui
 depuis
@@ -771,12 +752,10 @@ puis
 résoudre
 résout
 oui
-consens
 lorsqu
 résolu
 arrête
 seigneur
-soufflet
 conseil
 pourrai
 pareille
@@ -787,9 +766,9 @@ cœur
 témoignages
 parle
 près
-côté
 croyais
 aujourd
+finirons
 autre
 faites
 ouvrage
@@ -800,7 +779,6 @@ demeurer
 français
 autres
 oui
-émancipent
 peu
 étourdis
 fleurettes
@@ -822,6 +800,7 @@ peut
 jusques
 toujours
 voilée
+avoir
 trouvée
 peu
 découvert
@@ -856,6 +835,7 @@ matières
 lorsqu
 défendu
 parlé
+remettre
 quoi
 parti
 délicat
@@ -869,7 +849,6 @@ comme
 amitié
 veux
 entre
-conditions
 suivre
 mieux
 obligée
@@ -878,7 +857,6 @@ croire
 assure
 réjouie
 lorsque
-raccommodé
 sous
 puisque
 donner
@@ -906,7 +884,6 @@ monstre
 personne
 autre
 intérêt
-serrures
 personnes
 cœur
 faut
@@ -934,7 +911,6 @@ sénateur
 sénateur
 maures
 dansent
-admirablement
 souffrir
 sénateur
 merveilleux
@@ -953,7 +929,6 @@ parle
 parle
 sénateur
 veux
-aujourd
 autres
 messieurs
 sénateur

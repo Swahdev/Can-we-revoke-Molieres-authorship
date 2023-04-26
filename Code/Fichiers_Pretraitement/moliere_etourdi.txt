@@ -1,30 +1,3 @@
-étourdi
-comédie
-molière
-fièvre
-édition
-amélie
-édition
-édition
-frédéric
-glorieux
-informatique
-éditoriale
-moliere_etourdi
-moliere_etourdi
-molière
-étourdi
-temps
-comédie
-comédie
-étourdi
-contretemps
-comédie
-représentée
-molière
-quinet
-prisonniers
-privilège
 messire
 messire
 seigneur
@@ -38,7 +11,9 @@ vicomté
 monsieur
 après
 avoir
+longtemps
 cherché
+quelque
 être
 laisser
 échapper
@@ -61,11 +36,9 @@ gloire
 plus
 cour
 plus
-tiendrait
 glorieux
 avoir
 mériter
-toutes
 font
 différence
 entre
@@ -89,7 +62,6 @@ applaudissement
 gloire
 peuples
 également
-satisfaits
 illustres
 mémoire
 périra
@@ -181,6 +153,7 @@ lélie
 lélie
 quoi
 lélie
+toutes
 contraires
 léandre
 célie
@@ -230,7 +203,7 @@ crois
 romanesque
 avecque
 chimères
-affaires
+toutes
 monsieur
 père
 moins
@@ -238,7 +211,6 @@ souvent
 manière
 déportements
 visière
-parole
 époux
 seul
 pourra
@@ -300,8 +272,6 @@ trouve
 détours
 prétentions
 laissez
-quelque
-temps
 pourrais
 coup
 nécessaire
@@ -314,6 +284,7 @@ trouvé
 faut
 lélie
 où
+songeais
 lélie
 quelle
 pourriez
@@ -353,12 +324,10 @@ peut
 faire
 ouvrir
 moindre
-bourse
 célie
 dessus
 fenêtre
 lélie
-jour
 coin
 demeurons
 lélie
@@ -392,6 +361,7 @@ blessure
 peu
 faut
 mieux
+sachons
 célie
 lélie
 malheureux
@@ -438,6 +408,7 @@ misérable
 découvrir
 amoureux
 espérer
+quelque
 heureux
 sûr
 puis
@@ -478,7 +449,6 @@ beaucoup
 dépend
 gouverneur
 célie
-malheur
 fâcheux
 toujours
 éclaire
@@ -503,7 +473,9 @@ monsieur
 blessé
 crainte
 dessous
+quelque
 fieffés
+jouer
 flûtes
 mieux
 chargés
@@ -537,10 +509,14 @@ faut
 autre
 siècle
 étrange
+nôtre
 amour
 aujourd
+quelque
 emploie
 comme
+accouchement
+bourse
 entre
 agréablement
 lorsque
@@ -587,6 +563,7 @@ quoi
 comme
 époux
 quoi
+bourse
 sienne
 lorsque
 mérite
@@ -606,7 +583,6 @@ moindre
 présent
 récompenser
 souviendras
-plaît
 intérêt
 pourtant
 honneur
@@ -645,7 +621,6 @@ lélie
 faites
 aujourd
 extrême
-avancerons
 lélie
 français
 puisque
@@ -662,14 +637,15 @@ seul
 lélie
 quoi
 oui
+bourreau
 lélie
 deviné
 être
+raffiné
 lélie
 devais
 oui
 devais
-avoir
 laissez
 plus
 autre
@@ -702,6 +678,7 @@ chaque
 patience
 croirais
 pourtant
+ensemble
 monsieur
 croyance
 toujours
@@ -719,7 +696,6 @@ pensée
 faisait
 donnais
 appui
-aujourd
 comme
 toujours
 opprimée
@@ -753,6 +729,7 @@ peut
 répondre
 répondre
 chansons
+confondre
 cœur
 semences
 honneur
@@ -805,6 +782,7 @@ raisonné
 conseil
 plaît
 faire
+avoir
 promptement
 funeste
 oui
@@ -884,6 +862,7 @@ faire
 puissance
 détourner
 coup
+plaindrez
 désormais
 oui
 pauvre
@@ -896,7 +875,6 @@ faute
 pourrais
 résoudre
 quitter
-quelque
 cœur
 comme
 peut
@@ -910,7 +888,6 @@ déjà
 commence
 courroux
 faut
-endurer
 pourras
 crois
 produise
@@ -946,10 +923,12 @@ coup
 crainte
 pauvre
 retenue
+trois
 croix
 entreprenait
 entre
 devait
+livrer
 puis
 amour
 emploierais
@@ -962,6 +941,7 @@ monsieur
 cou
 lélie
 faut
+quelque
 faire
 décharger
 première
@@ -1006,8 +986,10 @@ trésor
 comme
 présent
 deux
+aujourd
 produis
 quoi
+jouez
 personnage
 lélie
 seul
@@ -1018,11 +1000,9 @@ amoureux
 heureux
 amour
 peut
-aujourd
 approuver
 douceur
 prompts
-parole
 préparer
 jouer
 nouvelle
@@ -1037,7 +1017,6 @@ mourir
 lélie
 peut
 souffrir
-maints
 lieux
 transport
 mort
@@ -1092,6 +1071,7 @@ douleur
 empaqueté
 étrange
 peu
+temps
 peu
 parfois
 lélie
@@ -1117,7 +1097,6 @@ faites
 modère
 lélie
 connais
-humeur
 serviteur
 nécessaire
 faire
@@ -1180,7 +1159,6 @@ guères
 faire
 disparaissez
 bonté
-comble
 santé
 défunte
 seigneurie
@@ -1222,13 +1200,16 @@ peuvent
 crainte
 étranges
 ressorts
+joué
 pièce
 vraiment
 raison
 peu
-quelque
+aujourd
+jouer
 donné
 faire
+enclouure
 nœud
 aventure
 souci
@@ -1258,6 +1239,7 @@ lélie
 cœur
 chèrement
 toujours
+nourrira
 franchise
 méprise
 louis
@@ -1323,6 +1305,7 @@ véritable
 lélie
 courroux
 monsieur
+quelque
 colère
 veux
 quoi
@@ -1335,6 +1318,7 @@ lélie
 indifférence
 plus
 peu
+malheur
 avoueras
 trépas
 éludais
@@ -1378,6 +1362,7 @@ quoi
 jurent
 effectuer
 aujourd
+tuer
 léandre
 lélie
 lélie
@@ -1455,8 +1440,8 @@ léandre
 quitte
 transport
 plu
+temps
 comme
-jour
 pût
 parti
 semble
@@ -1492,6 +1477,7 @@ déterminer
 exprès
 choisie
 laquelle
+livrer
 célie
 ôter
 trouver
@@ -1539,6 +1525,7 @@ après
 exploit
 veux
 apprête
+laurier
 portrait
 lettres
 connue
@@ -1586,11 +1573,11 @@ seul
 plus
 désire
 lire
+parole
 outrage
 faites
 fâcheux
 paquet
-avoir
 donné
 espoir
 espagne
@@ -1598,6 +1585,7 @@ courrier
 plus
 commencement
 peu
+temps
 plus
 lélie
 transport
@@ -1633,8 +1621,10 @@ songeais
 trouver
 lorsque
 digéré
+produit
 fais
 lélie
+plaît
 donne
 patience
 lettre
@@ -1670,11 +1660,11 @@ tour
 loue
 moins
 dextérité
+romps
 concerté
 pouvoir
 louer
 mérite
-manque
 éloquence
 oui
 étaler
@@ -1682,7 +1672,6 @@ exploit
 vigueur
 personne
 avoir
-celles
 plus
 exquis
 beaux
@@ -1731,6 +1720,7 @@ sortir
 après
 beaux
 coups
+raisonnons
 peu
 violence
 impatience
@@ -1775,7 +1765,6 @@ léandre
 lassé
 poursuite
 laissât
-jour
 médite
 oui
 roule
@@ -1815,7 +1804,6 @@ lieu
 prétendre
 plus
 léandre
-yeux
 trouver
 acquérir
 extrêmes
@@ -1827,10 +1815,8 @@ hyménée
 pourriez
 épouser
 léandre
-obscurité
 trouve
 destin
-douces
 cœurs
 léandre
 quoi
@@ -1854,7 +1840,6 @@ après
 sucrée
 passer
 puis
-quelque
 peu
 métier
 devoir
@@ -1915,6 +1900,7 @@ lorsqu
 trouvent
 léandre
 chérir
+caresses
 moquerais
 finesses
 lélie
@@ -1946,6 +1932,7 @@ bonnes
 beauté
 plus
 communes
+reste
 commun
 lélie
 léandre
@@ -2044,7 +2031,6 @@ découvrir
 lélie
 mourir
 léandre
-nôtre
 lélie
 trait
 comment
@@ -2052,7 +2038,6 @@ doucement
 lélie
 veux
 double
-bourreau
 quelque
 donne
 lélie
@@ -2083,7 +2068,7 @@ soupçonne
 pardonne
 désabusé
 motifs
-imposé
+commis
 compte
 trouvé
 quitte
@@ -2122,7 +2107,6 @@ pièce
 présent
 lélie
 étonne
-romps
 moins
 être
 informé
@@ -2134,7 +2118,6 @@ leurs
 ressorts
 toujours
 crois
-toutes
 aventures
 contretemps
 mesures
@@ -2181,6 +2164,7 @@ pareilles
 comme
 dures
 état
+prochain
 font
 faire
 réflexion
@@ -2210,7 +2194,6 @@ après
 fatigues
 cessons
 cours
-intrigues
 tourmenter
 léandre
 célie
@@ -2260,6 +2243,7 @@ presque
 soupçon
 toujours
 couvert
+toutes
 poursuites
 coup
 craindrons
@@ -2275,6 +2259,7 @@ où
 lièvre
 puis
 partage
+point
 donnés
 lélie
 lélie
@@ -2282,7 +2267,6 @@ prétend
 plus
 certain
 arrêter
-lors
 couru
 partie
 dessus
@@ -2296,7 +2280,6 @@ nouvelle
 reconnaîtrai
 assurément
 jouera
-quelque
 trait
 veux
 part
@@ -2314,6 +2297,7 @@ lélie
 certaines
 font
 donner
+veulent
 célie
 dieux
 lélie
@@ -2341,11 +2325,11 @@ canaille
 seigneur
 bonsoir
 lélie
-quelque
 autre
 lélie
 quelle
 surprise
+nôtre
 deviné
 secrètes
 raisons
@@ -2370,6 +2354,7 @@ moins
 faut
 léandre
 masqué
+suite
 léandre
 faisons
 quoi
@@ -2412,6 +2397,7 @@ cœur
 être
 lélie
 comment
+simulé
 bridé
 sire
 empressement
@@ -2425,10 +2411,8 @@ avance
 faussement
 naissance
 mêler
-quelque
 peu
 tiré
-épingle
 touché
 ardeur
 donner
@@ -2440,7 +2424,6 @@ trouble
 pouvoir
 longuement
 près
-quelque
 honnête
 être
 paisiblement
@@ -2472,6 +2455,7 @@ jusques
 trois
 peut
 être
+suffisance
 quelque
 lélie
 différer
@@ -2483,8 +2467,8 @@ dure
 dessus
 aventure
 autrefois
-appelait
 parti
+quelque
 émeute
 seulement
 soupçonné
@@ -2493,6 +2477,7 @@ sortir
 éclat
 jeune
 laissées
+quelque
 trouvant
 trépassées
 nouvelle
@@ -2507,7 +2492,6 @@ où
 mieux
 être
 certain
-jeune
 conduit
 donne
 durant
@@ -2518,14 +2502,13 @@ après
 découvert
 moindre
 seulement
-fondement
 arménie
 autre
 turquie
 plutôt
 trouvé
 rêvé
-aventure
+quelque
 corsaire
 puis
 être
@@ -2546,7 +2529,7 @@ leçons
 étendues
 lélie
 répétitions
-fait
+superflues
 donner
 trait
 lélie
@@ -2595,7 +2578,6 @@ précepteur
 lélie
 faire
 compte
-quelque
 lélie
 seul
 couchant
@@ -2636,7 +2618,6 @@ plus
 parlé
 lélie
 plus
-quelque
 peu
 moins
 crois
@@ -2647,7 +2628,6 @@ pourrait
 lorsqu
 précepteur
 depuis
-temps
 pouvoir
 connaître
 autrement
@@ -2668,7 +2648,6 @@ avoir
 lumière
 père
 répondra
-repassais
 peu
 leçon
 autrefois
@@ -2707,6 +2686,7 @@ beaucoup
 mérite
 avoir
 depuis
+accompagné
 discrétion
 entretien
 dure
@@ -2749,6 +2729,7 @@ père
 déguiser
 comme
 pareille
+aventure
 œil
 amour
 éclater
@@ -2762,6 +2743,7 @@ capricieux
 désigne
 lieux
 coureuse
+emploi
 métier
 gueuse
 plus
@@ -2769,6 +2751,7 @@ trouve
 éclat
 ardeurs
 peut
+quelque
 souffrir
 méprise
 léandre
@@ -2776,7 +2759,7 @@ abaissement
 ouvrez
 peu
 aveuglement
-toutes
+heures
 plus
 courtes
 erreurs
@@ -2791,7 +2774,6 @@ peu
 défense
 tiédeur
 suit
-jouissance
 bouillants
 mouvements
 ardeurs
@@ -2862,7 +2844,6 @@ répand
 lélie
 pourrait
 plus
-retenue
 presque
 entretenue
 oui
@@ -2879,8 +2860,8 @@ lélie
 comment
 comment
 où
-seoir
 toujours
+avoir
 soif
 morceaux
 touchés
@@ -2910,6 +2891,7 @@ attaché
 dessus
 comme
 joueur
+boule
 après
 mouvement
 sienne
@@ -2961,6 +2943,7 @@ premièrement
 puis
 apôtre
 donner
+jouer
 autre
 arménien
 déguisé
@@ -2974,6 +2957,7 @@ sous
 prétexte
 laquelle
 ouï
+parole
 parole
 quoiqu
 faites
@@ -2992,6 +2976,7 @@ monsieur
 arménie
 toujours
 lélie
+supplie
 monsieur
 imposteur
 aujourd
@@ -3008,10 +2993,8 @@ entrée
 lélie
 coquin
 lélie
-bourreau
 lélie
 quoi
-plaît
 rentre
 lélie
 éclatant
@@ -3042,6 +3025,7 @@ doncques
 sortie
 oui
 souvent
+jouez
 piquet
 moins
 faites
@@ -3053,6 +3037,7 @@ misérables
 pourquoi
 chassé
 mieux
+emploi
 moins
 soupçonné
 être
@@ -3087,7 +3072,6 @@ peut
 lélie
 oui
 quoi
-entreprenne
 lélie
 fièvre
 quartaine
@@ -3097,7 +3081,6 @@ quitter
 graisser
 lélie
 faut
-malheur
 suit
 toujours
 quoi
@@ -3108,6 +3091,7 @@ fais
 suffise
 moindre
 entreprise
+demeurez
 lélie
 oui
 faut
@@ -3131,7 +3115,6 @@ autre
 léandre
 quitter
 partie
-troubler
 père
 arrivé
 espérance
@@ -3151,6 +3134,7 @@ crois
 pourrai
 départ
 donner
+temps
 nécessaire
 autres
 rarement
@@ -3167,6 +3151,7 @@ vrais
 délibérés
 dessus
 espoir
+quelque
 aveuglément
 plus
 toujours
@@ -3215,6 +3200,7 @@ veux
 poursuivre
 coups
 célie
+quelque
 peu
 départ
 répugnance
@@ -3229,20 +3215,18 @@ aventures
 contraint
 célie
 andrès
+andrès
 célie
 cœur
 prouver
 ardeur
 vénitiens
 jeune
-quelque
 estime
 courage
 pouvais
-jour
 croire
 prétendre
-emploi
 lorsqu
 oublier
 métamorphose
@@ -3255,6 +3239,7 @@ depuis
 séparé
 beaucoup
 plus
+temps
 auguré
 épargné
 temps
@@ -3280,6 +3265,7 @@ pouvoir
 comme
 faut
 suivre
+consens
 cœur
 être
 auprès
@@ -3292,6 +3278,7 @@ explique
 cœur
 douleur
 violence
+quelque
 peu
 puissance
 moins
@@ -3306,17 +3293,15 @@ plaire
 écriteau
 célie
 andrès
-andrès
 seigneur
 suisse
+andrès
 pourrons
 être
 oui
 estrancher
 méchant
-andrès
 crois
-andrès
 oui
 montsieur
 quoi
@@ -3328,10 +3313,10 @@ coûter
 méchant
 andrès
 pourmener
+andrès
 faire
 promptement
 prête
-andrès
 chavoir
 entre
 entre
@@ -3380,7 +3365,6 @@ certaine
 égyptienne
 piquée
 faut
-obtienne
 déjà
 manqué
 plusieurs
@@ -3388,6 +3372,7 @@ coups
 andrès
 lélie
 célie
+andrès
 épargné
 coûte
 lélie
@@ -3398,7 +3383,6 @@ lélie
 discours
 surprenant
 andrès
-santé
 partir
 pouvant
 lélie
@@ -3416,6 +3400,7 @@ nullement
 lélie
 enragé
 faire
+quelque
 nouveau
 bissêtre
 lélie
@@ -3450,7 +3435,6 @@ demeurez
 peu
 lélie
 lélie
-feignais
 sortir
 déguisement
 pouvais
@@ -3476,12 +3460,11 @@ heureux
 célie
 lélie
 andrès
-andrès
 parlé
 lélie
 pourrait
 être
-bienfait
+andrès
 rigueur
 dépens
 cœur
@@ -3514,10 +3497,10 @@ trépas
 seul
 prêter
 destin
-manque
 plus
 mourir
 couronnement
+toutes
 dépit
 fautes
 commises
@@ -3542,7 +3525,6 @@ près
 déjà
 cœur
 comme
-nôtre
 voudrait
 faire
 autre
@@ -3561,12 +3543,11 @@ souffrira
 intérêts
 oui
 peut
-avoir
 plus
 cœur
 couronne
 moins
-choisir
+point
 autre
 mépris
 faire
@@ -3605,6 +3586,7 @@ traits
 chaînes
 semblent
 chaque
+toutefois
 pouvoir
 lorsque
 vôtres
@@ -3626,6 +3608,7 @@ part
 assurés
 pouvoir
 leurs
+charmes
 prendront
 pareilles
 pourtant
@@ -3642,6 +3625,7 @@ célie
 crois
 aveuglement
 aisément
+trouveriez
 peu
 souhaitable
 trouverait
@@ -3678,6 +3662,7 @@ songeait
 autre
 défigurée
 près
+longtemps
 considérée
 enroué
 injurieux
@@ -3692,15 +3677,13 @@ deux
 efforçaient
 peu
 leurs
+chienne
 louve
 leurs
 deux
-têtes
 cheveux
 rendu
 risiblement
-affreux
-andrès
 éclat
 accourus
 aventure
@@ -3708,13 +3691,14 @@ décharpir
 leurs
 fureur
 poussés
-chacune
 après
 tempête
 causait
 humeur
 première
+rumeur
 émue
+longtemps
 erreur
 lieux
 oui
@@ -3729,13 +3713,14 @@ famille
 traits
 faisait
 sorcière
+rendant
 familière
 trésor
+malheur
 crois
 douleur
 entre
 faisant
-fâcheux
 mort
 deux
 faut
@@ -3745,11 +3730,13 @@ devenue
 récit
 répétait
 plusieurs
+andrès
 quelque
 quoi
 trouver
 heureusement
 jusqu
+cherché
 pourtant
 reconnaître
 source
@@ -3764,7 +3751,9 @@ inquiétudes
 études
 durant
 lieux
+poussait
 désir
+curieux
 pourtant
 après
 secrète
@@ -3785,7 +3774,6 @@ faire
 égyptienne
 reconnaît
 sienne
-andrès
 frère
 comme
 sœur
@@ -3794,6 +3782,7 @@ plus
 possesseur
 prétend
 reconnaître
+obtient
 épouse
 père
 témoin
@@ -3863,6 +3852,7 @@ faute
 estime
 pouvais
 arrêtait
+doux
 détournait
 cœur
 aveu
@@ -3876,6 +3866,7 @@ dépend
 destinée
 lélie
 célie
+andrès
 léandre
 pouvoir
 détruire
@@ -3885,7 +3876,6 @@ coup
 imprévu
 destins
 plus
-doux
 vœux
 couronnés
 célie
@@ -3894,7 +3884,6 @@ croirai
 puissance
 oui
 résolue
-andrès
 lélie
 faut
 doucement

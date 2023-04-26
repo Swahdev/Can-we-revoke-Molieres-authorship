@@ -1,31 +1,10 @@
-imposteur
-molière
-fièvre
-édition
-amélie
-édition
-édition
-frédéric
-glorieux
-informatique
-éditoriale
-molière
-imposteur
-comédie
-comédie
-imposteur
-comédie
-molière
-dépens
-auteur
-église
-chapelle
-louis
 préface
 comédie
 beaucoup
+longtemps
 persécutée
 plus
+puissants
 france
 ceux
 joués
@@ -40,7 +19,6 @@ raillerie
 effarouchés
 trouvé
 étrange
-jouer
 leurs
 décrier
 métier
@@ -61,6 +39,7 @@ piété
 autre
 trouve
 mérite
+toutes
 moindre
 coup
 œil
@@ -74,6 +53,7 @@ désavantage
 soumettre
 lumières
 censure
+corrections
 faire
 messieurs
 honorée
@@ -81,7 +61,6 @@ publiquement
 présence
 témoignage
 trouvée
-veulent
 démordre
 jours
 font
@@ -99,6 +78,7 @@ chaleur
 intérêts
 donner
 défendre
+vrais
 dévots
 veux
 partout
@@ -160,6 +140,7 @@ mêlée
 naissance
 confrérie
 appartient
+aujourd
 lieu
 donné
 représenter
@@ -182,7 +163,6 @@ privilégiés
 conséquence
 plus
 autres
-théâtre
 plus
 beaux
 traits
@@ -197,6 +177,7 @@ plupart
 leurs
 défauts
 risée
+souffre
 aisément
 répréhensions
 raillerie
@@ -206,7 +187,6 @@ méchant
 avoir
 piété
 imposteur
-pouvais
 représenter
 semble
 connaître
@@ -224,8 +204,8 @@ peut
 craindre
 généralement
 détestées
-quelque
 faisant
+théâtre
 autorité
 scélérat
 apparence
@@ -292,7 +272,6 @@ antiquité
 plus
 célèbres
 donné
-louanges
 comédie
 faisaient
 austère
@@ -330,7 +309,6 @@ disciplinée
 sous
 vigueur
 avoue
-temps
 où
 comédie
 jours
@@ -342,6 +320,7 @@ médecine
 révère
 comme
 plus
+excellentes
 où
 rendue
 souvent
@@ -387,6 +366,7 @@ comédie
 avoir
 censurée
 certains
+temps
 censure
 raisons
 renfermée
@@ -397,6 +377,7 @@ faut
 faire
 coupable
 comédie
+attaquer
 comédie
 défendre
 faut
@@ -405,6 +386,7 @@ deux
 personnes
 mœurs
 opposées
+elles
 autre
 ressemblance
 épouvantable
@@ -435,6 +417,7 @@ dépeint
 plus
 touchantes
 pleines
+sortes
 représentations
 honnête
 étage
@@ -459,6 +442,7 @@ supposé
 comme
 piété
 souffrent
+hommes
 soutiens
 peut
 trouver
@@ -477,14 +461,12 @@ intitulée
 veux
 pourquoi
 comédie
-molière
 quoi
 répondit
 raison
 comédie
 messieurs
 soucient
-molière
 mêmes
 peuvent
 souffrir
@@ -503,7 +485,6 @@ laissez
 laissez
 plus
 toutes
-acquitte
 mère
 où
 puis
@@ -511,7 +492,6 @@ complaire
 souci
 oui
 édifiée
-toutes
 leçons
 contrariée
 parle
@@ -525,7 +505,6 @@ mère
 prédit
 père
 méchant
-garnement
 tourment
 crois
 sœur
@@ -563,6 +542,7 @@ peu
 humeur
 cœur
 monsieur
+bienheureux
 faut
 écoute
 puis
@@ -599,6 +579,7 @@ autre
 faire
 coups
 prévois
+suite
 quelque
 éclat
 céans
@@ -643,6 +624,7 @@ suit
 cesse
 plantés
 laquais
+assemblage
 font
 éclat
 fâcheux
@@ -673,6 +655,7 @@ ceux
 conduite
 plus
 toujours
+premiers
 médire
 manquent
 promptement
@@ -681,7 +664,6 @@ moindre
 nouvelle
 beaucoup
 donner
-tour
 leurs
 couleurs
 autoriser
@@ -689,6 +671,7 @@ leurs
 sous
 faux
 espoir
+quelque
 ressemblance
 intrigues
 donner
@@ -706,6 +689,8 @@ austère
 personne
 défendant
 cœurs
+voyant
+yeux
 baisser
 quitte
 pompeux
@@ -715,7 +700,6 @@ déguiser
 faiblesse
 retours
 coquettes
-temps
 dur
 déserter
 inquiétude
@@ -754,8 +738,6 @@ pieuses
 paroles
 chansons
 souvent
-prochain
-bonne
 part
 médire
 sensés
@@ -779,6 +761,7 @@ veux
 plus
 céans
 moitié
+temps
 donnant
 corneilles
 oreilles
@@ -801,12 +784,15 @@ depuis
 entêté
 frère
 plus
+fait
 mère
 unique
 directeur
 maîtresse
+avoir
 plus
 plus
+autant
 morceaux
 parle
 coups
@@ -821,7 +807,6 @@ jusqu
 mêle
 faire
 leçon
-mouches
 autre
 mouchoir
 trouva
@@ -831,9 +816,9 @@ parures
 cléante
 heureux
 être
+point
 discours
 comme
-point
 veux
 venue
 cléante
@@ -846,13 +831,13 @@ soupçon
 père
 détours
 intérêt
-ardeur
 sœur
 sœur
 chère
 entre
 cléante
 frère
+bonjour
 cléante
 sortais
 retour
@@ -874,7 +859,6 @@ fièvre
 jusqu
 soir
 étrange
-concevoir
 frais
 pauvre
 soir
@@ -956,6 +940,7 @@ oui
 autre
 entretien
 avoir
+toutes
 amitiés
 détache
 verrais
@@ -963,7 +948,6 @@ mourir
 frère
 mère
 soucierais
-autant
 cléante
 frère
 comme
@@ -1004,6 +988,7 @@ honneur
 intérêt
 extrême
 font
+doux
 plus
 montre
 jusqu
@@ -1013,6 +998,7 @@ moindre
 presque
 jusque
 autre
+jour
 avoir
 faisant
 prière
@@ -1032,13 +1018,14 @@ entiché
 comme
 plus
 prêché
+quelque
 méchante
 cléante
 discours
-veulent
 comme
 être
 avoir
+yeux
 simagrées
 sacrées
 discours
@@ -1058,12 +1045,14 @@ conduit
 ceux
 font
 beaucoup
+vrais
 dévots
 suivre
 ceux
 font
 quoi
 entre
+hypocrisie
 dévotion
 traiter
 honneur
@@ -1072,6 +1061,7 @@ sincérité
 confondre
 apparence
 vérité
+autant
 personne
 fausse
 plupart
@@ -1100,13 +1090,11 @@ frère
 docteur
 révéré
 retiré
-science
 faux
 faire
 différence
 comme
 plus
-priser
 parfaits
 dévots
 plus
@@ -1114,6 +1102,7 @@ plus
 ferveur
 véritable
 plus
+odieux
 plâtré
 spécieux
 dévots
@@ -1127,6 +1116,7 @@ intérêt
 font
 dévotion
 métier
+veulent
 crédit
 dignités
 faux
@@ -1145,8 +1135,8 @@ leurs
 prompts
 couvrent
 intérêt
+autant
 plus
-dangereux
 colère
 révère
 gré
@@ -1158,6 +1148,7 @@ aisés
 connaître
 siècle
 frère
+yeux
 peuvent
 glorieux
 périandre
@@ -1181,12 +1172,14 @@ mêler
 pécheur
 péché
 seulement
+veulent
 extrême
 intérêts
 plus
 comme
 faut
 faut
+bonne
 faux
 éclat
 crois
@@ -1203,6 +1196,7 @@ discours
 oui
 cléante
 lien
+doux
 cléante
 pourquoi
 différer
@@ -1260,7 +1254,6 @@ méprise
 comment
 père
 cœur
-doux
 époux
 père
 pourquoi
@@ -1278,6 +1271,7 @@ résolu
 comme
 vœux
 faites
+curiosité
 presse
 écouter
 vraiment
@@ -1342,6 +1336,7 @@ piété
 naissance
 procédé
 dévotion
+souffre
 éclats
 quoi
 discours
@@ -1350,6 +1345,7 @@ personne
 laissons
 noblesse
 possesseur
+quelque
 peu
 ennui
 comme
@@ -1387,7 +1383,6 @@ chansons
 faut
 père
 donné
-parole
 outre
 jouer
 soupçonne
@@ -1426,6 +1421,7 @@ monsieur
 intérêt
 toujours
 retourne
+plaît
 veux
 veux
 monsieur
@@ -1493,14 +1489,13 @@ déférence
 moquerais
 époux
 donner
-soufflet
 péché
 plus
 état
 poursuivre
 discours
+insolents
 peu
-parole
 faut
 souffrir
 moindre
@@ -1550,7 +1545,6 @@ mourir
 sortir
 merveilleux
 lorsque
-sortes
 quelle
 humeur
 déplaisirs
@@ -1567,6 +1561,7 @@ père
 fieffé
 entièrement
 coiffé
+manque
 arrêtée
 faute
 être
@@ -1647,7 +1642,6 @@ puisque
 désormais
 désespoir
 cœur
-maux
 infaillible
 quitte
 courroux
@@ -1710,10 +1704,10 @@ déjà
 résolutions
 prétexte
 autoriser
-parole
 cœur
 véritable
 ardeur
+avoir
 pensée
 oui
 oui
@@ -1744,6 +1738,7 @@ gloire
 faut
 oublier
 moins
+lâcheté
 pardonne
 montrer
 amour
@@ -1765,11 +1760,9 @@ moins
 cœur
 extrême
 oui
-conçoit
 être
 nommé
 mieux
-euh
 lorsqu
 retourne
 quoi
@@ -1805,7 +1798,6 @@ autre
 veux
 faire
 remettre
-avoir
 démêlé
 comme
 parlé
@@ -1862,6 +1854,7 @@ plus
 aisé
 longueur
 remédie
+quelque
 coup
 délais
 présages
@@ -1920,6 +1913,7 @@ comme
 père
 laissez
 mère
+quelque
 crédit
 complaisant
 pourrait
@@ -1937,6 +1931,7 @@ pourra
 faire
 faut
 prête
+quelque
 espoir
 laissez
 puis
@@ -1962,7 +1957,6 @@ couvrez
 blessées
 coupables
 pensées
-fait
 quelle
 chaleur
 convoiter
@@ -2051,6 +2045,7 @@ ouf
 faire
 plutôt
 étoffe
+moelleuse
 laissez
 chatouilleuse
 chaise
@@ -2074,7 +2069,6 @@ part
 merveilleux
 attraits
 félicité
-fait
 cœur
 crois
 soupirs
@@ -2091,6 +2085,7 @@ peuvent
 charmés
 ouvrages
 parfaits
+attraits
 réfléchis
 pareilles
 étale
@@ -2172,7 +2167,6 @@ où
 cœur
 surmonta
 prières
-tourna
 vœux
 soupirs
 mieux
@@ -2201,7 +2195,6 @@ paroles
 leurs
 progrès
 cesse
-point
 faveurs
 déshonore
 où
@@ -2229,7 +2222,6 @@ amitié
 bénignité
 témérité
 faiblesse
-violents
 amour
 considérerez
 autres
@@ -2256,6 +2248,7 @@ semble
 avoir
 conduit
 confondre
+orgueil
 ouvrir
 hypocrisie
 détromper
@@ -2280,11 +2273,11 @@ autrement
 miennes
 épargner
 raillerie
-orgueil
 triomphé
 courroux
 excité
 désordre
+longtemps
 gouverné
 père
 desservi
@@ -2308,6 +2301,8 @@ régaler
 père
 frais
 surprendra
+toutes
+caresses
 monsieur
 reconnaît
 déclarer
@@ -2315,7 +2310,6 @@ moins
 déshonorer
 faisait
 injurieux
-aveu
 coupable
 humeur
 cœur
@@ -2345,7 +2339,6 @@ chargé
 souillures
 ordures
 mortifier
-quelque
 puisse
 avoir
 défendre
@@ -2373,6 +2366,7 @@ laissez
 apparence
 moins
 vérité
+vaux
 oui
 plus
 détestés
@@ -2406,7 +2400,6 @@ bonté
 quoi
 aujourd
 déchaînés
-impudemment
 ôter
 dévot
 personnage
@@ -2428,7 +2421,6 @@ résistes
 gueux
 oui
 sortirai
-quittons
 donne
 plus
 malédiction
@@ -2509,7 +2501,6 @@ entière
 plus
 parents
 faite
-toute
 pauvre
 écrit
 puisse
@@ -2535,7 +2526,6 @@ usé
 accusé
 chrétien
 pardonner
-éteindre
 cœur
 désir
 souffrir
@@ -2560,6 +2550,7 @@ après
 égale
 commerce
 entre
+porterait
 croirait
 politique
 partout
@@ -2596,7 +2587,6 @@ faire
 monsieur
 ordonne
 après
-aujourd
 ordonne
 cléante
 ordonne
@@ -2694,13 +2684,13 @@ plaindre
 donnée
 père
 infortunée
+doux
 espoir
 défendez
 être
 moins
 tourment
 être
-quelque
 désespoir
 pouvoir
 cœur
@@ -2709,6 +2699,7 @@ font
 faites
 éclater
 donnez
+consens
 cœur
 moins
 jusques
@@ -2734,6 +2725,7 @@ quoi
 défends
 seul
 cléante
+quelque
 conseil
 souffrez
 réponde
@@ -2749,6 +2741,7 @@ aveuglement
 coiffé
 prévenu
 démentir
+aujourd
 crois
 apparences
 complaisances
@@ -2773,8 +2766,8 @@ simplement
 éclat
 dessus
 plaît
+nullement
 douceur
-montrions
 honneur
 moindre
 dévisager
@@ -2806,6 +2799,7 @@ peut
 clairement
 peut
 erreur
+longtemps
 dure
 faut
 plus
@@ -2818,6 +2812,7 @@ rusé
 peut
 être
 surprendre
+malaisé
 aisément
 dupé
 amour
@@ -2856,6 +2851,7 @@ témérités
 comme
 seul
 mieux
+confondre
 vœux
 répondre
 lieu
@@ -2880,12 +2876,14 @@ faut
 surprise
 frayeur
 extrême
+transports
 trouble
 possédée
 démentir
 idée
 mieux
 plus
+sûreté
 estime
 où
 dissipé
@@ -2924,7 +2922,6 @@ donner
 raison
 trouve
 amour
-dompte
 trouve
 avouer
 toujours
@@ -2935,9 +2932,11 @@ cœur
 vœux
 honneur
 faire
+aveu
 pudeur
 peu
 puisque
+parole
 lâchée
 attachée
 douceur
@@ -2962,6 +2961,7 @@ extrême
 couler
 traits
 suavité
+goûta
 plaire
 suprême
 étude
@@ -2978,22 +2978,20 @@ apprête
 faut
 librement
 expliquer
-doux
 peu
 faveurs
 après
 quoi
 soupire
 assurer
-charmantes
 tousse
 quoi
 vitesse
 cœur
 épuiser
 faire
+aveu
 plus
-doux
 peut
 jusqu
 satisfaire
@@ -3017,6 +3015,7 @@ mériter
 témérités
 croirai
 réalités
+convaincre
 amour
 trouble
 étrange
@@ -3051,7 +3050,6 @@ scélérat
 parle
 trouve
 accommodements
-science
 étendre
 liens
 conscience
@@ -3063,6 +3061,7 @@ désir
 réponds
 toussez
 oui
+plaît
 morceau
 réglisse
 fâcheux
@@ -3131,14 +3130,12 @@ convaincre
 peur
 méprendre
 derrière
-contentement
 visité
 œil
 appartement
 personne
 trouve
 arrêtant
-doux
 amoureuse
 envie
 passionner
@@ -3229,7 +3226,6 @@ faux
 faveur
 prête
 où
-conscience
 faire
 vérité
 cléante
@@ -3241,12 +3237,11 @@ faites
 légèrement
 peut
 pousser
-quelque
 plus
+doux
 quoi
 sous
 ferveur
-touchante
 cœur
 double
 méchante
@@ -3255,13 +3250,13 @@ désormais
 horreur
 cléante
 emportements
+doux
 tempéraments
 droite
 raison
 entre
 toujours
 autre
-erreur
 connu
 prévenu
 quelle
@@ -3302,6 +3297,7 @@ cléante
 quoi
 père
 coquin
+bienfait
 courroux
 oui
 douleurs
@@ -3316,10 +3312,12 @@ sortir
 faut
 cléante
 jeune
+modérez
 plaît
 éclatants
 sous
 règne
+temps
 où
 violence
 cléante
@@ -3344,6 +3342,7 @@ retiré
 pauvre
 puis
 croire
+commettre
 noire
 comment
 enviés
@@ -3358,12 +3357,11 @@ envieux
 mourront
 envie
 discours
+aujourd
 déjà
 médisants
 extrême
 mère
-yeux
-langues
 toujours
 répandre
 puisse
@@ -3416,14 +3414,12 @@ dédale
 pousser
 jusque
 faire
-orgueil
 ressentiments
 cléante
 cœur
 pût
 entre
 deux
-quelque
 donné
 matière
 état
@@ -3466,6 +3462,7 @@ désire
 début
 présage
 déjà
+accommodement
 monsieur
 toujours
 chère
@@ -3502,9 +3499,9 @@ monsieur
 plaît
 présent
 comme
+reste
 monsieur
 appartient
-conteste
 désormais
 seigneur
 duquel
@@ -3512,6 +3509,7 @@ porteur
 peut
 monsieur
 monsieur
+avoir
 monsieur
 raisonnable
 doux
@@ -3519,6 +3517,7 @@ monsieur
 oui
 monsieur
 faire
+rébellion
 souffrirez
 honnête
 personne
@@ -3557,6 +3556,7 @@ ordonnance
 seulement
 passer
 plaît
+troubler
 souffrir
 faut
 être
@@ -3652,7 +3652,9 @@ suite
 réduit
 parti
 soudaine
+longtemps
 depuis
+remettre
 traits
 état
 mépris
@@ -3678,6 +3680,7 @@ amusement
 peut
 être
 louis
+point
 trait
 foudroyant
 coups
@@ -3690,7 +3693,6 @@ faut
 autre
 être
 reconnaître
-jour
 généreux
 autres
 cléante
@@ -3717,7 +3719,6 @@ cléante
 modération
 avoue
 comme
-impudemment
 emportements
 émouvoir
 faire
@@ -3768,9 +3769,11 @@ distraire
 faire
 traiter
 coupable
+aujourd
 pourquoi
 délivrez
 monsieur
+criaillerie
 daignez
 oui
 demeurer
@@ -3786,7 +3789,6 @@ raison
 monsieur
 sous
 ennemi
-fraude
 font
 cœurs
 peut
@@ -3865,6 +3867,7 @@ laissez
 misérable
 plutôt
 cœur
+jour
 heureux
 retour
 détestant
@@ -3882,5 +3885,6 @@ peu
 devoir
 autre
 pourvoir
+doux
 couronner
 généreux

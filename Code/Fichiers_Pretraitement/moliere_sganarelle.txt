@@ -1,32 +1,3 @@
-comédie
-molière
-fièvre
-édition
-amélie
-édition
-édition
-frédéric
-glorieux
-informatique
-éditoriale
-conversions
-comédie
-molière
-comédie
-comédieavec
-chaque
-guillaume
-libraire
-juré
-privilège
-réprésenté
-première
-monsieur
-troupe
-comédiens
-monsieur
-frère
-unique
 monsieur
 comédie
 première
@@ -37,6 +8,7 @@ retourner
 autres
 comme
 retient
+facilement
 frappent
 entière
 prémédité
@@ -48,7 +20,6 @@ où
 entretenait
 génie
 pièces
-théâtre
 coulai
 autres
 enchérir
@@ -63,7 +34,7 @@ récités
 retourner
 aussitôt
 extraordinairement
-sortes
+curieux
 ouvrages
 écrivit
 parce
@@ -163,7 +134,6 @@ avantageusement
 pièce
 surpasse
 beaucoup
-toutes
 celles
 faites
 quoique
@@ -204,6 +174,7 @@ plaît
 étonner
 après
 pièces
+extraordinaire
 réussite
 puisque
 forcé
@@ -224,13 +195,16 @@ beautés
 pièce
 agréments
 donne
+sortes
 ouvrages
+toutefois
 faire
 endroits
 où
 nécessaire
 quoiqu
 poètes
+jeux
 certains
 endroits
 où
@@ -318,7 +292,6 @@ souvent
 jeune
 cœur
 lélie
-presser
 agréer
 autre
 époux
@@ -354,6 +327,7 @@ illustre
 père
 peu
 lecture
+sortes
 livres
 cesse
 qualités
@@ -368,6 +342,7 @@ plus
 tristes
 pensées
 presse
+affligée
 plus
 recours
 ordinaires
@@ -397,13 +372,11 @@ mieux
 peut
 utile
 corbleu
-échauffer
 pourriez
 éprouver
 beaucoup
 longueur
 montrer
-quelque
 vigueur
 plus
 court
@@ -411,6 +384,7 @@ court
 destine
 quelle
 humeur
+plaît
 informé
 partage
 époux
@@ -423,8 +397,8 @@ honnête
 célie
 donne
 colère
+transporte
 empressements
-jour
 lire
 romans
 amour
@@ -440,7 +414,6 @@ faut
 lieu
 quatrains
 conseiller
-matthieu
 ouvrage
 beaux
 réciter
@@ -466,6 +439,7 @@ survenu
 dégage
 lélie
 céder
+avoir
 donne
 plus
 certain
@@ -519,7 +493,6 @@ après
 avoir
 trouve
 décrire
-toutes
 douceurs
 exécute
 envie
@@ -535,6 +508,7 @@ parce
 goûter
 lélie
 parfaitement
+toutes
 lorsque
 goûte
 personne
@@ -586,8 +560,8 @@ donnât
 précepteur
 répéter
 leçon
+jeune
 frère
-bonne
 raison
 lorsque
 discourant
@@ -601,6 +575,7 @@ maîtresse
 chétive
 pécheresse
 pauvre
+chérubin
 embonpoint
 merveilleux
 œil
@@ -621,7 +596,6 @@ avoir
 célie
 peux
 conseiller
-commettre
 lélie
 lélie
 puisque
@@ -656,6 +630,7 @@ portrait
 lélie
 où
 pourrait
+dieux
 célie
 courte
 comme
@@ -692,6 +667,7 @@ pourrez
 partout
 approchons
 trouve
+quelque
 fenêtre
 veux
 surprendre
@@ -752,6 +728,7 @@ subitement
 lieux
 trompé
 désir
+curieux
 fais
 plus
 peu
@@ -771,6 +748,7 @@ nôtres
 procédé
 commun
 commencements
+toutes
 témoignent
 ardeurs
 pareilles
@@ -782,7 +760,6 @@ dépit
 autorise
 comme
 comme
-voudrait
 portrait
 célie
 laissé
@@ -845,8 +822,6 @@ entièrement
 parfait
 autre
 croit
-avoir
-autant
 plus
 avoir
 croyant
@@ -867,7 +842,6 @@ envoyais
 fondement
 pièce
 pourquoi
-curiosité
 croyait
 morte
 faut
@@ -881,6 +855,7 @@ soupçon
 émue
 plus
 plus
+priser
 part
 quoi
 poursuit
@@ -903,7 +878,6 @@ parti
 pourriez
 peut
 trouver
-quelque
 donner
 amour
 beautés
@@ -931,6 +905,7 @@ peu
 cou
 puis
 pourquoi
+doux
 vœux
 portrait
 lélie
@@ -951,12 +926,12 @@ moins
 deux
 côtes
 discours
-jouer
 tours
 tours
 parle
 plaindre
 pourvoir
+vraiment
 après
 avoir
 plus
@@ -1010,6 +985,7 @@ plaît
 autre
 endroit
 auteur
+avoir
 placée
 mieux
 faire
@@ -1019,11 +995,9 @@ lélie
 parle
 depuis
 jours
-longues
 traites
 piquer
 chiennes
-train
 secoués
 membres
 roués
@@ -1091,12 +1065,12 @@ moins
 représenter
 pièce
 puisque
-joué
 arraché
 portrait
 considérer
 lorsque
 lélie
+voyant
 ressemblait
 où
 portrait
@@ -1104,9 +1078,12 @@ donné
 maîtresse
 dessus
 épaule
+voyant
 considérer
 portrait
 comme
+voudrait
+quelque
 puisse
 obsédé
 lélie
@@ -1159,6 +1136,7 @@ malheureux
 connu
 lélie
 part
+dieux
 portrait
 croire
 pauvre
@@ -1190,14 +1168,12 @@ fleur
 peut
 passer
 faut
-marmouset
 étourneau
 lélie
 part
 portrait
 portrait
 tourne
-curieux
 lélie
 part
 surprise
@@ -1208,7 +1184,6 @@ veux
 puis
 lélie
 puis
-aventure
 trouver
 part
 portrait
@@ -1281,7 +1256,6 @@ lélie
 seule
 évanouissement
 deux
-puissantes
 raisons
 pénibles
 travaux
@@ -1308,7 +1282,6 @@ maîtresse
 évanouisse
 premiers
 censeurs
-miraculeux
 quoiqu
 paraissent
 plus
@@ -1390,16 +1363,14 @@ devait
 soutenir
 intérêt
 feux
-quelque
 outrage
 mêlant
 travaux
 donne
 coup
 cœur
-chancelant
+faible
 lélie
-point
 pitié
 pauvre
 faiblesse
@@ -1412,7 +1383,6 @@ passe
 après
 produire
 mieux
-imaginé
 pourrez
 lire
 trouvé
@@ -1424,7 +1394,6 @@ prêt
 monsieur
 faiblesse
 lélie
-subitement
 crains
 évanouissement
 passe
@@ -1436,11 +1405,12 @@ poussin
 représenter
 quelle
 où
+paraît
 parent
 discours
+paraître
 moins
 auteur
-avoir
 pièce
 manière
 représente
@@ -1463,7 +1433,6 @@ faire
 part
 remontre
 souvent
-erreur
 honneur
 délicat
 mieux
@@ -1496,11 +1465,11 @@ connu
 premiers
 seul
 démentir
+toutes
 sortes
 croit
 facilement
 commence
-visions
 lorsque
 lélie
 conduit
@@ -1574,12 +1543,10 @@ espèce
 célie
 sortir
 conduit
-yeux
 jusqu
 trompée
 lélie
 dépit
-avoir
 après
 croit
 avoir
@@ -1611,8 +1578,6 @@ amour
 comme
 donnent
 auditeur
-extraordinaire
-contentement
 pourquoi
 pourrez
 connaître
@@ -1636,7 +1601,6 @@ retour
 lieux
 poursuit
 heureux
-avoir
 malheureux
 plutôt
 avoir
@@ -1650,9 +1614,11 @@ après
 demeure
 croisés
 comme
+jocrisse
 devais
 moins
 chapeau
+quelque
 hautement
 faire
 honneur
@@ -1690,6 +1656,7 @@ comment
 damoiseau
 révérence
 avérer
+aujourd
 commerce
 célie
 oui
@@ -1721,7 +1688,6 @@ possible
 célie
 scélérat
 double
-bonne
 célie
 célie
 avoir
@@ -1805,6 +1771,7 @@ bouillant
 peu
 pourrait
 dessus
+bois
 comme
 cœur
 colériques
@@ -1818,7 +1785,6 @@ faut
 laissons
 pourtant
 coup
-transpercé
 trépas
 honneur
 plus
@@ -1852,9 +1818,11 @@ devraient
 régler
 autres
 dépit
+querelles
 soif
 troublent
 faire
+fondement
 moquons
 méprisons
 sous
@@ -1876,6 +1844,7 @@ trépas
 pourtant
 remuer
 conseiller
+quelque
 oui
 courroux
 être
@@ -1953,6 +1922,7 @@ mariée
 lorsque
 célie
 croit
+avoir
 plus
 lieu
 plaindre
@@ -1968,6 +1938,7 @@ pourront
 lélie
 éloigne
 veux
+moins
 célie
 quoi
 lélie
@@ -1995,6 +1966,7 @@ présent
 autre
 résolution
 lélie
+toutes
 pièces
 comme
 moins
@@ -2011,7 +1983,6 @@ révérences
 puis
 quartier
 faire
-quelque
 généreux
 derrière
 après
@@ -2030,6 +2001,7 @@ tourmente
 célie
 moins
 inquiétude
+enflammés
 courroux
 infidélité
 colère
@@ -2040,7 +2012,6 @@ peu
 paroles
 célie
 première
-yeux
 quoi
 faire
 ressouvenir
@@ -2068,6 +2039,7 @@ célie
 lélie
 tourne
 tourne
+yeux
 faire
 répondre
 lélie
@@ -2101,7 +2073,6 @@ lélie
 pourquoi
 habillement
 part
-tuer
 courage
 lélie
 donnant
@@ -2148,7 +2119,6 @@ colère
 cœur
 montrer
 satisfait
-applaudir
 célie
 oui
 oui
@@ -2167,9 +2137,8 @@ lélie
 où
 plainte
 où
-conscience
+bois
 devraient
-yeux
 faire
 chrétien
 lélie
@@ -2184,7 +2153,6 @@ pensée
 lieu
 croire
 offensée
-lâcheté
 célie
 parle
 parle
@@ -2198,10 +2166,11 @@ célie
 lélie
 quatrième
 pièce
+voyant
 célie
 entre
 faire
-merveilleuse
+fait
 conduite
 ouvrage
 beauté
@@ -2230,7 +2199,6 @@ plus
 longtemps
 déjà
 comment
-toutes
 personnes
 sortiront
 où
@@ -2276,6 +2244,7 @@ lélie
 lélie
 déjà
 depuis
+longtemps
 plus
 écoute
 moins
@@ -2309,6 +2278,7 @@ comment
 lélie
 oui
 lélie
+aujourd
 marié
 lélie
 trouble
@@ -2339,7 +2309,6 @@ peu
 prendrons
 pourtant
 crainte
-toutefois
 dissipée
 doux
 crains
@@ -2350,10 +2319,10 @@ risque
 plus
 fais
 marché
+quelque
 célie
 lélie
 après
-avoir
 parlé
 dieux
 courroux
@@ -2370,9 +2339,11 @@ lieu
 père
 désole
 lélie
+parole
 célie
 lélie
 lélie
+parole
 célie
 résout
 père
@@ -2394,7 +2365,6 @@ célie
 monsieur
 lieux
 retour
-brûlant
 mêmes
 feux
 amour
@@ -2430,17 +2400,17 @@ célie
 courte
 durée
 père
-temps
 deux
 pourrez
 pièce
 seigneur
-villebrequin
+parole
 donnée
 hyménée
 sous
 liens
 cachés
+yeux
 depuis
 mois
 époux
@@ -2454,7 +2424,6 @@ congé
 ailleurs
 puis
 célie
-longtemps
 lélie
 retour
 aujourd
@@ -2504,7 +2473,6 @@ peuvent
 plus
 fautes
 trouverez
-curieux
 france
 représenter
 pièce
