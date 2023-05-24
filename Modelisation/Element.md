@@ -48,3 +48,10 @@ Ensuite, le nuage de mots peut également fournir des informations sur les terme
 L'analyse des bigrammes et des trigrammes peut aider à identifier des combinaisons de mots qui sont souvent utilisées ensemble, ce qui peut donner des informations sur la façon dont les termes sont utilisés dans le contexte du corpus. Cela peut être utile pour identifier les tournures de phrase les plus courantes dans le corpus, ou pour détecter des motifs dans l'utilisation de certains termes.
 
 En fin de compte, ces résultats peuvent être utilisés pour effectuer des analyses plus approfondies du corpus de Molière, notamment pour examiner les thèmes et les motifs récurrents dans ses œuvres, ou pour comparer son style et son utilisation de la langue à d'autres auteurs ou à d'autres périodes historiques.
+
+La distance de Jaccard est une mesure de la similarité entre deux ensembles. Elle est souvent utilisée en analyse de texte pour mesurer la similarité entre deux ensembles de mots.
+La distance de Jaccard mesure la proportion d'éléments en commun entre deux ensembles par rapport au nombre total d'éléments dans les ensembles. Elle est définie comme le rapport entre la taille de l'intersection de deux ensembles et la taille de leur union.
+Mathématiquement, la distance de Jaccard entre deux ensembles A et B est donnée par :
+J(A,B) = |A ∩ B| / |A ∪ B|
+où |A| et |B| représentent la taille des ensembles A et B respectivement, et |A ∩ B| est la taille de l'intersection des ensembles A et B.
+

@@ -17,7 +17,8 @@ def main():
     # Calcul des vecteurs de chaque texte de Corneille
     corpus_vectors = {}
     for file_name in corpus_files:
-        with open(path.join(corpus_dir, file_name), "r", encoding="utf-8") as file:
+        with open(path.join(corpus_dir, file_name), "r",
+                  encoding="utf-8") as file:
             corpus_text = file.read()
             tokens = corpus_text.split()
             vectors = []
@@ -34,7 +35,8 @@ def main():
     # Calcul des vecteurs de chaque texte de Molière et comparaison avec les
     # vecteurs de chaque texte de Corneille
     for file_name in corpus_files:
-        with open(path.join(corpus_dir, file_name), "r", encoding="utf-8") as file:
+        with open(path.join(corpus_dir, file_name), "r",
+                  encoding="utf-8") as file:
             corpus_text = file.read()
             tokens = corpus_text.split()
             vectors = []
