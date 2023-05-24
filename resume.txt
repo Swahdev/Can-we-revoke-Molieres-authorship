@@ -1,0 +1,11 @@
+This branch is to give examples of programs that uses some metrics we need in the project. 
+this is an example of  stylometry techniques to detect the author of a text, written in python.
+
+- what is stylometry? 
+Stylometry is the study of authorship attribution, which is the process of identifying the author of a text.
+It is a subfield of literary forensics, and is also known as stylometrics, authorship identification,
+authorship attribution, author identification, authorship verification, authorship analysis, 
+author profiling, authorship forensics, or authorship fingerprinting.
+
+it uses NLTK (natural langage Toolkit) , a library for natural language processing, and scikit-learn, a machine learning library for python.
+detect the author of a text, written in python.

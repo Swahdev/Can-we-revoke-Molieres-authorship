@@ -1,0 +1,406 @@
+---
+title: "Quantitative stylistics disproves the theory that Molière had ghostwriters: feature datasets and analysis script"
+author: "J.B. Camps and F. Cafiero"
+date: "2 April 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Functions and lists
+
+## Function definitions
+
+```{r}
+source("functions.R")
+```
+
+## Lists
+
+```{r}
+suspectedProperNames = scan("suspected_proper_names.txt", what = "character", sep =",")
+functionWords = scan("function_words.txt", what = "character")
+subgroup = c(
+"CORNEILLEP_GALERIEDUPALAIS", "CORNEILLEP_ILLUSIONCOMIQUE", "CORNEILLEP_MELITE33", 
+"CORNEILLEP_MENTEUR",
+"CORNEILLEP_PLACEROYALE", 
+"CORNEILLEP_SUITEMENTEUR",
+"CORNEILLEP_SUIVANTE",
+"CORNEILLEP_VEUVE34", "CORNEILLET_AMOURALAMODE", "CORNEILLET_CHARMEDELAVOIX", "CORNEILLET_COMTESSEORGUEIL", "CORNEILLET_DOMBERTRANDECIGARRAL", "CORNEILLET_DOMCESARDAVALOS",
+"CORNEILLET_FEINTASTROLOGUE", "CORNEILLET_FESTINPIERRE", "CORNEILLET_GALANTDOUBLE", "CORNEILLET_GEOLIERDESOISMEME",
+"CORNEILLET_INCONNU", "MOLIERE_DEPITAMOUREUX", 
+"MOLIERE_ECOLEDESFEMMES", "MOLIERE_ETOURDI", "MOLIERE_FEMMESSAVANTES", "MOLIERE_MISANTHROPE", "MOLIERE_TARTUFFE", "ROTROU_BAGUEDELOUBLI", "ROTROU_BELLEALPHREDE", "ROTROU_CAPTIFS", "ROTROU_SOSIES", "SCARRON_DOMJAPHETDARMENIE", "SCARRON_GARDIENDESOIMEME", "SCARRON_HERITIERRIDICULE", "SCARRON_JODELET", "SCARRON_JODELETDUELISTE", "SCARRON_MARQUISRIDICULE", "MOLIERE_ECOLEDESMARIS", "MOLIERE_AMPHITRYON", "MOLIERE_FACHEUX")
+```
+
+# Analysis of the main corpus: subgroup
+
+## Lemma
+
+```{r}
+# Loading corpus
+# Lemma Pie without proper names
+# TXM CQP Request: [frpos !=  'NOMpro' & frlemma != '[A-Z].*' ]
+theatreLemma = as.matrix(
+  read.csv(file="explorat-lemma.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+```
+
+```{r}
+theatre = theatreLemma[, subgroup]
+#Remove some suspected proper names that could have been mislabelled
+theatre = theatre[!rownames(theatre) %in% suspectedProperNames,]
+# and finally remove all rows of sum 0
+theatre = theatre[rowSums(theatre) > 0,]
+```
+
+### Burrows + vector-length norm
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatre
+# Selection based on Moisl 2011
+select = selection(theatre2, z = 1.645)
+select = select[,4]
+# Normalisations
+theatre2 = relativeFreqs(theatre2)
+# save data for robustness checks
+theatreLemmaSave = theatre2
+theatre2 = theatre2[select,]
+theatre2 = normalisations(theatre2)
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+# Save
+CAHLemma = myCAH
+#
+cahPlot(myCAH, k = 5)
+```
+
+### Classes description
+
+```{r}
+# Class description
+myClasses = classesDesc(myCAH, theatre2, k = 5)
+myClasses$quanti.var[1:20,]
+# Violin plot of the first feature
+relFreq = relativeFreqs(theatre)
+LemmaFeat_ViolinPlot = myDescPlot(relFreq["négliger",, drop = FALSE], type = "violinplot", main = "A", ylab = "Relative frequency", xlab = "")
+```
+
+## Lemma in rhyme position
+
+```{r}
+# Lemmas Pie
+theatreLemmaRim = as.matrix(
+  read.csv(file="explorat-rhymes.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+theatre = theatreLemmaRim[, subgroup]
+#Remove some suspected proper names that could have been mislabelled
+theatre = theatre[!rownames(theatre) %in% suspectedProperNames,]
+# and finally remove all rows of sum 0
+theatre = theatre[rowSums(theatre) > 0,]
+```
+
+### Burrows + vector-length norm
+
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatre
+# Selection based on Moisl 2011
+select = selection(theatre2, z = 1.645)
+select = select[,4]
+#
+theatre2 = relativeFreqs(theatre2)
+# save data for robustness checks
+theatreRhymesSave = theatre2
+theatre2 = theatre2[select,]
+theatre2 = normalisations(theatre2)
+# HC
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+# Save
+CAHRhyme = myCAH
+# Plot
+cahPlot(myCAH, k = 5)
+```
+
+### Classes description
+
+```{r}
+# Class description
+myClasses = classesDesc(myCAH, theatre2, k = 5)
+myClasses$quanti.var[1:20,]
+# Violin plot of the first feature
+relFreq = relativeFreqs(theatre)
+RhymeFeat_ViolinPlot = myDescPlot(relFreq["contentement",, drop = FALSE], type = "violinplot", main = "B", ylab = "", xlab = "" )
+```
+
+
+## All words
+
+```{r}
+# Loading corpus
+# All word-forms without proper names
+# TXM CQP Request: [frpos !=  'NOMpro' & frlemma != '[A-Z].*' ]
+theatreAllWords = as.matrix(
+  read.csv(file="explorat-words.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+```
+
+```{r}
+theatre = theatreAllWords[, subgroup]
+#Remove some suspected proper names that could have been mislabelled
+theatre = theatre[!rownames(theatre) %in% suspectedProperNames,]
+# and finally remove all rows of sum 0
+theatre = theatre[rowSums(theatre) > 0,]
+```
+
+### Burrows + vector-length norm
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatre
+# Selection based on Moisl 2011
+select = selection(theatre2, z = 1.645)
+select = select[,4]
+#
+# Normalisations
+theatre2 = relativeFreqs(theatre2)
+# save data for robustness checks
+theatreWordsSave = theatre2
+theatre2 = theatre2[select,]
+theatre2 = normalisations(theatre2)
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+# Save
+CAHAllWords = myCAH
+#
+cahPlot(myCAH, k = 5)
+```
+
+### Classes description
+
+```{r}
+# Class description
+myClasses = classesDesc(myCAH, theatre2, k = 5)
+myClasses$quanti.var[1:20,]
+# Violin plot of the first feature
+relFreq = relativeFreqs(theatre)
+AllWordsFeat_ViolinPlot = myDescPlot(relFreq["contentements",, drop = FALSE], type = "violinplot", main = "C", ylab = "", xlab = "")
+```
+
+## Affixes
+
+```{r}
+# Creating affixes database from all words
+theatreAffs = countAffixes(theatre)
+```
+
+### Burrows + vector-length norm
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatreAffs
+# Selection based on Moisl 2011
+select = selection(theatre2, z = 1.645)
+select = select[,4]
+#
+# Normalisations
+theatre2 = relativeFreqs(theatre2)
+# save data for robustness checks
+theatreAffixesSave = theatre2
+theatre2 = theatre2[select,]
+theatre2 = normalisations(theatre2)
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+# Save
+CAHAffs = myCAH
+#
+cahPlot(myCAH, k = 5)
+```
+
+### Classes description
+
+```{r}
+# Class description
+myClasses = classesDesc(myCAH, theatre2, k = 5)
+myClasses$quanti.var[1:20,]
+# Violin plot of the first feature
+relFreq = relativeFreqs(theatreAffs)
+AffixesFeat_ViolinPlot = myDescPlot(relFreq["ta_",, drop = FALSE], type = "violinplot", main = "D", ylab = "", xlab = "")
+```
+
+## Part of speech 3-grams
+
+```{r}
+# Marmot-tagged Cattex POS
+theatreTrigrW = as.matrix(
+  read.csv(file="explorat-POS3gr.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+# Remove total frequencies and Ouville
+theatre = theatreTrigrW[, subgroup]
+# Remove null sum rows
+theatre = theatre[rowSums(theatre) > 0, ]
+```
+
+### Burrows + vector-length norm
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatre
+# Selection based on Moisl 2011
+select = selection(theatre2, z = 1.645)
+select = select[,4]
+#
+theatre2 = relativeFreqs(theatre2)
+# save data for robustness checks
+theatrePOS3grSave = theatre2
+theatre2 = theatre2[select,]
+theatre2 = normalisations(theatre2)
+# Compute HC
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+# Save
+CAHPOS3gr = myCAH
+# Plot
+cahPlot(myCAH, k = 5)
+```
+
+### Classes description
+
+```{r}
+# Class description
+myClasses = classesDesc(myCAH, theatre2, k = 5)
+myClasses$quanti.var[1:20,]
+# Violin plot of the first feature
+relFreq = relativeFreqs(theatre)
+POSFeat_ViolinPlot = myDescPlot(relFreq["NOMcom VERcjg DETpos",, drop = FALSE], type = "violinplot", main = "E", ylab = "", xlab = "")
+```
+
+## Function Words
+
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatreCompl = as.matrix(
+  read.csv(file="explorat-words.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+theatreCompl = theatreCompl[, subgroup]
+theatre = theatreCompl
+# and finally remove all rows of sum 0
+theatre = theatre[rowSums(theatre) > 0,]
+```
+
+### Descriptive statistics
+
+Text length and corpus size
+
+```{r, fig.width=20, fig.height=10, dpi=45}
+TextLength = matrix(ncol = ncol(theatre), nrow = 1, dimnames = list('Text length', colnames(theatre)), data = colSums(theatre)
+)
+summary(TextLength[1,])
+t(TextLength)
+violinTextLength = myDescPlot(TextLength, type = "violinplot", main = "C", ylab = "")
+plot(violinTextLength)
+
+violinplotCorpusLength <- ggplot(t(TextLength), aes(x = "", y = `Text length`)) +
+       ggtitle("A") +
+       ylab("N. of tokens") +
+       xlab("") +
+       geom_violin() + 
+       geom_boxplot(width=0.1)
+
+barplotCorpusLength = myDescPlot(TextLength, type="barplot", main = "B", ylab = "")
+```
+
+### Burrows + vector-length norm
+
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatre[order(rowSums(theatre), decreasing = TRUE),]
+theatre2 = relativeFreqs(theatre2)
+#Culling
+theatre2 = theatre2[rownames(theatre2) %in% functionWords,]
+# save data for robustness checks
+theatreFWSave = theatre2
+# Normalisations
+theatre2 = normalisations(theatre2)
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+#save
+CAHmfw = myCAH
+# Plot
+cahPlot(myCAH, k = 5)
+```
+
+### Classes description
+
+```{r}
+# Class description
+myClasses = classesDesc(myCAH, theatre2, k = 5)
+myClasses$quanti.var[1:20,]
+# Violin plot of the first feature
+relFreq = relativeFreqs(theatre)
+FWFeat_ViolinPlot = myDescPlot(relFreq["ou",, drop = FALSE], type = "violinplot", main = "F", ylab = "", xlab = "" )
+```
+
+### MinMax metric
+
+```{r theatre2}
+theatreCompl = as.matrix(
+  read.csv(file="explorat-words.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+theatre = theatreCompl[, subgroup]
+# and finally remove all rows of sum 0
+theatre = theatre[rowSums(theatre) > 0,]
+```
+
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = relativeFreqs(theatre)
+#Culling
+theatre2 = theatre2[rownames(theatre2) %in% functionWords,]
+# Z-transformation
+theatre2 = ZTransf(theatre2)
+maDistMM = MinMax(theatre2)
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+CAHmfwMinMax = myCAH
+# Plot
+cahPlot(myCAH, k = 5)
+```
+
+# Plot selection for paper
+
+## Analyses
+```{r, warning=FALSE, fig.width=14.6, fig.height=21.9, out.width=1000, out.height=1500, dpi = 100}
+featlabel = "features of ME ±2σ with conf. > 90%"
+
+A = cahPlotCol(CAHLemma, main = "A", xlab = paste( ncol(CAHLemma$data), featlabel), k = 5)
+B = cahPlotCol(CAHRhyme, main = "B", xlab = paste( ncol(CAHRhyme$data), featlabel), k = 5, lrect = -8, ylab = " ")
+C = cahPlotCol(CAHAllWords, main = "C", xlab = paste( ncol(CAHAllWords$data), featlabel), k = 5, lrect = -14, ylab = " ")
+D = cahPlotCol(CAHAffs, main = "D", xlab = paste( ncol(CAHAffs$data), featlabel), k = 5, lrect = -14, ylab = " ")
+E = cahPlotCol(CAHPOS3gr, main = "E", xlab = paste( ncol(CAHPOS3gr$data), featlabel), k = 5, ylab = " ")
+F = cahPlotCol(CAHmfw, main = "F", k = 5, lrect = -5, ylab = " ")
+gridExtra::grid.arrange(A, B, C, D, E, F, ncol = 2)
+```
+
+
+## Descriptive stats and MinMax
+
+```{r, warning=FALSE, fig.width=15, fig.height=11, out.width=1500, out.height=1100, dpi = 100}
+
+D = cahPlotCol(CAHmfw, main = "D", k = 5, lrect = -5)
+E = cahPlotCol(CAHmfwMinMax, main = "E", k = 5, lrect = -45, lth = 35, ylab = " ")
+
+require("gridExtra")
+layout = matrix(c(1, 1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 4, 4, 4, 5, 5, 5), byrow = TRUE, ncol = 6)
+
+gridExtra::grid.arrange(violinplotCorpusLength, barplotCorpusLength, violinTextLength, D, E, layout_matrix = layout)
+```
+
+## Example features distribution
+
+```{r, warning=FALSE, fig.width=7.3, fig.height=7.3, out.width=1000, out.height=1000, dpi = 100}
+gridExtra::grid.arrange(LemmaFeat_ViolinPlot, RhymeFeat_ViolinPlot, AllWordsFeat_ViolinPlot, AffixesFeat_ViolinPlot, POSFeat_ViolinPlot, FWFeat_ViolinPlot, ncol = 2)
+```
+
+
+## Clustering robustness checks
+
+```{r}
+round(robustnessChecks(theatreLemmaSave, CAHLemma, k = 5), digits = 2)
+round(robustnessChecks(theatreRhymesSave, CAHRhyme, k = 5), digits = 2)
+round(robustnessChecks(theatreWordsSave, CAHAllWords, k = 5), digits = 2)
+round(robustnessChecks(theatreAffixesSave, CAHAffs, k = 5), digits = 2)
+round(robustnessChecks(theatrePOS3grSave, CAHPOS3gr, k = 5), digits = 2)
+round(robustnessChecks(theatreFWSave, CAHmfw, k = 5), digits = 2)
+```
+
+# Appendix, list of plays by clusters in the analyses
+
+```{r}
+dendextend::cutree(as.hclust(CAHLemma), k = 5, order_clusters_as_data=FALSE)
+dendextend::cutree(as.hclust(CAHRhyme), k = 5, order_clusters_as_data=FALSE)
+dendextend::cutree(as.hclust(CAHAllWords), k = 5, order_clusters_as_data=FALSE)
+dendextend::cutree(as.hclust(CAHAffs), k = 5, order_clusters_as_data=FALSE)
+dendextend::cutree(as.hclust(CAHPOS3gr), k = 5, order_clusters_as_data=FALSE)
+dendextend::cutree(as.hclust(CAHmfw), k = 5, order_clusters_as_data=FALSE)
+```
+
+

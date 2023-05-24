@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import author="jbc"
+        date="2019-05-31"
+        desc="&lt;pre&gt;&lt;br/&gt;Corpus de comédies en vers du XVIIe, pour l'analyse stylométrique, annoté avec Pie et Marmot.&lt;br/&gt;Source: Paul Fièvre, Théâtre classique&lt;br/&gt;- JBC&lt;br/&gt;31 mai 2019&lt;/pre&gt;"
+        name="COMEDIEVERSPMANNOT"
+        rootDir="/home/jbc/Data/F/corpora/fr_classique/COMEDIEVERSPM/xml_tagged"
+        script="xmltxmLoader.groovy"
+        version="0.7.9">
+   <linkGrp type="align"/>
+   <corpora>
+      <corpus annotate="false"
+              cqpid="XMLTAGGED1559317562404"
+              desc="&lt;pre&gt;&lt;br/&gt;Corpus de comédies en vers du XVIIe, pour l'analyse stylométrique, annoté avec Pie et Marmot.&lt;br/&gt;Source: Paul Fièvre, Théâtre classique&lt;br/&gt;- JBC&lt;br/&gt;31 mai 2019&lt;/pre&gt;"
+              encoding="UTF-8"
+              font=""
+              lang="fr"
+              name="COMEDIEVERSPMANNOT">
+         <tokenizer onlyThoseTests="false" skip="false">
+            <param name="whitespaces">[\p{Z}\p{C}]+</param>
+            <param name="regPunct">[\p{Ps}\p{Pe}\p{Pi}\p{Pf}\p{Po}\p{S}]</param>
+            <param name="punct_strong">[.!?]+|\.\.|\.\.\.|…|\|</param>
+            <param name="regElision">['‘’]</param>
+         </tokenizer>
+         <xslt xsl="/home/jbc/Data/F/Articles et CR/Article_Corneille_Moliere/COMEDIEVERSPM/xsl/import_filter.xsl"/>
+         <pattributes/>
+         <sattributes/>
+         <biblios/>
+         <uis>
+            <ui command="textualplans">
+               <word>w</word>
+            </ui>
+            <ui command="concordance">
+               <context_limits type="list">text</context_limits>
+            </ui>
+         </uis>
+         <editions default="default">
+       	    <edition build_edition="true"
+                     mode="groovy"
+                     name="default"
+                     page_break_tag="pb"
+                     script="pager.groovy"
+                     words_per_page="500"/>
+         </editions>
+         <texts/>
+         <queries/>
+         <knowledgeRepositories/>
+         <preBuild/>
+         <parameters/>
+      </corpus>
+   </corpora>
+</import>

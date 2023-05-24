@@ -1,0 +1,284 @@
+---
+title: "Quantitative stylistics disproves Corneille's ghostwriting of Molière's comedies: analysis script for the control corpus"
+author: "J.B. Camps and F. Cafiero"
+date: "7 June 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Function definitions
+
+## Functions
+
+```{r}
+source("functions.R")
+```
+
+## Lists
+
+```{r}
+suspectedProperNames = scan("suspected_proper_names.txt", what = "character", sep =",")
+functionWords = scan("function_words.txt", what = "character")
+```
+
+# Control sample
+
+## Corpus description and length-based selection
+
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatreCompl = as.matrix(
+  read.csv(file="control-words.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+theatre = theatreCompl[,-1]
+```
+
+Texts below the 5000 words limit
+```{r}
+colnames(theatre)[colSums(theatre) < 5000]
+toRemove = colnames(theatre)[colSums(theatre) < 5000]
+# Remove 'comédies héroïques'
+toRemove = c(toRemove, "BOISSY_COMTEDENEUILLY", "BOISSY_VIEESTUNSONGE")
+```
+
+Consequently to these removals, authors with less than 3 texts?
+
+```{r}
+theatre = theatre[, !colnames(theatre) %in% toRemove]
+as.matrix(colSums(theatre))
+```
+
+## Lemma
+
+```{r}
+# Loading corpus
+# Lemma Pie without proper names
+# TXM CQP Request: [frpos !=  'NOMpro' & frlemma != '[A-Z].*' ]
+theatreLemma = as.matrix(
+  read.csv(file="control-lemma.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+theatre = theatreLemma[,-1]
+theatre = theatre[, !colnames(theatre) %in% toRemove]
+```
+
+```{r}
+#Remove some suspected proper names that could have been mislabelled
+theatre = theatre[!rownames(theatre) %in% suspectedProperNames,]
+# and finally remove all rows of sum 0
+theatre = theatre[rowSums(theatre) > 0,]
+```
+
+### Burrows + vector-length norm
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatre
+# Selection based on Moisl 2011
+select = selection(theatre2, z = 1.645)
+select = select[,4]
+# Normalisations
+theatre2 = relativeFreqs(theatre2)
+# save data for robustness checks
+theatreLemmaSave = theatre2
+# apply selection and perform analysis
+theatre2 = theatre2[select,]
+theatre2 = normalisations(theatre2)
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+# Save
+CAHLemma = myCAH
+#
+cahPlot(myCAH, k = 6)
+```
+
+## Lemma in rhyme position
+
+```{r}
+# Lemmas Pie
+theatreLemmaRim = as.matrix(
+  read.csv(file="control-rhymes.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+theatre = theatreLemmaRim[,-1]
+theatre = theatre[, !colnames(theatre) %in% toRemove]
+#Remove some suspected proper names that could have been mislabelled
+theatre = theatre[!rownames(theatre) %in% suspectedProperNames,]
+# and finally remove all rows of sum 0
+theatre = theatre[rowSums(theatre) > 0,]
+```
+
+### Burrows + vector-length norm
+
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatre
+# Selection based on Moisl 2011
+select = selection(theatre2, z = 1.645)
+#
+theatre2 = relativeFreqs(theatre2)
+# save data for robustness checks
+theatreRhymesSave = theatre2
+theatre2 = theatre2[select[,4],]
+theatre2 = normalisations(theatre2)
+# HC
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+# Save
+CAHRhyme = myCAH
+# Plot
+cahPlot(myCAH, k = 6)
+```
+
+## All words
+
+```{r}
+# Loading corpus
+# All word-forms without proper names
+# TXM CQP Request: [frpos !=  'NOMpro' & frlemma != '[A-Z].*' ]
+theatreAllWords = as.matrix(
+  read.csv(file="control-words.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+theatre = theatreAllWords[,-1]
+theatre = theatre[, !colnames(theatre) %in% toRemove]
+```
+
+```{r}
+#Remove some suspected proper names that could have been mislabelled
+theatre = theatre[!rownames(theatre) %in% suspectedProperNames,]
+# and finally remove all rows of sum 0
+theatre = theatre[rowSums(theatre) > 0,]
+```
+
+### Burrows + vector-length norm
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatre
+# Selection based on Moisl 2011
+select = selection(theatre2, z = 1.645)
+select = select[,4]
+# Normalisations
+theatre2 = relativeFreqs(theatre2)
+# save data for robustness checks
+theatreWordsSave = theatre2
+theatre2 = theatre2[select,]
+theatre2 = normalisations(theatre2)
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+# Save
+CAHAllWords = myCAH
+#
+cahPlot(myCAH, k = 6)
+```
+
+## Affixes
+
+```{r}
+# Creating affixes database from all words
+theatreAffs = countAffixes(theatre)
+```
+
+### Burrows + vector-length norm
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatreAffs
+# Selection based on Moisl 2011
+select = selection(theatre2, z = 1.645)
+select = select[,4]
+# Normalisations
+theatre2 = relativeFreqs(theatre2)
+# save data for robustness checks
+theatreAffixesSave = theatre2
+theatre2 = theatre2[select,]
+theatre2 = normalisations(theatre2)
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+# Save
+CAHAffs = myCAH
+#
+cahPlot(myCAH, k = 6)
+```
+
+## Part of speech 3-grams
+
+```{r}
+# Marmot-tagged Cattex POS
+theatreTrigrW = as.matrix(
+  read.csv(file="control-POS3gr.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+# Remove total frequencies and Ouville
+theatre = theatreTrigrW[,-1]
+theatre = theatre[, !colnames(theatre) %in% toRemove]
+# Remove null sum rows
+theatre = theatre[rowSums(theatre) > 0, ]
+```
+
+### Burrows + vector-length norm
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatre
+# Selection based on Moisl 2011
+select = selection(theatre2, z = 1.645)
+select = select[,4]
+#
+theatre2 = relativeFreqs(theatre2)
+# save data for robustness checks
+theatrePOS3grSave = theatre2
+theatre2 = theatre2[select,]
+theatre2 = normalisations(theatre2)
+# Compute HC
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+# Save
+CAHPOS3gr = myCAH
+# Plot
+cahPlot(myCAH, k = 6)
+```
+
+## Function Words
+
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatreCompl = as.matrix(
+  read.csv(file="control-words.csv", sep = ";", header = TRUE, row.names=1, quote = '\"'))
+theatre = theatreCompl[,-1]
+theatre = theatre[, !colnames(theatre) %in% toRemove]
+```
+
+### Burrows + vector-length norm
+
+```{r, fig.width=20, fig.height=10, dpi=45}
+theatre2 = theatre[order(rowSums(theatre), decreasing = TRUE),]
+theatre2 = relativeFreqs(theatre2)
+theatre2 = theatre2[rownames(theatre2) %in% functionWords,]
+# save data for robustness checks
+theatreFWSave = theatre2
+# Normalisations
+theatre2 = normalisations(theatre2)
+myCAH = cluster::agnes(t(theatre2), metric = "manhattan", method="ward")
+#save
+CAHmfw = myCAH
+# Plot
+cahPlot(myCAH, k = 6)
+```
+
+## Plot selection for paper: HC
+
+### Analyses
+```{r, warning=FALSE, fig.width=14.6, fig.height=21.9, out.width=1000, out.height=1500, dpi = 100}
+featlabel = "features of ME ±2σ with conf. > 90%"
+
+A = cahPlotCol(CAHLemma, main = "A", xlab = paste( ncol(CAHLemma$data), featlabel), k = 6, lrect = -12)
+B = cahPlotCol(CAHRhyme, main = "B", xlab = paste( ncol(CAHRhyme$data), featlabel), k = 6, lrect = -7, ylab = " ")
+C = cahPlotCol(CAHAllWords, main = "C", xlab = paste( ncol(CAHAllWords$data), featlabel), k = 6, ylab = " ")
+D = cahPlotCol(CAHAffs, main = "D", xlab = paste( ncol(CAHAffs$data), featlabel), k = 6, ylab = " ")
+E = cahPlotCol(CAHPOS3gr, main = "E", xlab = paste( ncol(CAHPOS3gr$data), featlabel), k = 6, lrect = -12 , ylab = " ")
+F = cahPlotCol(CAHmfw, main = "F", k = 6, lrect = -5, ylab = " ")
+gridExtra::grid.arrange(A, B, C, D, E, F, ncol = 2)
+```
+
+## Clustering robustness checks
+
+```{r}
+round(robustnessChecks(theatreLemmaSave, CAHLemma, k = 6), digits = 2)
+round(robustnessChecks(theatreRhymesSave, CAHRhyme, k = 6),  digits = 2)
+round(robustnessChecks(theatreWordsSave, CAHAllWords, k = 6),  digits = 2)
+round(robustnessChecks(theatreAffixesSave, CAHAffs, k = 6),  digits = 2)
+round(robustnessChecks(theatrePOS3grSave, CAHPOS3gr, k = 6),  digits = 2)
+round(robustnessChecks(theatreFWSave, CAHmfw, k = 6),  digits = 2)
+```
+
+
+# Appendix, list of plays by clusters in the analyses
+
+```{r}
+dendextend::cutree(as.hclust(CAHLemma), k = 6, order_clusters_as_data=FALSE)
+dendextend::cutree(as.hclust(CAHRhyme), k = 6, order_clusters_as_data=FALSE)
+dendextend::cutree(as.hclust(CAHAllWords), k = 6, order_clusters_as_data=FALSE)
+dendextend::cutree(as.hclust(CAHAffs), k = 6, order_clusters_as_data=FALSE)
+dendextend::cutree(as.hclust(CAHPOS3gr), k = 6, order_clusters_as_data=FALSE)
+dendextend::cutree(as.hclust(CAHmfw), k = 6, order_clusters_as_data=FALSE)
+```
