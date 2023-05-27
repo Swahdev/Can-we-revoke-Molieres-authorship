@@ -1,5 +1,6 @@
 import os
 import csv
+import re
 from unidecode import unidecode
 
 # Chemin vers le fichier des mots de fonction
@@ -25,8 +26,10 @@ for word in function_words:
         if os.path.isfile(file_path):
             with open(file_path, "r", encoding="ISO-8859-1") as f:
                 text = f.read()
-                count = text.lower().split().count(unidecode(word.lower()))
-                word_counts.append(str(count))
+                # Utilisation d'une expression régulière pour trouver les occurrences du mot
+                pattern = r"\b" + re.escape(word) + r"\b"
+                count = len(re.findall(pattern, text, flags=re.IGNORECASE))
+                word_counts.append(str(count))  # Conversion de l'entier en chaîne de caractères
     results.append(word_counts)
 
 # Écriture des résultats dans un fichier CSV
