@@ -16,9 +16,13 @@ def count_word_occurrences(folder_path, words):
 
                 # Parcourir les mots dans le contenu
                 for word in words:
-                    # Utiliser des expressions régulières pour trouver les occurrences du mot dans le contenu
-                    pattern = re.compile(r"\b" + re.escape(word) + r"\b")
-                    count = len(re.findall(pattern, content))
+                    # Comptage du mot sans le "-même"
+                    if word == "même":
+                        count = content.count(word) - content.count("-même")
+                    else:
+                        # Utiliser des expressions régulières pour trouver les occurrences du mot dans le contenu
+                        pattern = re.compile(r"\b" + re.escape(word) + r"\b")
+                        count = len(re.findall(pattern, content))
 
                     # Ajouter le nombre d'occurrences du mot à la liste correspondante dans le dictionnaire
                     word_counts[word].append(count)
@@ -26,7 +30,7 @@ def count_word_occurrences(folder_path, words):
     return word_counts
 
 # Liste des mots à compter
-words_to_count = ["déjà", "êtes", "était", "-là", "être", "qu'"]
+words_to_count = ["s'", "même","-même", "c'", "d'"]
 
 # Chemin du dossier contenant les fichiers texte
 text_folder = "Code/function_word/Fichier_Moliere"
