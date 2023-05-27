@@ -30,7 +30,7 @@ def count_word_occurrences(folder_path, words):
     return word_counts
 
 # Liste des mots à compter
-words_to_count = ["s'", "même","-même", "c'", "d'"]
+words_to_count = ["après", "-ce","n'", "jusqu'"]
 
 # Chemin du dossier contenant les fichiers texte
 text_folder = "Code/function_word/Fichier_Moliere"
