@@ -1,0 +1,103 @@
+\documentclass{report} % Utilisation de la classe 'report' pour prendre en charge les chapitres
+
+% !TEX root = /Users/charleschikhani/Documents/L3/S6/Projet-MI/Rapport.tex
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{eso-pic}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage{tocloft}
+\usepackage{titlesec}
+
+
+% Définition des marges
+\geometry{
+  left=2.5cm,
+  right=2.5cm,
+  top=2.5cm,
+  bottom=1.75cm,
+}
+
+% Définition du style de page "mypagestyle"
+\fancypagestyle{mypagestyle}{
+  \fancyhf{} % Efface tous les en-têtes et pieds de page existants
+  \fancyhead[R]{\includegraphics[width=3cm]{Ressources/Universite_Paris-Cite-logo.jpeg}} % En-tête droit avec l'image
+  \fancyfoot[C]{\thepage} % Pied de page centré avec le numéro de page
+  \renewcommand{\headrulewidth}{0.4pt} % Épaisseur de la ligne de séparation d'en-tête
+  \renewcommand{\footrulewidth}{0pt} % Épaisseur de la ligne de séparation de pied de page
+}
+
+% Appliquer le style de page personnalisé
+\pagestyle{mypagestyle}
+
+% Ajustement de la taille de l'en-tête et de la police
+\setlength{\headheight}{29.55806pt} % Hauteur de l'en-tête
+\addtolength{\topmargin}{-17.55806pt} % Ajustement de la marge supérieure
+
+\title{Qui a écrit Molière ?}
+\author{CHIKHANI Charles \and ZAPFACK MESSIAN Jasen Steve \\ \and Encadrant : M. Hervé Fournier\\ \\ Université Paris Cité}
+\date{02 Juin 2023}
+
+
+\renewcommand{\thesection}{\arabic{section}}
+
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\newpage
+
+\section{Introduction}
+
+\vspace{\baselineskip}
+\subsection{Présentation du sujet : la remise en question de l'attribution des pièces de Molière à l'auteur lui-même}
+\input{partie_1/1_1_introduction.tex}
+\subsection{Importance de l'analyse textuelle et statistique dans la résolution de cette question}
+\input{partie_1/1_2_introduction.tex}
+\subsection{Hypothèses et problématique}
+\input{partie_1/1_3_introduction.tex}
+
+\section{Compréhension de l'article de Florian Cafiero et Jean-Baptiste Camps}
+
+\subsection{Contexte et objectifs de l'étude}
+\subsection{Méthodologie utilisée}
+\subsection{Formalisation du problème de l'attribution des pièces de théâtre}
+\subsection{Approche adoptée pour résoudre le problème}
+\subsection{Présentation et analyse des résultats obtenus}
+
+\section{Notre expérience}
+
+\vspace{\baselineskip}
+\subsection{Description de l'expérience que nous avons menée}
+\input{partie_3/3_1_experience.tex}
+\subsection{Choix des outils d'analyse textuelle et statistique utilisés}
+\input{partie_3/3_2_experience.tex}
+\subsection{Méthodologie mise en place}
+\input{partie_3/3_3_experience.tex}
+\subsection{Collecte et préparation des données}
+\input{partie_3/3_4_experience.tex}
+\subsection{Analyse des résultats obtenus et comparaison avec l'article de référence}
+\input{partie_3/3_5_experience.tex}
+
+\section{Perspectives et réflexions}
+
+\subsection{Approfondissement des techniques de linguistique quantitative pour déterminer la paternité d'un texte}
+\subsection{Réflexion sur les aspects algorithmiques impliqués dans l'analyse textuelle et statistique}
+\subsection{Limitations de notre expérience et suggestions pour de futures recherches}
+
+\section{Conclusion}
+
+\subsection{Récapitulation des principales conclusions de l'article de Florian Cafiero et Jean-Baptiste Camps}
+\subsection{Résumé des résultats de notre expérience et leur concordance ou divergence avec l'article}
+\subsection{Implications de cette étude dans le domaine de l'attribution des œuvres littéraires}
+
+\end{document}
