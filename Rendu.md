@@ -245,3 +245,6 @@ Ensuite, il applique différentes mesures de similarité pour le clustering et
 utilise l'algorithme de regroupement hiérarchique complet pour construire les
 dendrogrammes. Cela nous permet d'analyser les similarités et les différences
 entre les œuvres de Molière et de Corneille.
+
+## function words
+

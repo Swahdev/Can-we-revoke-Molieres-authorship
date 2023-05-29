@@ -1,8 +1,8 @@
-PWD /Users/charleschikhani/Documents/L3/S6/Projet-MI
+PWD /Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Rapport
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/charleschikhani/Documents/L3/S6/Projet-MI/Rapport.tex
+INPUT /Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Rapport/Rapport.tex
 OUTPUT Compile/Rapport.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
