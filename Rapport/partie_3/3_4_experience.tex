@@ -1,12 +1,22 @@
 \vspace{\baselineskip}
-Pour notre expérience, nous avons collecté une collection d'œuvres de Molière,
-ainsi que des œuvres d'autres auteurs de la même époque. Ces données ont été
-recueillies à partir de sources disponibles en ligne et ont été soigneusement
-sélectionnées pour représenter différents genres et styles d'écriture.
+\hspace{0,5cm}Pour notre expérience, nous avons pris une collection d'œuvres de Molière,
+ainsi que des œuvres de Corneille. Ces données ont été
+recueillies à partir de sources disponibles en ligne. Pour Molière nous avons
+téléchargé des fichiers XML du GitHub de Mr Cafiero de 38 pièces. Pour Corneille
+nous avons téléchargé des fichiers PDF du site Wikisource pour un corpus composé
+de 34 pièces.
 
-Avant de procéder à l'analyse, nous avons effectué un prétraitement des données.
-Cela comprenait la suppression des stopwords (mots courants sans grande
-signification), la normalisation des mots (mise en minuscules) et la
-lemmatisation (réduction des mots à leur forme canonique). Ce processus de
-prétraitement nous a permis de nettoyer les données et d'éliminer les éléments
-perturbateurs qui pourraient fausser nos résultats.
+\vspace{\baselineskip}
+
+\hspace{0,5cm}Le pré-traitement des données utilisées pour l'analyse de texte,
+c'est à dire, les bigrammes, les trigrammes et les mots les plus fréquents, a été
+réalisé en convertissant les fichiers PDF et XML en fichiers texte. Chaque œuvre
+est donc convertit en une liste de mots en supprimant les \textit{mots vides} et
+la ponctuation. Les mots vides sont des mots qui n'ont pas de signification et
+ne sont pas pertinents pour l'analyse de texte.
+
+\hspace{0,5cm}Pour l'analyse de similarité, le pré-traitement des données a été
+légèrement different. Comme nous avons fait le choix d'utiliser la caractéristique
+\textit{Affixe}, nous avons, grâce à une fonction de la bibliothèque NLTK, pu
+supprimer les suffixes des mots. Les \textit{mots vides} et la ponctuation ont
+également été retirés.

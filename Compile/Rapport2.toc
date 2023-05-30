@@ -1,18 +1,8 @@
 \contentsline {section}{\numberline {1}Introduction}{2}{}%
 \contentsline {subsection}{\numberline {1.1}Présentation du sujet : la remise en question de l'attribution des pièces de Molière à l'auteur lui-même}{2}{}%
-\contentsline {subsection}{\numberline {1.2}Importance de l'analyse textuelle et statistique dans la résolution de cette question}{2}{}%
-\contentsline {subsection}{\numberline {1.3}Hypothèses et problématique}{2}{}%
-\contentsline {section}{\numberline {2}Compréhension de l'article de Florian Cafiero et Jean-Baptiste Camps}{3}{}%
-\contentsline {subsection}{\numberline {2.1}Méthodologie}{3}{}%
-\contentsline {subsection}{\numberline {2.2}les caractéristique d'étude de texte (studies features)}{4}{}%
-\contentsline {subsection}{\numberline {2.3}Choisir la caractéristique }{4}{}%
-\contentsline {subsection}{\numberline {2.4} Algorithme de Clusterization}{5}{}%
-\contentsline {subsection}{\numberline {2.5}Métrique de algorithme }{5}{}%
-\contentsline {subsection}{\numberline {2.6} Dendrogramme }{6}{}%
-\contentsline {section}{\numberline {3}Notre expérience}{6}{}%
-\contentsline {subsection}{\numberline {3.1}Description de l'expérience que nous avons menée}{6}{}%
-\contentsline {subsection}{\numberline {3.2}Choix des outils d'analyse textuelle et statistique utilisés}{7}{}%
-\contentsline {subsection}{\numberline {3.3}Nos etapes }{7}{}%
-\contentsline {subsection}{\numberline {3.4}Observation}{7}{}%
-\contentsline {subsection}{\numberline {3.5}Nos différents résultas}{7}{}%
-\contentsline {section}{\numberline {4}Conclusion}{8}{}%
+\contentsline {subsection}{\numberline {1.2}Description de l'expérience que nous avons menée}{2}{}%
+\contentsline {subsection}{\numberline {1.3}Choix des outils d'analyse textuelle et statistique utilisés}{2}{}%
+\contentsline {subsection}{\numberline {1.4}Nos etapes }{2}{}%
+\contentsline {subsection}{\numberline {1.5}Observation}{3}{}%
+\contentsline {subsection}{\numberline {1.6}Nos différents résultas}{3}{}%
+\contentsline {subsection}{\numberline {1.7}interpretation dendrogramme}{4}{}%
