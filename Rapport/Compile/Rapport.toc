@@ -14,8 +14,8 @@
 \contentsline {subsection}{\numberline {3.1}Description de l'expérience que nous avons menée}{6}{subsection.0.3.1}%
 \contentsline {subsection}{\numberline {3.2}Choix des outils d'analyse textuelle et statistique utilisés}{6}{subsection.0.3.2}%
 \contentsline {subsection}{\numberline {3.3}Méthodologie mise en place}{6}{subsection.0.3.3}%
-\contentsline {subsection}{\numberline {3.4}Collecte et préparation des données}{7}{subsection.0.3.4}%
-\contentsline {subsection}{\numberline {3.5}Analyse des résultats obtenus et comparaison avec l'article de référence}{7}{subsection.0.3.5}%
+\contentsline {subsection}{\numberline {3.4}Collecte et préparation des données}{8}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {3.5}Analyse des résultats obtenus et comparaison avec l'article de référence}{8}{subsection.0.3.5}%
 \contentsline {section}{\numberline {4}Conclusion}{8}{section.0.4}%
 \contentsline {subsection}{\numberline {4.1}Récapitulation des principales conclusions de l'article de Florian Cafiero et Jean-Baptiste Camps}{8}{subsection.0.4.1}%
 \contentsline {subsection}{\numberline {4.2}Résumé des résultats de notre expérience et leur concordance ou divergence avec l'article}{8}{subsection.0.4.2}%
