@@ -1,0 +1,44 @@
+\vspace{\baselineskip}
+\hspace{0,5cm}Le choix de la mesure de distance et du critère de liaison (liaison complète,
+simple ou moyenne) détermine la manière dont la similarité entre les clusters
+est évaluée lors du processus de fusion.
+
+\hspace{0,5cm}La métrique de distance utilisée dans cet algorithme permet de quantifier la
+similarité ou la dissimilarité entre les points de données ou les clusters. Elle
+détermine comment l'algorithme mesure la distance ou la dissimilarité entre les
+observations afin de former des clusters. Parmi les exemples de métriques
+couramment utilisées, on retrouve la \textit{distance euclidienne}, \textit{la
+distance de Manhattan} et \textit{la distance cosinus}.
+
+\hspace{0,5cm}Dans l'étude, les chercheurs ont utilisé la distance de \textit{Burrow's delta}
+et le \textit{min-max}. Nous allons étudier la distance de Burrow.
+Cette distance calcule la distance de Manhattan entre les \textit{z-scores} des
+fréquences de ces caractéristiques dans les textes de deux auteurs.  Le
+\textit{z-scores} est une notion statistique qui quantifie le nombre
+d'écart-types par lequel une observation ou un point de données s'éloigne de la
+moyenne d'une distribution.  La distance de Borrow mesure donc la dissimilarité
+entre le style d'écriture des deux textes comparés, en prenant en compte les
+différences dans les fréquences normalisées de ces caractéristiques.
+\\La formule de calcule de la distance de Burrow :
+\[ \delta(A,B) = \sum_{i=1}^n \left| \frac{{(A_i - B_i)}}{{\sigma_i}} \right| \]
+avec $A_i$ et $B_i$ des fréquences de mots dans le texte et $\sigma_i$ la
+variance de l'utilisation du mot.
+
+\vspace{\baselineskip}
+\hspace{0,5cm}La métrique d'union (\textit{linkage} en anglais) est une méthode utilisée dans
+le \textbf{regroupement hiérarchique} pour calculer la distance entre les
+clusters lors du processus de fusion. Elle est utilisée pour déterminer comment
+les clusters sont regroupés pour former des clusters plus grands. Différentes
+méthodes de linkage, telles que le ward linkage, le single linkage, etc.,
+peuvent être utilisées.
+\\La formule de calcul de distance entre les clusters utilisée dans la recherche
+se base sur la métrique d'union. Prenons l'exemple de deux clusters
+\textit{$C_1$} et \textit{$C_2$}, avec leurs centroides respectifs
+\textit{$G_1$} et \textit{$G_2$}, et les nombres d'individus dans les clusters
+\textit{$n_1$} et \textit{$n_2$}. La distance d entre les clusters, à minimiser,
+est définie par l'équation suivante :
+\[d^2( C_1,C_2) = ((n_1 * n_2) / (n_1 + n_2)) * d^2(G_1,G_2)\]
+
+L'objectif du regroupement hiérarchique est de minimiser la distance entre les
+clusters lors de la fusion, ce qui peut être réalisé en choisissant la méthode
+de linkage appropriée et en ajustant les paramètres en conséquence.
