@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 def main():
-    corpus_dir = "Code/Fichiers_Pretraitement"
+    corpus_dir = "/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Code/Corneille-pre-traitement"
     corpus_files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt")]
 
     corpus_text = ""
@@ -19,9 +19,6 @@ def main():
 
     # Get top 100 words
     top_words = [word[0] for word in freq_dist.most_common(103)]
-    top_words.remove("monsieur")
-    top_words.remove("pourceaugnac")
-    top_words.remove("jourdain")
 
     # Get frequency of top 100 words
     word_freq = [freq_dist[word] for word in top_words]
@@ -33,7 +30,7 @@ def main():
     plt.xlabel("Mots")
     plt.ylabel("Fréquence")
     plt.title(
-        "Histogramme de la fréquence des mots dans le corpus de Molière (sans 'monsieur')")
+        "Histogramme de la fréquence des mots dans le corpus de Corneille (sans 'monsieur')")
     plt.show()
 
 

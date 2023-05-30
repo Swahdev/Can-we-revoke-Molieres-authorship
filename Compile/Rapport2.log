@@ -1,0 +1,117 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.23)  30 MAY 2023 21:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Rapport2.tex
+(/Users/charleschikhani/Documents/L3/S6/Can-we-revoke-Molieres-authorship/Rapport2.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box51
+) (Compile/Rapport2.aux)
+\openout1 = `Rapport2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+ [1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1] (Compile/Rapport2.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+
+Overfull \hbox (7.33392pt too wide) in paragraph at lines 2--2
+ [][] []\OT1/cmr/m/n/10 Pr^^Sesentation du su-jet : la remise en ques-tion de l'attribution 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `Rapport2.toc'.
+
+ [1
+
+]
+Overfull \hbox (33.90419pt too wide) in paragraph at lines 23--23
+[]\OT1/cmr/bx/n/12 Pr^^Sesentation du su-jet : la remise en ques-tion de l'attribution
+ []
+
+[2]
+Overfull \hbox (1.16711pt too wide) in paragraph at lines 102--110
+\OT1/cmr/m/n/10 d'^^Seviter les bi-ais li^^Ses aux sous-genres, ils vont ex-clure les com^^Sedies h^^Sero^^?^^Pques
+ []
+
+[3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Overfull \hbox (21.35243pt too wide) in paragraph at lines 134--140
+\OT1/cmr/m/n/10 des ad-verbes de li-ai-son et des par-tic-ules gram-mat-i-cales. Comme les pr^^Sepositions
+ []
+
+[4] [5]
+Overfull \hbox (11.7403pt too wide) in paragraph at lines 245--245
+[]\OT1/cmr/bx/n/12 Choix des out-ils d'analyse textuelle et statis-tique utilis^^Ses 
+ []
+
+[6]
+Overfull \hbox (0.3061pt too wide) in paragraph at lines 279--285
+\OT1/cmr/m/n/10 sur des donn^^Sees textuelles, l'utilisation de la dis-tance eu-cli-di-enne, telle qu'utilis^^See
+ []
+
+[7]
+Overfull \hbox (10.32452pt too wide) in paragraph at lines 310--317
+\OT1/cmr/m/n/10 d'^^Secriture de Moli^^Rere pr^^Sesente une unicit^^Se dis-tincte. Les car-act^^Seristiques sp^^Secifiques
+ []
+
+[8] (Compile/Rapport2.aux) ) 
+Here is how much of TeX's memory you used:
+ 498 strings out of 476025
+ 9234 string characters out of 5790017
+ 1858388 words of memory out of 5000000
+ 21014 multiletter control sequences out of 15000+600000
+ 517829 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,7n,38p,311b,195s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on Compile/Rapport2.pdf (10 pages, 160755 bytes).
+PDF statistics:
+ 98 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
