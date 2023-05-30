@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.23)  30 MAY 2023 23:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.23)  30 MAY 2023 23:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -507,7 +507,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.57 \newpage
               [1] (./partie_1/1_1_introduction.tex) (./partie_1/1_2_introduction.tex) (./partie_1/1_3_introduction.tex) (./partie_2/2_1_etude.tex
-<Ressources/Universite_Paris-Cite-logo.jpeg, id=103, 389.455pt x 118.4425pt>
+<Ressources/Universite_Paris-Cite-logo.jpeg, id=108, 389.455pt x 118.4425pt>
 File: Ressources/Universite_Paris-Cite-logo.jpeg Graphic file (type jpg)
 <use Ressources/Universite_Paris-Cite-logo.jpeg>
 Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 6.
@@ -518,12 +518,12 @@ File: Ressources/Universite_Paris-Cite-logo.jpeg Graphic file (type jpg)
 Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 10.
 (pdftex.def)             Requested size: 85.35826pt x 25.95802pt.
  [3]) (./partie_2/2_5_etude.tex) (./partie_2/2_6_etude.tex
-<Ressources/IMG_0552.png, id=119, 1022.82124pt x 813.0375pt>
+<Ressources/IMG_0552.png, id=124, 1022.82124pt x 813.0375pt>
 File: Ressources/IMG_0552.png Graphic file (type png)
 <use Ressources/IMG_0552.png>
 Package pdftex.def Info: Ressources/IMG_0552.png  used on input line 7.
 (pdftex.def)             Requested size: 284.52756pt x 226.16023pt.
-<Ressources/Fig. 1 JPEG-1.png, id=120, 702.625pt x 871.255pt>
+<Ressources/Fig. 1 JPEG-1.png, id=125, 702.625pt x 871.255pt>
 File: Ressources/Fig. 1 JPEG-1.png Graphic file (type png)
 <use Ressources/Fig. 1 JPEG-1.png>
 Package pdftex.def Info: Ressources/Fig. 1 JPEG-1.png  used on input line 15.
@@ -539,7 +539,7 @@ File: Ressources/Universite_Paris-Cite-logo.jpeg Graphic file (type jpg)
 Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 89.
 (pdftex.def)             Requested size: 85.35826pt x 25.95802pt.
  [5 <./Ressources/IMG_0552.png> <./Ressources/Fig. 1 JPEG-1.png>] (./partie_3/3_2_experience.tex) (./partie_3/3_3_experience.tex
-<Ressources/nuage_sans_noms.png, id=135, 1127.412pt x 570.933pt>
+<Ressources/nuage_sans_noms.png, id=140, 1127.412pt x 570.933pt>
 File: Ressources/nuage_sans_noms.png Graphic file (type png)
 <use Ressources/nuage_sans_noms.png>
 Package pdftex.def Info: Ressources/nuage_sans_noms.png  used on input line 19.
@@ -549,17 +549,17 @@ File: Ressources/Universite_Paris-Cite-logo.jpeg Graphic file (type jpg)
 Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 25.
 (pdftex.def)             Requested size: 85.35826pt x 25.95802pt.
  [6]
-<Ressources/diagr_sans_noms_mosn.png, id=142, 1248.8256pt x 722.7pt>
+<Ressources/diagr_sans_noms_mosn.png, id=147, 1248.8256pt x 722.7pt>
 File: Ressources/diagr_sans_noms_mosn.png Graphic file (type png)
 <use Ressources/diagr_sans_noms_mosn.png>
 Package pdftex.def Info: Ressources/diagr_sans_noms_mosn.png  used on input line 37.
 (pdftex.def)             Requested size: 369.88582pt x 214.0548pt.
-<Ressources/nuage_de_mots-Corneille.png, id=143, 1127.412pt x 570.933pt>
+<Ressources/nuage_de_mots-Corneille.png, id=148, 1127.412pt x 570.933pt>
 File: Ressources/nuage_de_mots-Corneille.png Graphic file (type png)
 <use Ressources/nuage_de_mots-Corneille.png>
 Package pdftex.def Info: Ressources/nuage_de_mots-Corneille.png  used on input line 49.
 (pdftex.def)             Requested size: 426.79134pt x 216.12917pt.
-<Ressources/corneille_digramme.png, id=144, 1248.8256pt x 722.7pt>
+<Ressources/corneille_digramme.png, id=149, 1248.8256pt x 722.7pt>
 File: Ressources/corneille_digramme.png Graphic file (type png)
 <use Ressources/corneille_digramme.png>
 Package pdftex.def Info: Ressources/corneille_digramme.png  used on input line 56.
@@ -579,65 +579,69 @@ File: Ressources/Universite_Paris-Cite-logo.jpeg Graphic file (type jpg)
 Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 61.
 (pdftex.def)             Requested size: 85.35826pt x 25.95802pt.
  [8 <./Ressources/nuage_de_mots-Corneille.png> <./Ressources/corneille_digramme.png>]
-<Ressources/Dendo_eucli.png, id=162, 1039.885pt x 928.46875pt>
+<Ressources/Dendo_eucli.png, id=167, 1039.885pt x 928.46875pt>
 File: Ressources/Dendo_eucli.png Graphic file (type png)
 <use Ressources/Dendo_eucli.png>
-Package pdftex.def Info: Ressources/Dendo_eucli.png  used on input line 111.
+Package pdftex.def Info: Ressources/Dendo_eucli.png  used on input line 109.
 (pdftex.def)             Requested size: 426.79134pt x 381.05717pt.
 File: Ressources/Universite_Paris-Cite-logo.jpeg Graphic file (type jpg)
 <use Ressources/Universite_Paris-Cite-logo.jpeg>
-Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 116.
+Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 114.
 (pdftex.def)             Requested size: 85.35826pt x 25.95802pt.
  [9]
 File: Ressources/Universite_Paris-Cite-logo.jpeg Graphic file (type jpg)
 <use Ressources/Universite_Paris-Cite-logo.jpeg>
-Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 116.
+Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 114.
 (pdftex.def)             Requested size: 85.35826pt x 25.95802pt.
  [10 <./Ressources/Dendo_eucli.png>]
-<Ressources/Dendo_cos.png, id=173, 1460.45625pt x 1016.79875pt>
+<Ressources/Dendo_cos.png, id=178, 1460.45625pt x 1016.79875pt>
 File: Ressources/Dendo_cos.png Graphic file (type png)
 <use Ressources/Dendo_cos.png>
-Package pdftex.def Info: Ressources/Dendo_cos.png  used on input line 119.
+Package pdftex.def Info: Ressources/Dendo_cos.png  used on input line 117.
 (pdftex.def)             Requested size: 426.79134pt x 297.12929pt.
 File: Ressources/Universite_Paris-Cite-logo.jpeg Graphic file (type jpg)
 <use Ressources/Universite_Paris-Cite-logo.jpeg>
-Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 124.
+Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 122.
 (pdftex.def)             Requested size: 85.35826pt x 25.95802pt.
  [11 <./Ressources/Dendo_cos.png>]
-<Ressources/Dendo_Jacard.png, id=180, 1228.59pt x 927.465pt>
+<Ressources/Dendo_Jacard.png, id=185, 1228.59pt x 927.465pt>
 File: Ressources/Dendo_Jacard.png Graphic file (type png)
 <use Ressources/Dendo_Jacard.png>
-Package pdftex.def Info: Ressources/Dendo_Jacard.png  used on input line 127.
+Package pdftex.def Info: Ressources/Dendo_Jacard.png  used on input line 125.
 (pdftex.def)             Requested size: 426.79134pt x 322.18347pt.
 File: Ressources/Universite_Paris-Cite-logo.jpeg Graphic file (type jpg)
 <use Ressources/Universite_Paris-Cite-logo.jpeg>
-Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 132.
+Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 130.
 (pdftex.def)             Requested size: 85.35826pt x 25.95802pt.
  [12 <./Ressources/Dendo_Jacard.png>]) (./partie_3/3_4_experience.tex)
+Overfull \hbox (1.46791pt too wide) in paragraph at lines 114--115
+[]\T1/cmr/m/n/10 https ://www.radiofrance.fr/franceculture/deux-chercheurs-prouvent-que-corneille-n-a-pas-ecritles-pieces-
+ []
+
 File: Ressources/Universite_Paris-Cite-logo.jpeg Graphic file (type jpg)
 <use Ressources/Universite_Paris-Cite-logo.jpeg>
-Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 107.
+Package pdftex.def Info: Ressources/Universite_Paris-Cite-logo.jpeg  used on input line 118.
 (pdftex.def)             Requested size: 85.35826pt x 25.95802pt.
- [13] (Compile/Rapport.aux)
+[13] (Compile/Rapport.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: AA8E84024B89556DB46DAA27F6BD4A03;4465.
+(rerunfilecheck)             Checksum: 8B6EFDA17F4EF615ABA4D3CEAAEFC34F;4576.
  ) 
 Here is how much of TeX's memory you used:
- 13460 strings out of 476025
- 210548 string characters out of 5790017
+ 13462 strings out of 476025
+ 210572 string characters out of 5790017
  1864388 words of memory out of 5000000
- 33634 multiletter control sequences out of 15000+600000
+ 33635 multiletter control sequences out of 15000+600000
  527625 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,76p,774b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on Compile/Rapport.pdf (14 pages, 59724003 bytes).
+Output written on Compile/Rapport.pdf (14 pages, 59725423 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 205 compressed objects within 3 object streams
- 40 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 278 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 195 words of extra memory for PDF output out of 10000 (max. 10000000)
 
